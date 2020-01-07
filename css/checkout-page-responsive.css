@@ -1,0 +1,666 @@
+@media (min-width: 992px) and (max-width: 1180px){
+.container {
+    width: 100%;
+    padding: 0 60px;
+} 
+.infomation-form input.form-style {
+	width: 100%;
+}
+.started-kit-row {
+    border-bottom: 2px solid #cfcecf;
+}
+.discount-row {
+    border-bottom: 2px solid #cfcecf;
+}
+.switch-btn .slider {
+    background-color: #dbdbdb;
+}
+.left-bar-row {
+    width: 62%;
+    border-right: 0;
+}
+.last-name-row {
+    width: 50%;
+}
+.first-name-row {
+    width: 50%;
+    padding-right: 0;
+}
+.street-address-row {
+    width: 100%;
+}
+input.city {
+    width: 100%;
+}
+input.state {
+    width: 100%;
+    
+}
+.city-css.state-css {
+    width: 23.5% !important;
+    float: left;
+}
+input.zipcode {
+    width: 100%;
+}
+.money-back h3 {
+    float: left;
+}
+.money-back-row {
+    padding: 4px 16px 16px 23px;
+}
+.email-row {
+    width: 50%;
+    padding-right: 0;
+}
+.money-back p {
+    width: 100%;
+    display: inline-block;
+}
+.money-back {
+    width: 100%;
+    padding-top: 20px;
+}
+.phone-row {
+    width: 50%;
+}
+.card-number1 input.card-style {
+    width: 100%;
+}
+.secure-row {
+    width: 100%;
+}
+.right-bar-row {
+    width: 35%;
+}
+.place-order-row p {
+    width: 100%;
+}
+.place-order-row button {
+    width: 100%;
+}
+.monet-back-logo{
+    display: none;
+}
+.monet-back-media {
+    width: 82px;
+    display: block;
+    float: right;
+}
+.finally-text {
+    width: 100%;
+}
+.left-kit {
+    width: 60px;
+}
+.started-heading p {
+    margin: 7px 0 0 13px;
+}
+.doller-discount p, .kit-doller p, .total-ammount span {
+    margin-right: 10px;
+}
+.right-row-border {
+    display: inline-block;
+    border-left: 2px solid #e4e4e4;
+    padding-left: 28px;
+}
+.main-heading-delivery-media{
+    display: none;
+}
+.money-back-row-media{
+    display: none;
+}
+.monet-back-media1{
+    display: none;
+}
+.promo-code-media{
+    display: none;
+}
+.money-back-row-media11{
+    display: none;
+}
+.city-row-div {
+    float: none;
+}
+.city-row-div.city-css {
+    width: 45%;
+    float: left;
+}
+.city-row-div.zip-css {
+    width: 24%;
+    float: right;
+}
+.card-number-div {
+    float: left;
+    width: 30.8%;
+}
+.place-order-row.place-order-mobile-row{
+    display: none;
+}
+.thankyou-inner {
+    display: block;
+}
+.main-heading-delivery {
+    margin: 57px 0 25px 0px;
+}
+}
+/*-----------end-(min-width: 992px) and (max-width: 1180px)-------------*/
+
+/*-----------start-(min-width: 768px) and (max-width: 991px)-------------*/
+
+@media (min-width: 768px) and (max-width: 991px){
+.container {
+    width: 100%;
+}
+.checkout-full-row {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.main-heading-delivery-media{
+    display: block !important;
+}
+.main-heading-delivery{
+    display: none;
+}
+.finally-text {
+    width: 100%;
+}
+.eugent-star-row {
+    width: 100%;
+    display: inline-block;
+}
+.money-back-row-media{
+    display: block !important;
+}
+.money-back-row{
+    display: none;
+}
+.main-logo {
+    margin: 51px 0 35px 80px;
+}
+.right-bar-row {
+    width: 100%;
+    padding: 0;
+    margin-right: 0px;
+    padding: 0 96px 45px 96px;
+    border-bottom: 1px solid #e4e4e4;
+}
+.main-heading-delivery {
+    margin: 35px 0 25px 0px;
+}
+.left-bar-row {
+    width: 100%;
+    border-right: 0;
+    padding: 0 96px;
+}
+.first-name-row {
+    width: 50%;
+    padding-right: 0px;
+}
+.last-name-row {
+    width: 50%;
+}
+.first-name-row {
+    width: 50%;
+    padding-right: 0;
+}
+.street-address-row {
+    width: 100%;
+}
+input.city {
+    width: 100%;
+}
+input.state {
+    width: 100%;
+    margin: 0 10px;
+}
+input.zipcode {
+    width: 100%;
+}
+.city-row-div {
+    width: 32%;
+    margin-right: 5px;
+}
+.email-row {
+    width: 50%;
+    padding-right: 0px;
+}
+.zip-css {
+    margin-left: 19px !important;
+    margin-right: 0px !important;
+    width: 30%;
+}
+.phone-row {
+    width: 50%;
+}
+.money-back-row-media {
+    display: inline-block !important;
+    margin: 18px 0 37px 0;
+}
+.monet-back-logo {
+    width: 131px;
+}
+.money-back-row {
+    display: none;
+}
+.money-back {
+    width: 100%;
+}
+.monet-back-logo {
+    float: left;
+}
+.money-back {
+    width: 70%;
+    float: right;
+}
+.secure-row {
+    width: 100%;
+}
+.card-number1 input.card-style {
+    width: 100%;
+}
+.card-number-div {
+    width: 31%;
+}
+.card-margin {
+    margin-right: 20px;
+}
+.finally-footer {
+    padding: 46px 80px;
+}  
+.switch-btn .slider {
+    background-color: #dbdbdb;
+}   
+.money-back br {
+    display: none;
+}
+.money-back p {
+    width: 300px;
+}
+.money-back-row {
+    padding: 14px 16px 21px 30px;
+}
+.city-row {
+    display: inline-block;
+}
+.monet-back-media1{
+    display: none;
+}
+.promo-code-media{
+    display: none;
+}
+.money-back-row-media11{
+    display: none;
+}
+.discount-row {
+    border-bottom: 2px solid #dbdbda;
+}
+.city-row-div.zip-css {
+    float: right;
+}
+.started-heading {
+    margin-left: 1px;
+    width: 49%;
+}
+.place-order-row.place-order-mobile-row{
+    display: none;
+}
+.thankyou-inner {
+    display: block;
+}
+}
+/*-----------end-(min-width: 768px) and (max-width: 959px)-------------*/
+
+/*-----------start-(max-width: 959px)-------------*/
+
+@media (max-width: 767px){
+.container {
+    width: 100%;
+}
+
+.thankyou-inner {
+    display: block !important;
+}
+.place-order-mobile-row {
+    margin-bottom: 37px;
+    display: inline-block !important;
+    width: 100%;
+    margin-top: 0;
+}
+.started-heading p {
+	width: 195px;
+}
+.place-order-row{
+    display: none;
+}
+.left-bar-media{
+    background: #f0eceb;
+    padding: 0 20px;
+}
+.thankyou-inner h2 {
+    font-size: 25px;
+}
+.main-heading-delivery-media{
+    display: block !important;
+}
+.main-heading-delivery{
+    display: none;
+}
+.finally-text {
+    width: 100%;
+}
+.eugent-star-row {
+    width: 100%;
+    display: inline-block;
+}
+.billing-info-media {
+    background: #f0eceb;
+    padding: 0 20px 30px 20px;
+}
+.money-back-row-media{
+    display: block !important;
+}
+.card-style1 {
+    float: left !important;
+}
+.card-style3 {
+    float: right !important;
+}
+.money-back-row{
+    display: none;
+}
+.main-logo {
+    margin: 22px 0 35px 0px;
+    text-align: center;
+    border-bottom: 1px solid #e0e0df;
+    padding: 0 0 23px 0;
+}
+.place-order-row button {
+    width: 100%;
+}
+.right-bar-row {
+    width: 100%;
+    padding: 0;
+    margin-right: 0px;
+    padding: 0 20px 45px 20px;
+    border-bottom: 1px solid #e4e4e4;
+}
+.main-heading-delivery {
+    margin: 0px 0 0px 0px;
+    display: none;
+    padding: 30px 0 0 0;
+}
+.left-bar-row {
+    width: 100%;
+    border-right: 0;
+    padding: 0 20px 28px 20px;
+    display: inline-block;
+    background: #fff;
+}
+.main-heading-billing {
+    margin: 0px 0 0 0;
+    padding: 20px 0 0 0;
+}
+.first-name-row {
+    width: 100%;
+    padding-right: 0px;
+}
+.last-name-row {
+    width: 100%;
+}
+.first-name-row {
+    width: 100%;
+    padding-right: 15px;
+}
+.street-address-row {
+    width: 100%;
+}
+input.city {
+    width: 100%;
+}
+input.state {
+    width: 33%;
+    margin: 0px;
+    float: right;
+}
+input.zipcode {
+    width: 100%;
+}
+.city-row {
+    display: inline-block;
+    width: 100%;
+}
+.email-row {
+    width: 100%;
+    padding-right: 15px;
+}
+.phone-row {
+    width: 100%;
+}
+.money-back-row-media {
+    display: none !important;
+    margin: 40px 0px 37px 0px;
+    padding: 0 20px !important;
+}
+.card-number-div .text-danger, .text-danger {
+    text-align: left;
+	z-index: 0;
+}
+.monet-back-logo {
+    width: 131px;
+}
+.money-back-row {
+    display: none;
+}
+.money-back {
+    width: 100%;
+}
+.monet-back-logo {
+    float: left;
+    display: none;
+}
+.money-back {
+    width: 100%;
+    float: right;
+}
+.secure-row {
+    width: 100%;
+    text-align: center;
+}
+.card-number1 {
+    text-align: center;
+}
+.card-number1 input.card-style {
+    width: 100%;
+    display: inline-block;
+    float: none;
+    padding: 10px 15px;
+}  
+.infomation-form input.form-style {
+    padding: 10px 15px;
+}
+.finally-footer {
+    padding: 40px 5px;
+} 
+.switch-btn .slider {
+    background-color: #dbdbdb;
+}   
+.money-back br {
+    display: none;
+}
+.poweredby img {
+    float: none;
+    display: inline-block;
+}
+.poweredby {
+    top: 0px;
+    width: 100%;
+}
+.money-back p {
+    width: 100%;
+}
+.money-back-row {
+    padding: 0;
+    border: 0;
+}  
+.font-placeholder::placeholder {
+    font-size: 18px !important;
+    padding: 10px 0px;
+}
+.font-placeholder::-webkit-input-placeholder {
+    font-size: 18px !important;
+    padding: 10px 0px;
+}
+.font-placeholder:-ms-input-placeholder {
+    font-size: 18px !important;
+    padding: 10px 0px;
+}
+.street-address textarea {
+    padding: 10px 15px;
+}
+.card-number input.form-style {
+    padding: 10px 15px;
+}
+.monet-back-media1{
+    text-align: center;
+}
+.monet-back-media1 img{
+    display: inline-block;
+}
+.monet-back-media{
+    display: none;
+}
+.left-kit {
+    float: left;
+    width: 50px;
+}
+.started-heading p {
+    margin: 0px 0 0 13px;
+}
+.kit-doller p {
+    margin-top: 7px;
+    margin-right: 0px;
+}
+.doller-discount p {
+    margin-right: 0px;
+}
+.total-ammount span {
+    margin-right: 0px;
+}
+.main-logo img {
+    display: inline-block;
+}
+.city-css {
+    width: 60%;
+}
+.state-css {
+    width: 33% !important;
+    margin-right: 0px;
+    float: right;
+}
+.zip-css { width: 100%;}
+input.city {
+    width: 100%;
+}
+input.state { width: 100%; }
+.promo-code-media{
+    display: block !important;
+}
+.city-row-div.city-css {
+    width: 63%;
+}
+.promo-code-row{
+    display: none;
+}
+.discount-row {
+    border-bottom: 0;
+}
+.money-back-media-mobile{
+    display: block;
+}
+.monet-back-media-mobile {
+    text-align: center;
+}
+.monet-back-media-mobile img{
+    display: inline-block;
+}
+
+.card-number-div {
+    width: 48.50%;
+    display: inline-block;
+    float: none;
+}
+.started-kit-row {
+    border-bottom: 2px solid #dbdbda;
+}
+input#cc_expire.card-style2 {
+    float: left;
+}
+.card-number-div.card-margin {
+    float: left;
+    margin-right: 24px;
+}
+.card-number-div.card-margin2{
+    margin-right: 0px;
+}
+.card-number-div.card-margin3 {
+    float: right;
+    margin-right: 0px;
+}
+.card-margin2 {
+    float: none;
+    margin: 0;
+}
+}
+
+/*-----------end-(max-width: 767px)-------------*/
+/*-----------start-(max-width: 540px)-------------*/
+
+@media (max-width: 540px){  
+.city-row-div.city-css {
+    width: 62%;
+}
+.card-number-div.card-margin {
+    width: 48%;
+}
+.card-number-div {
+    width: 48%;
+}
+}
+
+/*-----------end-(max-width: 540px)-------------*/
+
+/*-----------start-(max-width: 480px)-------------*/
+
+@media (max-width: 480px){
+.card-number1 input.card-style {
+    width: 100%;
+    margin-right: 0px;
+}  
+.city-row-div.city-css {
+    width: 61%;
+}
+.card-number-div.card-margin {
+    width: 48%;
+}
+.started-heading {
+    width: 52%;
+}
+.right-bar-row {
+    padding: 0 20px 19px 20px;
+}
+}
+/*-----------end-(max-width: 480px)-------------*/
+
+/*-----------start-(max-width: 380px)-------------*/
+
+@media (max-width: 380px){  
+.city-row-div.city-css {
+    width: 59%;
+}
+.card-number-div.card-margin {
+    width: 48%;
+}
+}
+
+/*-----------end-(max-width: 380px)-------------*/

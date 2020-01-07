@@ -1,0 +1,24 @@
+@font-face {
+font-family: 'Brandon';
+src: url("../BrandonGrotesque-Regular.1f55925e52b9.otf") format('truetype');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'Brandon';
+src: url("../BrandonGrotesque-Bold.fa11c3ca7b23.otf") format('truetype');
+font-weight: 600;
+font-style: normal;
+}
+@font-face {
+font-family: 'Brandon';
+src: url("../BrandonGrotesque-Black.c10f15f179ff.otf") format('truetype');
+font-weight: 900;
+font-style: normal;
+}
+@font-face {
+font-family: 'Brandon';
+src: url("../BrandonText-Light.95fd2a9cd47e.otf") format('truetype');
+font-weight: 100;
+font-style: normal;
+}

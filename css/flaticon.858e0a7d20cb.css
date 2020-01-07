@@ -1,0 +1,83 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 27/04/2017 06:01
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.b45f78eb10c8.eot");
+  src: url("../fonts/Flaticon.b45f78eb10c8.eot#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.fc07b86bee60.woff") format("woff"),
+       url("../fonts/Flaticon.1e7907fceb2d.ttf") format("truetype"),
+       url("../fonts/Flaticon.4618b7d3d5bb.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.4618b7d3d5bb.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-leaf:before { content: "\f100"; }
+.flaticon-sugar:before { content: "\f101"; }
+.flaticon-minus:before { content: "\f102"; }
+.flaticon-ball-1:before { content: "\f103"; }
+.flaticon-milk-box:before { content: "\f104"; }
+.flaticon-competition:before { content: "\f105"; }
+.flaticon-hurdle-race:before { content: "\f106"; }
+.flaticon-rugby-player:before { content: "\f107"; }
+.flaticon-gymnast:before { content: "\f108"; }
+.flaticon-water-polo-game:before { content: "\f109"; }
+.flaticon-swimming-figure:before { content: "\f10a"; }
+.flaticon-ball:before { content: "\f10b"; }
+.flaticon-football:before { content: "\f10c"; }
+.flaticon-tennis:before { content: "\f10d"; }
+.flaticon-volleyball:before { content: "\f10e"; }
+.flaticon-basketball:before { content: "\f10f"; }
+.flaticon-rugby:before { content: "\f110"; }
+.flaticon-baseball:before { content: "\f111"; }
+.flaticon-puck:before { content: "\f112"; }
+.flaticon-medal:before { content: "\f113"; }
+.flaticon-medical:before { content: "\f114"; }
+.flaticon-male-silhouette-variant-showing-muscles:before { content: "\f115"; }
+.flaticon-dumbbell-training:before { content: "\f116"; }
+.flaticon-arm-muscles-silhouette:before { content: "\f117"; }
+.flaticon-calories:before { content: "\f118"; }
+.flaticon-protein-shake-bottle-container:before { content: "\f119"; }
+.flaticon-scales:before { content: "\f11a"; }
+.flaticon-hamburguer-drink-with-straw:before { content: "\f11b"; }
+.flaticon-man-practicing-exercise:before { content: "\f11c"; }
+.flaticon-circle:before { content: "\f11d"; }
+.flaticon-four-dots-horizontally-aligned-as-a-line:before { content: "\f11e"; }
+.flaticon-flickr-logo-of-two-dots:before { content: "\f11f"; }
+.flaticon-correct-symbol:before { content: "\f120"; }
+.flaticon-forbidden-mark:before { content: "\f121"; }
+.flaticon-strawberry:before { content: "\f122"; }
+.flaticon-Vanilla:before { content: "\f123"; }
+.flaticon-Chocolate:before { content: "\f124"; }
+.flaticon-proteins:before { content: "\f125"; }
+.flaticon-beans:before { content: "\f126"; }
+.flaticon-gluten:before { content: "\f127"; }
+.flaticon-soy-sauce:before { content: "\f128"; }
+.flaticon-broccoli:before { content: "\f129"; }
+.flaticon-pear:before { content: "\f12a"; }
+.flaticon-sleeping-bed-silhouette:before { content: "\f12b"; }
+.flaticon-man-waking-up-on-morning-sitting-on-bed-stretching-his-arms:before { content: "\f12c"; }
+.flaticon-stretching:before { content: "\f12d"; }
+.flaticon-man-lifting-weights:before { content: "\f12e"; }
+.flaticon-yoga-1:before { content: "\f12f"; }
+.flaticon-girl-dancing:before { content: "\f130"; }
+.flaticon-yoga:before { content: "\f131"; }
+
+.flaticon-keto:before { content: "\f200"; }

@@ -1,0 +1,339 @@
+body,
+html {
+    background: #fff
+}
+
+.mission-card > p {
+    font-size: 17px;
+}
+
+.flavor-icons {
+    width: 80%;
+    margin: auto;
+}
+
+.flav-explain-pic {
+    width: 30%;
+    min-width: 120px;
+}
+
+.flav-explain-contain {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#flavor-gif{
+    width: 100%;
+    right: -10px;
+    position: relative;
+    margin-bottom: 100px;
+    margin-top: 150px;
+}
+
+#keto-pic {
+    max-width: 700px;
+    margin: auto;
+    margin-top: 110px;
+    width: 100%;
+    display: block;
+}
+
+.mission-pic {
+    background: url("../images/mission.6a95e0c43edd.jpg") -29px -44px no-repeat;
+    background-position: bottom 0px right 50%;
+    z-index: 0;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.cookie-pic {
+    background: url("../images/c%26c_spill.4a7de62fd792.png");
+    z-index: 0;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.cake-pic {
+    background: url("../images/cake.9970f835dfb5.jpg");
+    z-index: 0;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+
+.arrow-down {
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    font-size: 32px;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    bottom: 15px;
+}
+
+.mission-title {
+    top: 30%;
+    left: 10%;
+    position: absolute;
+    max-width: 400px;
+}
+
+.cookies-title {
+    top: 6vw;
+    left: 50px;
+    position: relative;
+    width: 90%;
+}
+
+.mission-header {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.we-believe {
+    padding-top: 120px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.mission-panel {
+    padding: 50px 5% !important;
+}
+
+.mission-text {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.dig {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+
+.block {
+    height: 100%
+}
+
+#orange {
+    height: 30%!important
+}
+
+.mission-card {
+    margin-top: -50px;
+    padding: 30px;
+    border: solid 1px grey;
+    border-bottom: 8px solid rgba(119, 180, 255, 0.35);
+    background-color: white;
+    min-height: 420px;
+    max-width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+
+}
+
+.card-header {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+
+@media only screen and (max-width:905px) {
+    .top-links {
+        margin-right: 30px
+    }
+
+/*    .navbar-right {
+    float: right!important;
+    margin-right: -50px !important;
+}*/
+}
+
+@media only screen and (max-width:900px) {
+    #keto-pic {
+        margin-top: 100px
+    }
+
+/*    .navbar-right {
+    float: right!important;
+    margin-right: -50px !important;
+}*/
+}
+
+
+@media screen and (max-width:601px) {
+/*    .mission-title {
+        top: 15%;
+        left: 10%;
+        position: absolute;
+        max-width: 400px;
+    }*/
+    .mission-pic {
+        display: none;
+    }
+
+    .flav-explain-pic {
+        margin-top: 50px;
+    }
+    #flav-explain-row {
+        margin-top: -50px !important;
+    }
+
+    #flavor-gif {
+        margin-bottom: 0px;
+    }
+
+    .block {
+        height: 200%
+    }
+    .orange {
+        height: 100%!important
+    }
+    .statement {
+        font-size: 14px!important
+    }
+}
+
+@media screen and (max-width:350px) {
+    .mission-title {
+        /*top: 10%;*/
+        left: 10%;
+        position: absolute;
+        max-width: 400px;
+    }
+}
+
+@media (max-width:776px) {
+    .hide-on-custom-small-only {
+        display: none!important
+    }
+    .we-believe {
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+}
+
+        .videoWrapper {
+          position: relative;
+          padding-top: 25px;
+          margin-bottom: 200px;
+          text-align: center;
+
+        }
+        .videoWrapper iframe {
+          position: relative;
+          z-index: 3;
+          max-width: 800px;
+          max-height: 450px;
+          width: 70vw;
+          height: 40vw;
+        }
+
+
+        
+
+        @media only screen and (max-width:600px) {
+       
+
+        .videoWrapper iframe {
+          width: 95vw;
+          height: 55vw;
+        }
+        }
+
+
+
+.sticky {
+    width: 100px;
+    height: 200px;
+    background: rgba(0, 0, 0, .2)
+}
+
+.pin-bottom,
+.pin-top {
+    position: relative
+}
+
+.pinned {
+    position: fixed!important
+}
+
+
+
+.blue_statement {
+    padding-top: 50px
+}
+
+@media (min-width:1000px) {
+    .statement {
+        font-size: 20px!important
+    }
+
+
+}
+
+.title {
+    background: white;
+}
+
+#blue {
+    background: url("../images/begin.006e2c5bc5ef.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+#red {
+    background: url("../images/pro.a9bcf69ac450.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+#green {
+    background: url("../images/bagNbottle.ed43ef326160.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+.text-field {
+    background: rgba(255, 255, 255, .9);
+    padding: 10px;
+    border-radius: 10px
+}
+
+.statement {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 2vmax;
+    line-height: 200%
+}
+
+
+.visually-hidden {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0
+}
+
+.typed-cursor {
+    opacity: 0;
+    font-weight: 100
+}

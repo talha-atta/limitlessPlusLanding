@@ -1,0 +1,3344 @@
+@media (min-width: 992px) and (max-width: 1180px) {
+select#del_state {
+    width: 126px;
+}
+#bill_state {
+    width: 126px;
+}
+.text-danger {
+    display: inline-block;
+    z-index: 0;
+}
+	.ingredient-page {
+		background: #fff;
+	}
+	.main-menu-inner ul li {
+		margin: 0 36px 0 0;
+	}
+	.text-center.assess-first {
+		padding: 10px !important;
+	}
+	.mob-read-more {
+		display: none;
+	}
+	.formula-accord.faq-section .panel-title a > span {
+		float: right;
+		width: 94%;
+	}
+	.product-page .main-menu-inner ul li {
+		margin: 0 36px 0 0;
+	}
+	.founder-text {
+		margin-bottom: 35px;
+	}
+	.goal-score-container {
+		float: none;
+		display: inline-block;
+	}
+	.goal-score-container:last-child {
+		margin-right: 36px;
+	}
+	/*start-ingredient*/
+	.container-ingredient {
+		width: 100%;
+		padding: 0 20px;
+	}
+	.readmore {
+		display: block;
+	}
+	.link-bttn {
+		position: absolute;
+		right: 0;
+		top: 0px;
+		font-size: 23px;
+		color: #999;
+	}
+	.effective-row p {
+		font-size: 18px;
+		width: auto;
+		color: #fff;
+	}
+	.left-tab-row.stick {
+		width: 30.33%;
+	}
+	.ingredient-page {
+		background: #fff;
+	}
+	.piracetam p {
+		text-align: left;
+		margin-top: 20px;
+	}
+	.piracetam {
+		text-align: center;
+	}
+	.ingredient-page .tab-content {
+		padding-left: 15px;
+	}
+	.effective-row h1 {
+		font-size: 32px;
+	}
+	.reference-links {
+		width: auto;
+	}
+	.reference-links span {
+		float: left;
+		margin-bottom: 15px;
+	}
+	.reference-links p {
+		margin: 0;
+	}
+	/*end-ingredient*/
+	/*start-result*/
+	.mob-viewresult {
+		display: none;
+	}
+	.result-box-row {
+		padding: 0 27px 0px 0;
+	}
+	.inside-right-row {
+		float: right;
+		width: 52%;
+	}
+	.inside-box-bg {
+		margin-bottom: 0px;
+	}
+	.inside-box-bg {
+		background: #fff;
+	}
+	.result-slider-bg .result-title h2 {
+		margin: 33px 0px 50px;
+	}
+	section.achieve-bg {
+		background: #fff;
+	}
+	.inside-box-row {
+		padding: 45px 4px 25px;
+		display: inline-block;
+		width: 100%;
+	}
+	.container-result {
+		width: 100% !important;
+	}
+	/*end-result*/
+	.container {
+		width: 100%;
+		padding: 0 60px;
+	}
+	.switch-btn .slider {
+		background-color: #dbdbdb;
+	}
+	.left-bar-row {
+		width: 62%;
+		border-right: 0;
+	}
+	.last-name-row {
+		width: 50%;
+	}
+	.first-name-row {
+		width: 50%;
+		padding-right: 0;
+	}
+	.street-address-row {
+		width: 100%;
+	}
+	input.city {
+		width: 45%;
+	}
+	input.state {
+		width: 27.5%;
+		margin: 0 19px;
+	}
+	input.zipcode {
+		width: 20%;
+	}
+	.money-back h3 {
+		float: left;
+	}
+	.money-back-row {
+		padding: 4px 16px 16px 23px;
+	}
+	.email-row {
+		width: 50%;
+		padding-right: 0;
+	}
+	.money-back p {
+		width: 100%;
+		display: inline-block;
+	}
+	.money-back {
+		width: 100%;
+		padding-top: 20px;
+	}
+	.phone-row {
+		width: 50%;
+	}
+	.card-number1 input.card-style {
+		width: 31%;
+	}
+	.secure-row {
+		width: 100%;
+	}
+	.right-bar-row {
+		width: 35%;
+	}
+	.place-order-row p {
+		width: 100%;
+	}
+	.place-order-row button {
+		width: 100%;
+	}
+	.monet-back-logo {
+		display: none;
+	}
+	.monet-back-media {
+		width: 82px;
+		display: block;
+		float: right;
+	}
+	.finally-text {
+		width: 100%;
+	}
+	.left-kit {
+		width: 60px;
+	}
+	.started-heading p {
+		margin: 7px 0 0 13px;
+	}
+	.doller-discount p,
+	.kit-doller p,
+	.total-ammount span {
+		margin-right: 10px;
+	}
+	.right-row-border {
+		display: inline-block;
+		border-left: 1px solid #e4e4e4;
+		padding-left: 28px;
+	}
+	.main-heading-delivery-media {
+		display: none;
+	}
+	.money-back-row-media {
+		display: none;
+	}
+	.monet-back-media1 {
+		display: none;
+	}
+	.promo-code-media {
+		display: none;
+	}
+	.money-back-row-media11 {
+		display: none;
+	}
+	.card-number1 input.card-style {
+		margin-right: 19px;
+	}
+	/*start-home-6-3-2019*/
+	.formula-kit.pull-right {
+		width: 50%;
+	}
+	.formula-kit img {
+		height: auto;
+		float: none;
+		display: inline-block;
+		margin: 0;
+	}
+	.data-users-inner {
+		padding-left: 10px;
+	}
+	.user-ages p {
+		width: auto;
+	}
+	.formula-kit {
+		height: 327px;
+		padding-top: 95px;
+	}
+	.specific-inner p {
+		margin: 17px 10px 0 0;
+		width: auto;
+	}
+	section.assessment-bg {
+		padding: 70px 0px 55px 0;
+	}
+	section.millions-data-bg {
+		padding: 82px 0 37px 0;
+	}
+	section.medician-bg .text-center {
+		padding: 10px;
+	}
+	section.assessment-bg .text-center {
+		padding: 0;
+	}
+	.specific-row {
+		padding: 140px 0 0 45px;
+		height: 510px;
+	}
+	/*end-home-6-3-2019*/
+
+	/*end-product*/
+	body.product-page {
+		background: #fff;
+	}
+	.footer-inner2.footer-inner {
+		width: 100%;
+	}
+	.footer-inner2 .footer-statement-inner {
+		width: 100%;
+	}
+	.footer-statement {
+		margin-top: 20px;
+	}
+	.star-reviews-inner p {
+		margin: 0px 0 0 10px;
+	}
+	.right-buy-row {
+		margin-left: 0px;
+	}
+	.right-buy-row1 {
+		display: inline-block;
+		margin-top: 20px;
+	}
+	.buy-starter-title {
+		width: 100%;
+	}
+	.get-buy-tab ul li {
+		width: 196px;
+		margin-right: 27px;
+	}
+	.recetams-inner {
+		padding: 0 0 49px 0px;
+	}
+	.recetams-inner ul {
+		width: 100%;
+	}
+	.right-vegan-row {
+		margin-left: 0px !important;
+	}
+	.recetams-inner p {
+		display: none;
+	}
+	.highest-quality-inner {
+		margin-left: 0px;
+	}
+	.product-page .product-money-text {
+		width: 100%;
+		margin: 11px 0 0 0px;
+	}
+	.product-money-back img {
+		display: inline-block;
+	}
+	.product-money-back {
+		float: none;
+		text-align: center;
+	}
+	.product-reviews-row {
+		margin-left: 0px;
+	}
+	.tab-content-tabs {
+		padding: 35px 0 0px 0;
+	}
+	/*start-product*/
+	.mian-header-title {
+		padding-left: 11px;
+		margin-top: 180px;
+	}
+	.container-header {
+		padding: 0 17px;
+	}
+	.header-bg {
+		height: 549px;
+	}
+	.gudbiee {
+		float: right;
+		width: 652px;
+	}
+	.result-slider {
+		width: 100%;
+	}
+	p.connect-title {
+		width: 160px;
+	}
+	.footer-statement-inner {
+		width: 645px;
+		margin-top: 20px;
+		padding-right: 0;
+	}
+	#sidebar-wrapper {
+		display: none;
+	}
+	.product-backmoney .product-money-row {
+		width: 100%;
+	}
+	.mob-ex {
+		display: none;
+	}
+	.container-ingredient-millions {
+		width: 100%;
+		padding: 0 20px;
+	}
+	.container-formula-users {
+		width: 100%;
+	}
+	.breaking-row h2 {
+		margin: 52px auto 23px;
+	}
+	.science-page {
+		background: #fff;
+	}
+	.vegan-row1 .right-vegan-row {
+		margin-left: 0px !important;
+	}
+	.recetams-inner1 {
+		text-align: left;
+	}
+	.formula-accord.formula-accord3 {
+		padding: 0px;
+	}
+	.get-buy-tab {
+		margin: 61px 0 0 18px;
+	}
+	.formula-accord {
+		padding: 0;
+	}
+	.landing-page .container-header {
+		padding: 0 0px;
+	}
+	section.medician-bg .container {
+		padding: 0 20px;
+	}
+	.assessment-inner {
+		padding: 0 16px;
+	}
+	.assessment-inner p {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.stories-page .itout-bg {
+		line-height: 76px !important;
+	}
+}
+/*-----------end-(min-width: 992px) and (max-width: 1180px)-------------*/
+
+/*-----------start-(min-width: 768px) and (max-width: 991px)-------------*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.poweredby {
+    float: left;
+    position: relative;
+    top: 0;
+}
+.text-danger {
+    display: inline-block;
+    z-index: 0;
+}
+select#del_state {
+    width: 168px;
+	margin: 30px 30px;
+}
+#bill_state{
+	width: 168px;
+	margin: 30px 30px;
+}
+.secure-text {
+    float: none;
+}
+.place-order-row.tabletONOFF {
+    display: block;
+	float: right;
+}
+.place-order-row {
+    display: none;
+}
+.tabletONOFF p {
+    display: none;
+}
+	.science-page .Get-starter-bluestrip button {
+		margin: 0 !important;
+	}
+	.stories-page .itout-bg {
+		line-height: 76px !important;
+	}
+	.mob-read-more {
+		display: none;
+	}
+	.product-slider.pull-right {
+		float: left !important;
+	}
+
+	.product-page .product-slider-left {
+		margin-left: 0px !important;
+	}
+	.science-page .recommend-inner {
+		height: 164px;
+	}
+	.science-page .formula-users-row img {
+		width: 100%;
+	}
+	.formula-accord.faq-section .panel-title a > span {
+		width: 93%;
+	}
+	.faq-page .itout-title .find-btn.mian-header-title {
+		padding-right: 30px;
+		padding-bottom: 0;
+		width: auto;
+	}
+	.ingredients-page {
+		background: #fff;
+	}
+	/*start-stories-page*/
+	.container.testimonial-container {
+		width: 100%;
+		padding: 0 45px;
+	}
+	section.personal-bg {
+		padding: 37px 42px 0px 30px;
+	}
+	.stories-page section.personal-bg {
+		padding: 37px 42px 0px 0px !important;
+	}
+	.personal-col:last-child {
+		margin-top: 4px;
+		display: inline-block;
+		width: 100%;
+	}
+	.testimonial-first-slider #quote-carousel {
+		padding: 19px 0px 30px 0px;
+	}
+	.testimonial-2-slider #quote-carousel,
+	.testimonial-3-slider #quote-carousel {
+		padding: 0 0px 30px 0px;
+	}
+	.testimonial-page .itout-title .find-btn.mian-header-title {
+		padding-left: 30px;
+		margin-top: 0;
+		padding-bottom: 16px;
+	}
+	.testimonial-page .itout-bg {
+		height: auto;
+		line-height: 60px;
+	}
+	/*end-stories-page*/
+
+	/*start-about*/
+	.about-page .mian-header-title {
+		margin-top: 124px;
+	}
+	.about-header-bg {
+		height: 471px;
+		background-attachment: inherit;
+	}
+	.container.about-container {
+		width: 100%;
+		padding: 0 35px;
+	}
+	.about-page .contect-withus-text p {
+		font-size: 11px;
+		font-weight: normal;
+	}
+	h3.text-center.always-head {
+		width: 521px;
+		margin: 0px auto;
+	}
+	.founder-heading.text-center {
+		margin: 0 0 20px 0;
+	}
+	h3.text-center.always-head2 {
+		width: 480px;
+	}
+	.about-page {
+		background: #fff;
+	}
+	.about-page .itout-title .find-btn.mian-header-title {
+		margin-top: 0;
+		text-align: center;
+		padding-bottom: 0px;
+		display: inline-block;
+		width: auto;
+		padding-right: 20px;
+	}
+	.founder-text {
+		margin-bottom: 35px;
+	}
+	/*end-about*/
+
+	/*start-result*/
+	.mob-viewresult {
+		display: none;
+	}
+	.inside-box-row {
+		width: 100%;
+	}
+	.result-box-row {
+		padding: 0 0px 1px 52px;
+	}
+	h3.resultformula-name {
+		margin: 25px 0 18px 17px;
+	}
+	.inside-right-row {
+		float: right;
+		width: 52%;
+	}
+	.inside-box-bg {
+		margin-bottom: 0px;
+	}
+	.inside-box-bg {
+		background: #fff;
+	}
+	.result-slider-bg .result-title h2 {
+		margin: 33px 0px 50px;
+	}
+	section.achieve-bg {
+		background: #fff;
+	}
+	.metar-inner {
+		height: 100px;
+	}
+	.inside-box-row {
+		padding: 45px 4px 25px;
+		display: inline-block;
+	}
+	.meet-expert .inside-box-row {
+		display: block;
+	}
+	.meet-expert .inside-box-inner {
+		width: 288px;
+	}
+	.racetams-inner {
+		width: auto;
+		float: left;
+	}
+	/*end-result*/
+	.specific-row {
+		padding: 36px 0 0 20px;
+		height: 355px;
+	}
+	.assessment-inner h3 {
+		margin: 14px 0 11px 0;
+		font-size: 22px;
+		font-weight: 700;
+	}
+	.container {
+		width: 100%;
+	}
+	.main-heading-delivery-media {
+		display: block !important;
+	}
+	.main-heading-delivery {
+		display: none;
+	}
+	.finally-text {
+		width: 100%;
+	}
+	.eugent-star-row {
+		width: 100%;
+		display: inline-block;
+	}
+	.money-back-row-media {
+		display: block !important;
+	}
+	.money-back-row {
+		display: none;
+	}
+	.main-logo {
+		margin: 51px 0 35px 80px;
+	}
+	.right-bar-row {
+		width: 100%;
+		padding: 0;
+		margin-right: 0px;
+		padding: 0 96px 45px 96px;
+		border-bottom: 1px solid #e4e4e4;
+	}
+	.main-heading-delivery {
+		margin: 35px 0 25px 0px;
+	}
+	.left-bar-row {
+		width: 100%;
+		border-right: 0;
+		padding: 0 96px;
+	}
+	.first-name-row {
+		width: 50%;
+		padding-right: 0px;
+	}
+	.last-name-row {
+		width: 50%;
+	}
+	.first-name-row {
+		width: 50%;
+		padding-right: 0;
+	}
+	.street-address-row {
+		width: 100%;
+	}
+	input.city {
+		width: 45.2%;
+	}
+	input.state {
+		width: 28%;
+		margin: 0 19px;
+	}
+	input.zipcode {
+		width: 20%;
+	}
+	.email-row {
+		width: 50%;
+		padding-right: 0px;
+	}
+	.phone-row {
+		width: 50%;
+	}
+	.money-back-row-media {
+		display: inline-block !important;
+		margin: 40px 0 37px 0 !important;
+	}
+	.monet-back-logo {
+		width: 131px;
+	}
+	.money-back-row {
+		display: none;
+	}
+	.money-back {
+		width: 100%;
+	}
+	.monet-back-logo {
+		float: left;
+	}
+	.money-back {
+		width: 70%;
+		float: right;
+	}
+	.secure-row {
+		float: left;
+		width: auto !important;
+	}
+	.card-number1 input.card-style {
+		width: 31%;
+	}
+	.finally-footer {
+		padding: 46px 80px;
+	}
+	.switch-btn .slider {
+		background-color: #dbdbdb;
+	}
+	.money-back br {
+		display: none;
+	}
+	.money-back p {
+		width: 300px;
+	}
+	.money-back-row {
+		padding: 14px 16px 21px 30px;
+	}
+	.city-row {
+		display: inline-block;
+	}
+	.monet-back-media1 {
+		display: none;
+	}
+	.promo-code-media {
+		display: none;
+	}
+	.money-back-row-media11 {
+		display: none;
+	}
+	.formula-accord {
+		margin-top: 20px;
+		padding: 0 !important;
+		display: inline-block;
+		width: 100% !important;
+	}
+	button.btn.btn-primary.kitbuy-btn.btn {
+		margin-top: 0px;
+	}
+	.ingredients-page button.btn.btn-primary.kitbuy-btn.btn {
+		margin-top: 0px;
+	}
+	.get-buy-tab {
+		margin: 61px 0 0 0px;
+	}
+	.recetams-inner1 p {
+		text-align: left;
+	}
+	/*start-home-6-3-2019*/
+	.formula-kit.pull-right {
+		width: 50%;
+	}
+	.mian-header-title {
+		margin-top: 100px;
+	}
+	.header-bg {
+		height: 444px;
+		background-attachment: inherit;
+	}
+	.formula-kit img {
+		height: 277px;
+		float: none;
+		display: inline-block;
+		margin: 0;
+	}
+	.data-users-inner {
+		padding-left: 10px;
+	}
+	.user-ages p {
+		width: auto;
+	}
+	.formula-kit {
+		height: 315px;
+		padding-top: 39px;
+	}
+	.specific-inner p {
+		margin: 17px 10px 0 0;
+		width: auto;
+	}
+	section.assessment-bg {
+		padding: 70px 0px 55px 0;
+	}
+	section.millions-data-bg {
+		padding: 82px 0 37px 0;
+	}
+	/*end-home-6-3-2019*/
+	.mian-header-title {
+		width: 100%;
+		display: inline-block;
+	}
+	/*start-science*/
+	.everyone-row {
+		width: 365px;
+		margin: 54px 0 0 0px;
+	}
+	.science-page .container-ingredient {
+		padding: 0 20px;
+	}
+	.every-bg {
+		padding: 0 0px 0 20px;
+	}
+	.everyone-pic {
+		margin: 33px 20px 0px 0px;
+		width: 340px;
+	}
+	.everyone-row h2 {
+		font-size: 34px;
+		line-height: 38px;
+	}
+	.vegan-row {
+		width: 50%;
+	}
+	.container-ingredient-millions {
+		width: 100%;
+	}
+	.breaking-row p {
+		margin: 4px auto 8px;
+	}
+	.breaking-row h2 {
+		margin: 36px auto 3px;
+		font-size: 35px;
+	}
+	.completely-row.text-center {
+		margin: 0 0 25px 0;
+	}
+	.completely1 {
+		margin: 20px 0 10px 0;
+	}
+	.container-formula-users {
+		padding: 0 20px;
+		width: 100%;
+	}
+	.formula-users-bg .breaking-row h2 {
+		width: 100%;
+	}
+	.formula-users-row {
+		width: 100%;
+	}
+	.honest-bg {
+		margin: 42px 0 -23px;
+		padding: 2px 0;
+	}
+	.science-page {
+		background: #fff;
+	}
+	/*end-science*/
+	/*end-ingredients*/
+	.container-ingredient {
+		width: 100%;
+		padding: 0 20px;
+	}
+	/*start-ingredients*/
+
+	body.product-page {
+		background: #fff;
+	}
+	.star-reviews-inner p {
+		margin: 0px 0 0 10px;
+	}
+	.right-buy-row {
+		margin-left: 0px;
+	}
+	.right-buy-row1 {
+		display: inline-block;
+		margin-top: 20px;
+		width: 100% !important;
+	}
+	.buy-starter-title {
+		width: 100%;
+	}
+	.get-buy-tab ul li {
+		width: 196px;
+		margin-right: 27px;
+	}
+	.recetams-inner {
+		padding: 0 0 49px 0px;
+	}
+	.recetams-inner ul {
+		width: 100%;
+	}
+	.right-vegan-row {
+		margin-left: 0px !important;
+	}
+	.recetams-inner p {
+		display: none;
+	}
+
+	.highest-quality-inner {
+		margin-left: 0px;
+	}
+	.product-page .product-money-text {
+		width: 100%;
+		margin: 11px 0 0 0px;
+	}
+	.product-money-back img {
+		display: inline-block;
+	}
+	.product-money-back {
+		float: none;
+		text-align: center;
+		padding: 0;
+	}
+	.product-reviews-row {
+		margin-left: 0px;
+	}
+	.tab-content-tabs {
+		padding: 35px 0 0px 0;
+	}
+	/*start-product*/
+	.footer-inner2.footer-inner {
+		width: 100%;
+	}
+	.footer-inner2 .footer-statement-inner {
+		width: 100%;
+	}
+	.footer-statement {
+		margin-top: 20px;
+	}
+	.product-backmoney .product-money-row {
+		width: 100%;
+	}
+	.gudbiee {
+		float: right;
+		width: 668px;
+	}
+	.pull-right .mian-header-title p {
+		display: block;
+	}
+	.pull-right .mian-header-title button {
+		display: block;
+	}
+	.mian-header-title {
+		width: auto;
+	}
+	.mian-header-title h2 {
+		line-height: 36px;
+		font-size: 28px;
+		width: auto;
+	}
+	.landing-page .mian-header-title h2 {
+		width: 342px;
+	}
+	.mob-bg {
+		display: none !important;
+	}
+	.specific-formula-title {
+		padding-right: 0;
+	}
+	p.connect-title {
+		width: 165px;
+	}
+	.footer-statement-inner {
+		width: 100%;
+		padding-right: 0;
+	}
+	.goodbye-title h2 {
+		text-align: center;
+		width: 100%;
+		margin: 36px auto 42px;
+		font-size: 40px;
+		font-weight: bold;
+	}
+	.mian-header-title h2 {
+		font-size: 28px;
+	}
+	.container {
+		width: 100%;
+		padding: 0 20px;
+	}
+	.mob-bg .mian-header-title p {
+		color: #161e5c;
+		width: 98%;
+		margin-bottom: 30px;
+		font-size: 18px;
+		margin: 0 auto;
+		text-align: left;
+	}
+	.mob-bg .mian-header-title button {
+		margin-top: 26px;
+	}
+	.mob-bg .mian-header-title {
+		padding-left: 0;
+		margin-top: 25px;
+		text-align: center;
+	}
+	.find-btn.mian-header-title {
+		padding-left: 0;
+		margin-top: 0px;
+		padding-bottom: 40px;
+		width: 100%;
+	}
+	.stories-page .find-btn.mian-header-title {
+		width: auto;
+	}
+	.gudbiee {
+		width: 100%;
+	}
+	.backed-science-title h2 {
+		width: 100%;
+	}
+	.landing-page .itout-title .find-btn.mian-header-title {
+		width: auto;
+		display: inline-block;
+		float: none;
+	}
+	.backed-science-title p {
+		width: 98%;
+		margin: 0 auto;
+	}
+	.backed-science-title h2 {
+		margin: 49px auto 20px;
+	}
+	.backed-science-bg {
+		padding-bottom: 43px;
+	}
+	.backed-science-bg .find-btn.mian-header-title {
+		margin-top: 30px;
+	}
+	.result-title h2 {
+		margin: 32px 0px 32px;
+	}
+	li.main-header-logo img {
+		width: 117px;
+	}
+	.main-menu-inner ul li {
+		display: inline-block;
+		margin: 0 9px 0 0;
+	}
+	.main-menu-inner li a {
+		letter-spacing: 1px;
+	}
+	.mob-ex {
+		display: none;
+	}
+	/*start-faq*/
+	.faq-page {
+		background-color: #fff;
+	}
+	/*end-faq*/
+	.vegan-row1 .right-vegan-row {
+		margin-left: 0 !important;
+	}
+	.stories-page .personal-container {
+		width: 100% !important;
+	}
+
+	.readmore {
+		display: block;
+	}
+	.link-bttn {
+		position: absolute;
+		right: 0;
+		top: -12px;
+		font-size: 23px;
+		color: #999;
+	}
+	.effective-row p {
+		font-size: 18px;
+		width: auto;
+		color: #fff;
+	}
+	.ingredient-page {
+		background: #fff;
+	}
+	.piracetam p {
+		text-align: left;
+		margin-top: 20px;
+	}
+	.piracetam {
+		text-align: center;
+	}
+	.ingredient-page .tab-content {
+		padding-left: 15px;
+	}
+	.data-users-inner ul li {
+		font-size: 16px;
+	}
+	.left-tab-row.stick {
+		width: 21.33%;
+	}
+	.goal-score-container {
+		float: none;
+		display: inline-block;
+	}
+	.goal-score-container:last-child {
+		margin-right: 36px;
+	}
+	.container-result {
+		width: 100% !important;
+	}
+	.container.agi-container {
+		width: 100%;
+	}
+	.agi-container h3 {
+		width: 100%;
+		margin: 26px 0 21px 0;
+	}
+	.landing-page .completely-row.text-center {
+		height: 170px;
+	}
+	.landing-page .mian-header-title {
+		padding-left: 0px !important;
+	}
+	
+}
+/*-----------end-(min-width: 768px) and (max-width: 991px)-------------*/
+
+/*-----------start-(max-width: 767px)-------------*/
+
+@media (max-width: 767px) {
+	.container.agi-container {
+		width: 100%;
+	}
+	select#del_state {
+		width: 100%;
+		margin: 30px 0px 15px;
+	}
+	#bill_state{
+		width: 100%;
+		margin: 30px 0px 15px;
+	}
+	.piracetam-row .piracetam-mob {
+		display: block !important;
+	}
+	.piracetam {
+		display: none;
+	}
+	.specific-formula-title h4 {
+		font-size: 14px;
+	}
+    .specific-formula-title h4:last-child {
+        padding-top: 0;
+    }
+	.specific-formula-title h1 a > p {
+		font-size: 22px;
+		line-height: 28px;
+		margin-top: 15px;
+	}
+	h1.stories-formulas-heading {
+		margin: 23px 0 15px 0;
+		font-size: 28px;
+	}
+	.stories-page .testimonial-first-slider .top-client-name-row #quote-carousel {
+		padding: 5px 15px 30px 15px;
+	}
+	.top-client-name-row #quote-carousel {
+		margin-top: 0px !important;
+	}
+	.stories-page .find-btn.mian-header-title {
+		display: inline-block;
+		margin-top: 0px !important;
+	}
+	h1.top-client-name p {
+		font-size: 28px;
+		margin: 0px 0 18px 0;
+	}
+	h1.client-name {
+		font-size: 28px;
+		margin: 26px 0 20px 0;
+	}
+	.data-users-inner ul {
+		width: auto;
+	}
+	.ingredient-page .left-tab-row {
+		margin-top: 20px;
+	}
+	.ingredient-page .tab-content {
+		margin-top: 20px;
+	}
+	.checkout-full-row {
+		margin-bottom: 32px;
+	}
+	.product-desktop-tab {
+		display: none;
+	}
+	section.assessment-bg {
+		padding: 51px 0px 43px 0;
+	}
+	.landing-page .mob-bg .mian-header-title button {
+		margin-bottom: 50px;
+	}
+	h4.dr-name2 {
+		width: 287px;
+	}
+	.product-page .formula-accord .panel-title p {
+		font-size: 18px !important;
+		margin: 0;
+		float: left;
+	}
+	.mobile-product-tab i.more-less-faq1.fa.fa-angle-right {
+		float: right;
+	}
+	.panel-groupThird .panel-heading {
+		padding: 0;
+	}
+	.product-page .formula-accord .panel-body .directions-text p {
+		font-size: 14px;
+	}
+	.founder-text {
+		margin-bottom: 35px;
+	}
+	.product-page .formula-accord3 .directions-text {
+		padding: 0;
+		margin-top: 20px;
+	}
+	.product-page button.btn.btn-primary.kitbuy-btn.btn {
+		margin-top: 10px;
+	}
+	.agi-container h3 {
+		width: 100%;
+		margin: 26px 0 21px 0;
+	}
+	.faq-page .faq-section .panel-title a > span {
+		font-size: 18px;
+		line-height: 25px;
+	}
+	.racetams-inner ul li {
+		display: flex;
+	}
+
+	.checkMarks-cont {
+		top: 190px;
+	}
+	.container-result {
+		width: 100% !important;
+	}
+	#wrapper.collapse {
+		display: block;
+	}
+	div#navbar {
+		display: none !important;
+	}
+	canvas#base-score-chart {
+		width: 100% !important;
+		height: 100% !important;
+	}
+	.innner-chart {
+		height: 100% !important;
+		width: 100% !important;
+	}
+	.goal-score-container {
+		float: none;
+		margin-right: 0;
+		margin-bottom: 14px;
+		display: inline-block;
+		padding: 0 12px;
+		width: 50%;
+	}
+	.container.goal-scores-container {
+		padding: 0;
+	}
+	#sidebar-wrapper {
+		display: block;
+	}
+	.reference-studyCont {
+		width: 92%;
+	}
+	.result-page {
+		background: #fff;
+	}
+	.ingredient-name:last-child {
+		margin-bottom: 15px;
+	}
+	.data-users-inner ul li span {
+		margin-left: 14px;
+		line-height: 22px;
+	}
+	.ingredients-referrences-row p {
+		font-size: 16px;
+		color: #161e5c;
+		line-height: 22px;
+	}
+	.ref-studyAuthor {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.racetams h2 {
+		font-size: 18px;
+		font-weight: bold;
+		line-height: 22px;
+	}
+	.science-page .cls-1 {
+		fill: #161e5c;
+	}
+	.accordion-container .racetams {
+		margin: 0 0 28px 0;
+	}
+	i.more-less-faq2.fa {
+		font-size: 33px;
+	}
+	i.more-less-faq1.fa {
+		font-size: 33px;
+	}
+	.ingredients-page {
+		background: #fff;
+	}
+	.home-footer {
+		padding: 0 0px 0 0 !important;
+	}
+	/*start-ingredient*/
+	.readmore {
+		display: block;
+	}
+	.link-bttn {
+		position: absolute;
+		right: 0;
+		top: 0px;
+		font-size: 23px;
+		color: #999;
+	}
+	.effective-row p {
+		font-size: 18px;
+		width: auto;
+		color: #fff;
+	}
+	.desktop-accordion {
+		display: none;
+	}
+	.ingredient-page {
+		background: #fff;
+	}
+	.piracetam p {
+		text-align: left;
+		margin-top: 20px;
+	}
+	.piracetam {
+		text-align: center;
+		width: auto;
+	}
+	.ingredient-page .tab-content {
+		padding-left: 15px;
+	}
+	.effective-row h1 {
+		font-size: 32px;
+	}
+	.reference-links {
+		width: auto;
+	}
+	.reference-links span {
+		float: left;
+		margin-bottom: 15px;
+	}
+	.reference-links p {
+		margin: 0;
+	}
+	/*end-ingredient*/
+
+	/*start-about*/
+
+	.about-page .mian-header-title {
+		margin-top: 80px;
+	}
+	.about-page .mian-header-title {
+		padding-left: 0px;
+	}
+	.founder-text p {
+		color: #161e5c;
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.about-page .itout-title .mian-header-title {
+		width: auto;
+	}
+	.container.about-container {
+		width: 100%;
+		padding: 0 35px;
+	}
+	.about-page {
+		background: #fff;
+	}
+	.about-page .mian-header-title button {
+		width: 200px;
+	}
+	.founder-heading h1 {
+		font-size: 28px;
+		margin: 40px 0 0px 0px;
+	}
+	h3.text-center.always-head {
+		font-size: 19px;
+		width: auto;
+		margin: 0px auto;
+		text-align: left;
+		line-height: 30px;
+	}
+	.about-header-bg {
+		height: 342px;
+		background-attachment: initial;
+	}
+	.founder-heading.text-center {
+		margin: 0 0 20px 0;
+	}
+	.about-page .main-menu-inner li a {
+		color: #fff;
+	}
+	/*end-about*/
+
+	/*start-result*/
+	.mob-viewresult {
+		display: block !important;
+	}
+	.mob-viewresult a {
+		color: #161e5c;
+		font-size: 14px;
+		font-weight: 700;
+		margin-bottom: 12px;
+		display: inline-block;
+		text-decoration: underline;
+	}
+	.result-slider-bg .mian-header-title button {
+		display: none;
+	}
+	img.mob-mainlogo1.img-responsove {
+		display: inline-block;
+		width: 166px;
+	}
+	.inside-box-bg {
+		background: #fff;
+	}
+	body.result-page {
+		background: #fff !important;
+	}
+	.science-page.result-page .product-header-bg {
+		background: #fff !important;
+		height: 78px;
+	}
+	.achieve-row {
+		padding: 0 20px;
+	}
+	.achieve-heading h2 {
+		font-size: 32px;
+		font-family: "AcromMedium";
+		font-weight: bold;
+		width: 224px;
+		margin: 11px auto 44px;
+	}
+	.metar-inner {
+		height: 115px;
+	}
+	.result-page .get-result-btn h2 {
+		display: none;
+	}
+	.result-page .Get-starter-bluestrip {
+		text-align: center;
+		background: #fff;
+	}
+	.racetams-inner {
+		margin-left: 0;
+	}
+	.racetams-inner3 {
+		border: 0;
+	}
+
+	.inside-box-inner h2 {
+		font-size: 28px;
+		line-height: 36px;
+	}
+	.mob-inside-center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.inside-box-inner {
+		width: 100%;
+	}
+	.ingradient-result h2 {
+		font-size: 28px;
+		margin: 32px 0 15px 0;
+		line-height: 36px;
+	}
+	.meet-expert .inside-right-row {
+		display: block;
+	}
+	h3.resultformula-name {
+		margin: 24px 15px 18px 15px;
+		font-size: 18px;
+	}
+	.ingradient-result {
+		text-align: left;
+	}
+	.racetams-inner {
+		padding-bottom: 14px;
+		width: 100%;
+	}
+	.meet-expert .inside-box-inner {
+		width: auto;
+		float: left;
+	}
+	.result-slider-bg .specific-formula-title h1 {
+		margin: 16px 0;
+		line-height: 34px;
+	}
+	.inside-box-inner p {
+		color: #161e5b;
+		font-size: 16px;
+		width: auto;
+		margin: 18px 0;
+	}
+	.inside-box-row {
+		padding: 15px 6px;
+	}
+	.inside-right-row {
+		display: none;
+	}
+	.result-page .carousel-indicators {
+		display: block !important;
+	}
+	.result-box-row {
+		padding: 0 20px;
+	}
+	.result-page .Get-starter-heading {
+		margin: 0px 0px 48px 0;
+	}
+	.mob-bluestrip {
+		background: #161e5c !important;
+	}
+	.mob-bluestrip .get-result-btn h2 {
+		display: block;
+	}
+	.result-page .Get-starter-heading {
+		margin: 0px 0px 44px 0;
+	}
+	.result-page a.left.carousel-control img {
+		width: 24px;
+	}
+	#quote-carousel .carousel-control.left {
+		left: -12px;
+		top: 14%;
+	}
+	#quote-carousel .carousel-control.right {
+		right: -2px !important;
+		top: 14%;
+	}
+	.racetams-peptides-inner h3 {
+		width: 100%;
+	}
+	.racetams-inner h3 {
+		width: 100%;
+	}
+	.result-box-row:last-child {
+		margin-bottom: 40px;
+	}
+	.inside-box-bg {
+		margin-bottom: 20px;
+	}
+	.result-page .Get-starter-bluestrip.mob-bluestrip button {
+		margin-top: 25px;
+		width: 210px;
+	}
+	/*end-result*/
+
+	/*start-home-6-3-2019*/
+
+	.specific-row {
+		padding: 0px 0 0 0px;
+		height: auto;
+	}
+	.vegan-row1 .right-vegan-row {
+		margin-left: 0 !important;
+	}
+	.data-users-inner {
+		padding-left: 0;
+	}
+	.data-users-inner h1 {
+		font-size: 28px;
+		text-align: center;
+		line-height: 36px;
+		word-spacing: -4px;
+	}
+	.data-users-inner ul li {
+		font-size: 14px;
+		margin-bottom: 4px;
+	}
+	.user-ages p {
+		width: auto;
+	}
+	.formula-kit {
+		height: auto;
+		padding-top: 0px;
+		padding-bottom: 20px;
+	}
+	section.millions-data-bg {
+		padding: 38px 0 47px 0;
+		background: #fff;
+	}
+	.data-users-inner p {
+		width: auto;
+		font-size: 14px;
+		line-height: 24px;
+	}
+	section.assessment-bg .text-center {
+		padding: 0 0px 29px;
+	}
+	section.assessment-bg .text-center:last-child {
+		padding: 0;
+	}
+	.assessment-row1 {
+		padding: 0 0px 29px !important;
+	}
+	.formula-kit img {
+		height: auto;
+		float: none;
+		display: inline-block;
+		margin: 0;
+	}
+	.text-center.assess-first {
+		padding: 0 0px !important;
+	}
+	.specific-inner {
+		padding: 0 34px;
+	}
+	.specific-inner h1 {
+		font-size: 28px;
+		text-align: center;
+		word-spacing: -4px;
+	}
+	.specific-inner p {
+		font-size: 14px;
+		line-height: 24px;
+		width: auto;
+	}
+	.user-ages h2 {
+		font-size: 28px;
+	}
+	.pure-meets h1 {
+		font-size: 28px;
+		line-height: 26px;
+		word-spacing: -4px;
+	}
+	.pure-meets p {
+		font-size: 14px;
+		width: auto;
+		line-height: 24px;
+		text-align: left;
+	}
+	.medician-bg .assessment-inner h3 {
+		margin: 20px 0 11px 0;
+		font-size: 18px;
+	}
+	section.medician-bg {
+		padding: 34px 0px 25px 0;
+	}
+	.assessment-inner p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.landing-page #quote-carousel {
+		padding: 0 0px 31px 0px;
+		margin-bottom: 29px;
+	}
+	.landing-page .itout-title .mian-header-title button {
+		width: 255px;
+	}
+	.landing-page section.medician-bg .text-center {
+		padding: 0;
+	}
+	.footer-inner2 p.connect-title {
+		width: 100%;
+	}
+	.landing-page .home-footer {
+		padding: 0 0px 0 0 !important;
+	}
+
+	/*end-home-6-3-2019*/
+	.goodbye-title h2 {
+		line-height: 28px;
+	}
+	img.mob-mainlogo1.img-responsove {
+		display: inline-block;
+		width: 166px;
+	}
+	.mob-sticky-logo {
+		display: none;
+	}
+	.fixed-theme .mainlogo1 {
+		display: block;
+	}
+	.fixed-theme .mob-sticky-logo {
+		display: inline-block;
+		width: 166px;
+	}
+	.mob-mainlogo1.svg-logo {
+		display: inline-block;
+		width: 166px;
+	}
+	.sticky-logo svg {
+		width: 166px;
+		display: inline-block;
+	}
+	.specific-formula-title h1 {
+		font-size: 22px;
+		width: auto;
+	}
+	#menu-toggle-rl i {
+		background: #161e5c;
+	}
+	/*start-science*/
+	.science-page .mob-ex .kitbuy-btn {
+		width: auto;
+		border-radius: 45px;
+	}
+	.completely-text h2 {
+		text-align: center;
+	}
+	.completely-text {
+		float: right;
+		width: 100%;
+	}
+	.completely-inner {
+		margin-top: 0;
+	}
+	.formula-users-bg .breaking-row p {
+		width: 100%;
+		margin-bottom: 15px;
+		text-align: left;
+	}
+	.honest-bg {
+		margin: 14px 0 -23px;
+		padding: 10px 0;
+	}
+	.mob-ex {
+		text-align: center;
+	}
+	.mob-ex {
+		display: block;
+	}
+	.desk-ex {
+		display: none;
+	}
+	.everyone-pic {
+		margin: 0 20px 40px 0px;
+	}
+	.guided-bg {
+		margin: 97px 0 21px 0;
+		padding: 22px 0px 23px 0;
+	}
+	.everyone-row {
+		float: none;
+		padding: 0 20px;
+		margin: 24px auto;
+		text-align: center;
+		width: auto;
+	}
+	.recommend-inner h4 {
+		font-size: 20px;
+		font-weight: 700;
+	}
+	.scientists-text {
+		text-align: left !important;
+	}
+	.science-page .vegan-inner {
+		padding: 0 0 5px 0px;
+	}
+	.everyone-row .Get-starter-heading .kitbuy-btn {
+		margin-bottom: 16px;
+	}
+	.science-page .container-ingredient {
+		padding: 0 20px;
+	}
+	.everyone-row h2 {
+		font-size: 28px;
+		line-height: 36px;
+	}
+	.everyone-row p {
+		display: none;
+	}
+	.science-page .product-header-bg {
+		background: #fff !important;
+		height: 78px;
+	}
+	.breaking-row h2 {
+		font-size: 28px;
+		width: 100%;
+		line-height: 36px;
+		margin: 48px auto 10px;
+		word-spacing: -4px;
+	}
+	.everyone-pic {
+		float: none;
+		width: 100%;
+		margin: 0 20px 0px 0px;
+		text-align: center;
+	}
+	.everyone-pic img {
+		display: inline-block;
+	}
+	.container-ingredient-millions {
+		width: 100%;
+		padding: 0 20px;
+	}
+	.completely-row.text-center {
+		margin: 0 0 34px 0px;
+	}
+	.completely1 {
+		margin: 20px 0 0px 0;
+	}
+	.container-formula-users {
+		padding: 0 20px;
+		width: 100%;
+	}
+	.formula-users-bg .breaking-row h2 {
+		width: 100%;
+	}
+	.ingredient-inner h2 {
+		padding: 41px 0 0 0;
+	}
+	.formula-users-row {
+		margin: 0 auto 35px;
+	}
+	.ingredient-bg {
+		height: auto;
+		padding-bottom: 20px;
+		margin-top: 5px;
+	}
+	.honest-heading h2 {
+		text-align: center;
+	}
+	.breaking-row p {
+		font-size: 14px;
+		margin: 0px auto 20px;
+		text-align: left;
+		line-height: 22px;
+		width: 100%;
+	}
+	.completely-inner {
+		width: 100%;
+		display: inline-block;
+		margin-top: 64px;
+	}
+	.completely-inner p {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.right-completely-images {
+		float: none;
+		width: 100%;
+		display: inline-block;
+		text-align: center;
+	}
+	.right-completely-images img {
+		display: inline-block;
+	}
+	.guided-inner h2 {
+		font-size: 28px;
+	}
+	.guided-inner p {
+		font-size: 16px;
+		width: 100%;
+	}
+	.formula-users-row p {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.formula-users-row h4 {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.honest-heading h2 {
+		font-size: 28px;
+		line-height: 36px;
+	}
+	.honest-heading p {
+		font-size: 14px;
+	}
+	.science-page .Get-starter-bluestrip {
+		height: auto;
+		line-height: 58px;
+		padding-bottom: 5px;
+	}
+	/*end-science*/
+
+	/*start-ingredients*/
+	.ingredient-name {
+		border-right: 0;
+	}
+	.ingredient2 .ingredient-name {
+		border-bottom: 1px solid #ececec;
+	}
+	.container-ingredient {
+		width: 100%;
+		padding: 0 20px;
+	}
+	.ingredient-inner h2 {
+		font-size: 28px;
+		line-height: 36px;
+		padding-top: 34px;
+	}
+	.name-row1 {
+		padding-right: 15px;
+	}
+	.name-row3 {
+		padding-left: 15px;
+	}
+	.racetams p {
+		width: 100%;
+	}
+	.ingredient-accordion {
+		display: block;
+	}
+	.racetams-inner1 {
+		display: none;
+	}
+	.ingredient-inner p {
+		width: 100%;
+	}
+	.racetams p {
+		font-size: 14px;
+		line-height: 22px;
+		font-weight: normal;
+	}
+	.ingredient-inner p {
+		font-size: 18px;
+		margin: 15px 0;
+		line-height: 28px;
+	}
+	body.ingredients-page {
+		background: #fff !important;
+	}
+	.ingredients-page .product-header-bg {
+		height: 83px;
+	}
+	.ingredients-page .fixed-theme .mobilelogo {
+		top: 25px;
+	}
+	/*start-ingredients*/
+
+	/*start-product-page*/
+	.desktop-formula-accord {
+		display: none !important;
+	}
+	.mob-formula-accord {
+		display: block;
+	}
+	.formula-accord3 .directions-text {
+		padding: 0;
+	}
+	.footer-inner2.footer-inner {
+		width: 100%;
+	}
+	.footer-inner2 .footer-statement-inner {
+		width: 100%;
+	}
+	.footer-statement {
+		margin-top: 20px;
+	}
+	h3.tab_drawer_heading {
+		padding-left: 20px;
+		text-align: left;
+	}
+	.buy-price .buy-btn img {
+		margin-top: 16px;
+	}
+	.contect-withus-text {
+		display: inline-block;
+		width: 100%;
+	}
+	.formula-accord.faq-section .panel-title a > span {
+		width: 90%;
+	}
+	.product-reviews h3 {
+		font-size: 18px;
+		font-family: "Merriweather";
+		text-transform: capitalize;
+	}
+	.product-backmoney .product-money-text h2 {
+		font-size: 28px;
+	}
+	.product-backmoney .product-money-row {
+		padding: 12px 8px 0px 5px;
+		margin: 0 auto 32px;
+	}
+	.product-reviews p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.pagination-item {
+		width: 68px !important;
+		height: 68px !important;
+	}
+	.get-buy-tab {
+		margin: 61px 0 0 80px;
+	}
+
+	.contact11 {
+		display: inline-block;
+		width: 100%;
+	}
+	.formula-accord.formula-accord3 .panel-title a > span {
+		font-size: 18px;
+	}
+	.product-backmoney .product-money-row {
+		width: 100%;
+		display: table;
+		height: 300px;
+		border: 0;
+	}
+	h1.questions-heading {
+		font-size: 28px;
+		text-align: left;
+		line-height: 36px;
+	}
+	.formula-accord.formula-accord3 {
+		padding: 0;
+		margin-bottom: 50px;
+	}
+	.get-ready-heading h2 {
+		font-size: 29px;
+		font-family: "AcromMedium";
+		width: 100%;
+		line-height: 41px;
+		margin-right: 0 !important;
+		margin-bottom: 30px;
+	}
+	.product-money-text p {
+		font-size: 16px;
+		color: #161e5c;
+		line-height: 25px;
+	}
+	.product-money-text span {
+		font-size: 16px;
+		color: #b9b7b7;
+	}
+	.connect-withus-text {
+		width: 100%;
+		display: inline-block;
+	}
+	.product-money-back img {
+		margin: 0 auto;
+	}
+	.product-money-back {
+		float: none;
+		text-align: center;
+		padding: 0;
+	}
+	.product-money-text {
+		width: 100% !important;
+		margin: 11px 0 0 0px !important;
+	}
+	.right-buy-row {
+		margin-left: 0;
+		margin-top: 20px;
+	}
+	.buy-starter-title {
+		width: 100%;
+	}
+	.tab-content-tabs {
+		padding: 0px 0 72px 0;
+	}
+	.tab-content-tabs.tab_container {
+		padding: 0px 0 0px 0;
+	}
+	.get-buy-tab {
+		margin-top: 16px;
+	}
+	.getimg-inner {
+		display: block;
+		text-align: left;
+	}
+	.recetams-inner {
+		padding: 0 0 29px 0px;
+		border-bottom: 4px solid #eee;
+	}
+	.recetams-inner p {
+		display: none;
+	}
+	.recetams-inner ul li {
+		font-size: 16px;
+	}
+	.recetams-inner h3 {
+		font-size: 20px;
+	}
+	ul.right-oxiracetam {
+		float: left !important;
+		display: inline-block;
+		width: 100%;
+	}
+	.highest-quality-inner {
+		margin-left: 0;
+	}
+	.footer-right-bar {
+		width: 674px;
+		display: inline-block;
+		margin: 23px 0 0 0;
+	}
+	.contact-us-text {
+		width: 100%;
+		text-align: left;
+		margin-bottom: 26px;
+	}
+	.connect-withus-text {
+		float: left;
+		margin-left: 0px;
+		text-align: left;
+	}
+	.product-page {
+		background: #fff !important;
+	}
+	.getimg-inner h3 {
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.getimg-inner p {
+		font-size: 14px;
+	}
+	.tab-content {
+		width: 100%;
+	}
+	.container.tab_container11 {
+		padding: 0;
+	}
+	.tab-content > .tab-pane {
+		background: #fff;
+	}
+
+	.highest-quality-inner p {
+		text-align: left;
+		margin: 0;
+		font-size: 18px;
+		background: #f6f6f6;
+		padding: 22px 16px;
+	}
+	.footer-statement {
+		width: 100%;
+	}
+	.footer-right-bar {
+		width: 100%;
+	}
+	.home-footer {
+		background: #fff;
+	}
+	.free-shipping-inner p {
+		display: inline-block;
+		font-size: 15px;
+	}
+	.product-slide-row {
+		margin-top: 0px;
+	}
+	.buy-starter-title h1 {
+		font-size: 30px;
+		margin: 14px 0px 14px;
+		font-family: "AcromMedium";
+	}
+	.back-guarantee {
+		display: none;
+	}
+	.product-reviews-row {
+		margin-left: 0px;
+	}
+	#wrapper .main-menu-inner li a {
+		color: #000;
+		display: block;
+		text-align: center;
+		margin: 0px auto;
+	}
+	#wrapper .main-menu-inner li a:hover,
+	#wrapper .main-menu-inner li a:focus,
+	#wrapper .main-menu-inner li a:active {
+		color: #8343d5;
+		text-decoration: none;
+		border-bottom: none;
+	}
+	#wrapper .main-menu-inner ul li a button {
+		background: #8343d5;
+		border-color: #8343d5;
+		border-radius: 52px;
+		width: 180px;
+		height: 50px;
+		font-weight: bold;
+		font-size: 16px;
+		padding: 14px 20px;
+	}
+	#wrapper .main-menu-inner ul li a button:focus,
+	#wrapper .main-menu-inner ul li a button:active,
+	#wrapper .main-menu-inner ul li a button:hover {
+		background: #161e5c;
+		border-color: #161e5c;
+		outline: none;
+		text-decoration: none;
+	}
+	#formula-btn-a:focus,
+	#formula-btn-a:active,
+	#formula-btn-a:hover {
+		border-bottom: none;
+	}
+	.right-buy-row1 {
+		display: inline-block;
+		width: 100% !important;
+	}
+	.product-header-bg {
+		height: 81px;
+	}
+	.product-slider-left {
+		margin-left: 0 !important;
+	}
+	span.plus-icon1 {
+		float: right;
+		font-size: 60px;
+		line-height: 0;
+		margin: 0px 20px 0px 0;
+		top: 10px;
+		position: relative;
+	}
+	span.plus-icon {
+		float: right;
+		font-size: 42px;
+		line-height: 0;
+		margin: 0px 20px 0px 0;
+		top: 10px;
+		position: relative;
+	}
+	.mob-bg {
+		background: #f6f6f6;
+	}
+	.mob-bg1 {
+		background: #f6f6f6 !important;
+	}
+	.d_active {
+		border: 0;
+	}
+	.purchase-checkbox {
+		border-top: 0;
+		padding-top: 0;
+	}
+	.fixed-rapay span {
+		width: 100%;
+		display: inline-block;
+		padding: 7px 0 0 29px;
+	}
+	.buy-price del {
+		display: none;
+	}
+	.buy-price h2 {
+		left: 0;
+		position: relative;
+	}
+	.directions-text h3 {
+		font-size: 14px;
+		font-weight: 700;
+		margin-bottom: 15px;
+		margin-top: 23px;
+	}
+	.product-backmoney {
+		border-bottom: 1px solid #999;
+		margin-bottom: 20px;
+	}
+	/*end-product-page*/
+
+	.itout-title .find-btn.mian-header-title {
+		padding-left: 0;
+	}
+	.gudbiee {
+		float: right;
+		width: 668px;
+	}
+	.pull-right .mian-header-title p {
+		display: none;
+	}
+	.pull-right .mian-header-title button {
+		display: none;
+	}
+	.mob-bg {
+		display: block !important;
+	}
+	.specific-formula-title {
+		padding: 0;
+	}
+	.results-bg {
+		padding: 0;
+	}
+	#quote-carousel {
+		margin-bottom: 20px;
+	}
+	.copy-right ul li {
+		padding: 0 0 0px 0;
+		margin-right: 0;
+	}
+	.landing-page .footer-inner {
+		width: 99%;
+	}
+	.landing-page .find-btn.mian-header-title {
+		margin-top: 23px;
+	}
+	.container-header {
+		padding: 0 20px !important;
+	}
+	p.connect-title {
+		width: 100%;
+		display: inline-block;
+		margin-top: 30px;
+	}
+	.footer-statement-inner {
+		width: 100%;
+		padding-right: 0;
+	}
+	.goodbye-title h2 {
+		width: 100%;
+	}
+	.goodbye-title h2 {
+		text-align: center;
+		width: 100%;
+		margin: 36px auto 42px;
+		font-size: 28px;
+		font-weight: bold;
+	}
+	.say-left ul {
+		padding: 0;
+		margin: 0;
+	}
+	.pull-right {
+		width: 100%;
+	}
+	.say-left ul li {
+		font-size: 28px;
+		margin: 0 0 72px 0;
+	}
+	.desktop-slider {
+		display: none;
+	}
+	.mob-slider {
+		display: block !important;
+		padding: 0;
+	}
+	.mian-header-title h2 {
+		font-size: 26px;
+		line-height: 36px;
+		width: auto;
+		text-align: center;
+	}
+	.about-page .mian-header-title h2 {
+		text-align: left;
+	}
+	.mob-slider img {
+		display: inline-block;
+		width: 100%;
+	}
+	.goodpye-text p {
+		width: 100%;
+		font-size: 14px;
+		font-weight: bold;
+	}
+	.itout-title h2 {
+		width: 100%;
+		margin-right: 0;
+	}
+	.goodpye-text h3 {
+		font-size: 19px;
+		margin: 0 0 13px -14px;
+	}
+	.right-say {
+		float: left;
+		width: 86%;
+		margin-left: 28px;
+		padding-left: 31px;
+	}
+	.itout-bg {
+		height: auto;
+		text-align: center;
+		background: #161e5c;
+		line-height: 0;
+	}
+	.goodpye-text h3:after {
+		left: -25px;
+		top: -0px;
+	}
+	.itout-title .find-btn.mian-header-title {
+		margin-top: 10px;
+		padding-bottom: 28px;
+	}
+	.container {
+		width: 100%;
+		padding: 0 20px;
+	}
+	.landing-page .container {
+		width: 100%;
+		padding: 0 20px;
+	}
+	.item blockquote {
+		padding: 0;
+	}
+	.recetams-inner1 {
+		padding-left: 0;
+	}
+	.mob-bg .mian-header-title p {
+		color: #161e5c;
+		width: 98%;
+		margin-bottom: 30px;
+		font-size: 18px;
+		margin: 0 auto;
+		text-align: left;
+	}
+	.mob-bg .mian-header-title button {
+		margin-top: 26px;
+	}
+	.goodpye-text {
+		margin-top: 43px;
+	}
+	.mob-bg .mian-header-title {
+		padding-left: 0;
+		margin-top: 25px;
+		text-align: center;
+	}
+	.find-btn.mian-header-title {
+		padding-left: 0;
+		margin-top: 0px;
+		padding-bottom: 40px;
+	}
+	.gudbiee {
+		width: 100%;
+	}
+	.backed-science-title h2 {
+		width: 100%;
+		font-size: 28px;
+		line-height: 36px;
+		margin: 49px auto 20px;
+	}
+	.backed-science-title p {
+		width: 98%;
+		margin: 0 auto;
+	}
+	.result-title h2 {
+		font-size: 28px;
+		word-spacing: -4px;
+	}
+	.backed-science-bg {
+		padding-bottom: 43px;
+	}
+	.backed-science-bg .find-btn.mian-header-title {
+		margin-top: 30px;
+	}
+	.result-title h2 {
+		margin: 32px 0px 32px;
+	}
+	.left-dooted-image img {
+		width: 60px;
+	}
+	.mian-header-title {
+		padding-left: 0;
+		margin-top: 85px;
+		width: 100%;
+		display: inline-block;
+	}
+	.navbar-header {
+		position: relative;
+		top: -8px;
+	}
+	.navWrapper.mob-nav {
+		display: block !important;
+	}
+	#sidebar-wrapper .main-menu-inner ul li {
+		display: block;
+		margin: 0 0px 0 23px;
+		text-align: left;
+		line-height: 48px;
+	}
+	#sidebar-wrapper .main-menu-inner ul li:last-child {
+		margin: 0 0 0 23px;
+	}
+	div#sidebar-wrapper {
+		margin-top: 89px;
+	}
+	#sidebar-wrapper .main-menu-inner ul {
+		line-height: 111px;
+		margin: 0;
+		padding: 15px 0 0 0;
+	}
+	.fixed-theme img.sticky-logo {
+		display: block;
+	}
+	.fixed-theme img.mainlogo1 {
+		display: none;
+	}
+	img.sticky-logo {
+		display: none;
+	}
+	.fixed-theme .mobilelogo img.sticky-logo {
+		display: inline-block !important;
+	}
+	.mobilelogo {
+		text-align: center;
+		position: relative;
+		top: 30px;
+	}
+	.fixed-theme img.mob-mainlogo1.img-responsove {
+		display: none !important;
+	}
+	img.mob-mainlogo1.img-responsove {
+		display: inline-block;
+	}
+	.landing-page #menu-toggle-rl i {
+		background: #fff !important;
+	}
+	.landing-page .fixed-theme #menu-toggle-rl i {
+		background: #161e5c !important;
+	}
+	a.left.carousel-control img {
+		width: 18px;
+	}
+	a.right.carousel-control img {
+		float: right;
+		width: 18px;
+	}
+	.vegan-inner {
+		padding: 0 0 5px 14px;
+	}
+	.vegan-row.vegan-row1 {
+		padding: 21px 0 0 0 !important;
+		background: #f6f6f6;
+		margin-bottom: 35px;
+	}
+	.completely-inner {
+		width: 100%;
+		margin: 0 auto 0;
+	}
+	.brain-icon img {
+		display: inline-block;
+	}
+	.brain-icon {
+		float: none;
+		text-align: center;
+	}
+	.science-page {
+		background: #fff;
+	}
+	/*start-faq*/
+	.faq-page {
+		background-color: #fff;
+	}
+	.faq-section .panel-title a {
+		padding: 15px 8px 15px 0;
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.faq-section .panel-body p {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.faq-inner h2 {
+		padding: 0 0 7px 0;
+		font-size: 28px;
+		margin: 0px 0 0px 0px;
+		line-height: 36px;
+		text-align: left;
+	}
+	.faq-page i.more-less-faq2 {
+		top: 26px;
+	}
+	.faq-page i.more-less-faq1 {
+		/* top: 22px; */
+	}
+	.faq-title {
+		font-size: 24px;
+		margin: 44px 0 19px 0;
+		line-height: 28px;
+	}
+	.faq-page .faq-section .panel-body {
+		padding: 7px 0 28px 0;
+	}
+	.faq-page .faq-section {
+		margin-bottom: 0;
+	}
+	.faq-page .shipping-strip {
+		padding: 26px 0 3px 0;
+		border-top: 1px solid #ddd;
+	}
+	.faq-page .faq-section .col-md-10.col-md-offset-1 {
+		padding: 0;
+	}
+	/*end-faq*/
+	.recetams-inner1 p {
+		font-size: 14px;
+		line-height: 24px;
+		text-align: left;
+		margin-bottom: 12px;
+	}
+	.formula-accord .panel-heading {
+		background-color: #fff;
+	}
+	.formula-accord {
+		margin-top: 0px;
+		padding: 0;
+	}
+	.formula-accord
+		.panel-default
+		> .panel-heading
+		+ .panel-collapse
+		> .panel-body {
+		border-top-color: #fff;
+		background: #fff;
+	}
+	.formula-accord .panel-title a > span {
+		font-size: 18px;
+	}
+	.formula-accord .glyphicon.glyphicon-plus {
+		margin-right: 14px;
+		font-size: 16px;
+		top: 6px;
+	}
+	.formula-accord .glyphicon.glyphicon-minus {
+		margin-right: 14px;
+		font-size: 16px;
+		top: 6px;
+	}
+
+	.container {
+		width: 100%;
+	}
+	.left-bar-media {
+		background: #f0eceb;
+		padding: 0 20px;
+	}
+	.main-heading-delivery-media {
+		display: block !important;
+	}
+	.main-heading-delivery {
+		display: none;
+	}
+	.finally-text {
+		width: 100%;
+	}
+	.eugent-star-row {
+		width: 100%;
+		display: inline-block;
+	}
+	.billing-info-media {
+		background: #f0eceb;
+		padding: 0 20px 30px 20px;
+	}
+	.money-back-row-media {
+		display: block !important;
+	}
+	.card-style1 {
+		float: left !important;
+	}
+	.card-style3 {
+		float: right !important;
+	}
+	.money-back-row {
+		display: none;
+	}
+	.main-logo {
+		margin: 22px 0 35px 0px;
+		text-align: center;
+		border-bottom: 1px solid #e0e0df;
+		padding: 0 0 23px 0;
+	}
+	.place-order-row button {
+		width: 100%;
+	}
+	.right-bar-row {
+		width: 100%;
+		padding: 0;
+		margin-right: 0px;
+		padding: 0 20px 45px 20px;
+		border-bottom: 1px solid #e4e4e4;
+	}
+	.main-heading-delivery {
+		margin: 0px 0 0px 0px;
+		display: none;
+		padding: 30px 0 0 0;
+	}
+
+	.left-bar-row {
+		width: 100%;
+		border-right: 0;
+		padding: 0 20px 28px 20px;
+		display: inline-block;
+		background: #f0eceb;
+	}
+	.main-heading-billing {
+		margin: 0px 0 0 0;
+		padding: 20px 0 0 0;
+	}
+	.main-heading-billing h2 {
+		margin: 0;
+	}
+	.first-name-row {
+		width: 100%;
+		padding-right: 0px;
+	}
+	.last-name-row {
+		width: 100%;
+	}
+	.first-name-row {
+		width: 100%;
+		padding-right: 15px;
+	}
+	.street-address-row {
+		width: 100%;
+	}
+	input.city {
+		width: 63%;
+	}
+	input.state {
+		width: 33%;
+		margin: 0px;
+		float: right;
+	}
+	input.zipcode {
+		width: 100%;
+	}
+	.city-row {
+		display: inline-block;
+		width: 100%;
+	}
+	.email-row {
+		width: 100%;
+		padding-right: 15px;
+	}
+	.phone-row {
+		width: 100%;
+	}
+	.money-back-row-media {
+		display: none !important;
+		margin: 40px 0px 37px 0px;
+		padding: 0 20px !important;
+	}
+	.monet-back-logo {
+		width: 131px;
+	}
+	.money-back-row {
+		display: none;
+	}
+	.money-back {
+		width: 100%;
+	}
+	.monet-back-logo {
+		float: left;
+		display: none;
+	}
+	.money-back {
+		width: 100%;
+		float: right;
+	}
+	.secure-row {
+		width: 100%;
+		text-align: center;
+	}
+	.card-number1 {
+		text-align: center;
+	}
+	.card-number1 input.card-style {
+		width: 31%;
+		display: inline-block;
+		float: none;
+		margin-right: 16px;
+		padding: 10px 15px;
+	}
+	.infomation-form input.form-style {
+		padding: 10px 15px;
+	}
+	.finally-footer {
+		padding: 40px 5px;
+	}
+	.switch-btn .slider {
+		background-color: #dbdbdb;
+	}
+	.money-back br {
+		display: none;
+	}
+	.poweredby img {
+		float: none;
+		display: inline-block;
+	}
+	.poweredby {
+		top: 0px;
+		width: 100%;
+	}
+	.money-back p {
+		width: 100%;
+	}
+	.money-back-row {
+		padding: 0;
+		border: 0;
+	}
+	.font-placeholder::placeholder {
+		font-size: 18px !important;
+		padding: 10px 0px;
+	}
+	.font-placeholder::-webkit-input-placeholder {
+		font-size: 18px !important;
+		padding: 10px 0px;
+	}
+	.font-placeholder:-ms-input-placeholder {
+		font-size: 18px !important;
+		padding: 10px 0px;
+	}
+	.street-address textarea {
+		padding: 10px 15px;
+	}
+	.card-number input.form-style {
+		padding: 10px 15px;
+	}
+	.monet-back-media1 {
+		text-align: center;
+	}
+	.monet-back-media1 img {
+		display: inline-block;
+	}
+	.monet-back-media {
+		display: none;
+	}
+	.left-kit {
+		float: left;
+		width: 50px;
+	}
+	.kit-doller p {
+		margin-top: 7px;
+		margin-right: 10px;
+	}
+	.doller-discount p {
+		margin-right: 10px;
+	}
+	.total-ammount span {
+		margin-right: 10px;
+	}
+	.main-logo img {
+		display: inline-block;
+	}
+	.promo-code-media {
+		display: block !important;
+	}
+	.promo-code-row {
+		display: none;
+	}
+	.discount-row {
+		border-bottom: 0;
+	}
+	.money-back-media-mobile {
+		display: block;
+	}
+	.monet-back-media-mobile {
+		text-align: center;
+	}
+	.monet-back-media-mobile img {
+		display: inline-block;
+	}
+	.mob-formula-accord .formula-accord.faq-section .panel-title a > span {
+		float: left;
+	}
+	.more-less2 {
+		display: block;
+	}
+	.more-less22 {
+		display: none;
+	}
+	.more-less {
+		display: none;
+	}
+	.formula-accord.faq-section.formula-accord3 .panel-title a > span {
+		float: left;
+	}
+	/*start-stories-page*/
+	.testimonial-first-slider .specific-formula-title h1 {
+		font-size: 22px;
+		line-height: 35px;
+		margin-top: 10px;
+	}
+	.stories-page .personal-container {
+		width: 100% !important;
+	}
+	.testimonial-page #sidebar-wrapper .main-menu-inner li a {
+		color: #000;
+	}
+	.testimonial-first-slider #quote-carousel {
+		padding: 19px 20px 30px 20px;
+	}
+	.testimonial-page div#sidebar-wrapper {
+		margin-top: 73px;
+	}
+	.stories-page {
+		background: #fff;
+	}
+	section.testimonial-first-slider {
+		margin-top: 0px;
+	}
+	.container.testimonial-container {
+		width: 100%;
+	}
+	.energy-main-heading h2 {
+		font-size: 22px;
+		font-weight: 700;
+	}
+	.energy-main-heading ul {
+		text-align: left;
+	}
+	.personal-title-row h3 {
+		font-size: 22px;
+		line-height: 36px;
+	}
+	.testimonial-page .itout-title h2 {
+		width: 215px;
+	}
+	.testimonial-page .itout-bg .mian-header-title button {
+		width: 175px;
+	}
+	.energy-main-heading p {
+		font-size: 14px;
+		line-height: 26px;
+	}
+	/*end-stories-page*/
+	.assessment-inner h3 {
+		margin: 20px 0 11px 0;
+		font-size: 18px;
+		font-weight: 700;
+	}
+	.achieve-heading {
+		margin: 0px auto 38px;
+	}
+	.loader-container {
+		font-size: 24px;
+		padding: 0 15px;
+	}
+	.loader-container .status {
+		font-size: 12px;
+	}
+	.quiz-heading {
+		top: 188px;
+	}
+	.quiz-text {
+		margin-top: 180px;
+	}
+	.product-reviews {
+		text-align: left;
+		margin: 15px 0 30px 0;
+	}
+
+	.mobile-product-tab i.more-less-formula {
+		float: right;
+		margin-top: 8px;
+		font-size: 22px;
+		right: 8px;
+	}
+	.mobile-product-tab .panel-group .panel-heading {
+		padding: 0;
+	}
+	.mobile-product-tab .panel-title .formula-title-Mob h2 {
+		margin: 0;
+		font-family: "AcromMedium";
+	}
+	.product-page .set > a i {
+		margin-top: 0;
+	}
+	.formula-accord.formula-accord3.faq-section .panel-heading {
+		border-bottom: 1px solid #a7a9c6;
+		margin-bottom: 20px;
+	}
+	.racetamsMob span {
+		color: #000;
+	}
+	.formula-accord.faq-section.formula-accord3 .panel {
+		margin: 0;
+	}
+	.formula-accord.faq-section.formula-accord3 .panel-heading {
+		margin: 0 !important;
+	}
+	.mobile-product-tab .panel-title .formula-title-Mob {
+		display: inline-block;
+		width: 100%;
+		padding: 20px 0;
+		text-decoration: none;
+	}
+	.mobile-product-tab .panel {
+		border-top: 1px solid #979797;
+		border-bottom: 1px solid #979797;
+		border-radius: 0;
+		box-shadow: none;
+		margin: 0;
+	}
+	.mobile-product-tab .panel:first-child {
+		border-bottom: 0;
+	}
+	section.mobile-product-tab {
+		margin-top: 35px;
+	}
+	.mobile-product-tab {
+		display: block;
+	}
+	.mobile-product-tab
+		.formula-accord.formula-accord3.faq-section
+		.panel-heading {
+		border-bottom: 1px solid #a7a9c6;
+		border-top: 0 !important;
+	}
+	.mobile-product-tab .formula-accord .panel.panel-default:last-child {
+		margin-bottom: 35px !important;
+	}
+	.ingredients-page .set .content {
+		display: block;
+	}
+	.stories-page section.achievements-goals-interests {
+		padding: 0px 0 25px 0;
+	}
+	.stories-page #quote-carousel {
+		margin-bottom: 4px;
+	}
+	.formula-users-row img {
+		width: 100%;
+	}
+	.stories-page .specific-formula-title .mian-header-title button {
+		width: 100%;
+	}
+	.result-page .result-slider-bg .result-title h2 {
+		margin: 52px 0px 6px;
+		display: inline-block;
+		width: 100%;
+	}
+	.stories-page .mian-header-title button {
+		width: auto;
+	}
+	.stories-page .results-bg {
+		padding-bottom: 0px;
+	}
+	.stories-page section.formulaQuote {
+		padding: 17px 0 25px 0;
+	}
+	.stories-page .testimonial-2-slider {
+		padding: 0 6px 0 6px;
+	}
+	.stories-page .energy-main-heading p {
+		margin-bottom: 24px;
+	}
+	.stories-page section.personal-bg {
+		padding: 24px 0 0px 0;
+	}
+	.stories-page .influencerSocialMedia-container .fa {
+		font-size: 30px;
+		margin: 12px 0 38px 0;
+	}
+	.ingredients-page .set > a {
+		border-bottom: 0;
+	}
+	.checkMarks-cont li .fa {
+		margin-top: 3px;
+	}
+	.stories-page .specific-formula-title h1 p {
+		font-size: 22px;
+		line-height: 28px;
+		margin-top: 10px;
+	}
+	.ingredients-page h3.freeshipping,
+	.product-page h3.freeshipping,
+	.science-page h3.freeshipping,
+	.stories-page h3.freeshipping,
+	.faq-page h3.freeshipping,
+	.result-page h3.freeshipping {
+		color: #6d70a0;
+	}
+	.about-page h3.freeshipping {
+		color: #161e5c;
+	}
+	h3.freeshipping {
+		margin: 0;
+		position: absolute;
+		top: 30px;
+		font-size: 14px;
+		font-family: "AcromMedium";
+		color: #fff;
+		width: 100%;
+		left: 0;
+	}
+	h3.freeshipping1 {
+		margin: 0;
+		position: absolute;
+		top: 30px;
+		font-size: 14px;
+		font-family: "AcromMedium";
+		color: #fff;
+		width: 100%;
+		left: 0;
+	}
+	.landing-page .container {
+		padding: 0px 20px 15px;
+	}
+	.shipping-strip {
+		margin-top: 7px;
+	}
+	.science-page .every-bg {
+		margin-top: 7px;
+	}
+	.stories-page section.testimonial-first-slider {
+		margin-top: 7px;
+		padding: 0 2px 0 2px;
+	}
+}
+
+/*-----------end-(max-width: 767px)-------------*/
+
+@media (min-width: 636px) and (max-width: 766px) {
+	.science-page .Get-starter-heading {
+		margin: 20px 0px 11px 0;
+	}
+}
+
+/*-----------start-(max-width: 480px)-------------*/
+@media (min-width: 380px) and (max-width: 766px) {
+	.about-page .mian-header-title p {
+		display: none;
+	}
+	#header-container {
+		padding: 0px 20px 20px;
+	}
+	h3.freeshipping {
+		margin: 0;
+		position: absolute;
+		top: 30px;
+		font-size: 14px;
+		font-family: "AcromMedium";
+		color: #fff;
+		width: 100%;
+		left: 0;
+		padding: 0 51px;
+	}
+	h3.freeshipping1 {
+		margin: 0;
+		position: absolute;
+		top: 30px;
+		font-size: 14px;
+		font-family: "AcromMedium";
+		color: #fff;
+		width: 100%;
+		left: 0;
+		padding: 0 51px;
+	}
+	.chart-label.chart-label-top {
+		font-size: 40px;
+	}
+	.achieve-heading p {
+		margin-top: 10px;
+	}
+	.checkMarks-cont {
+		top: 108px;
+		width: 50%;
+	}
+	.kit-doller {
+		display: inline-block;
+		width: 100%;
+	}
+	.mob-about-slide-text {
+		display: block !important;
+		margin-top: 20px;
+		color: #161e5c;
+		text-align: left;
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.about-header-bg {
+		height: 245px;
+	}
+	.landing-page #quote-carousel .carousel-control.right {
+		right: 1px !important;
+		top: 17%;
+	}
+	.landing-page #quote-carousel .carousel-control.left {
+		left: 1px;
+		top: 17%;
+	}
+	.landing-page a.left.carousel-control img {
+		width: 22px;
+	}
+	.buy-price .buy-btn img {
+		margin-top: 23px;
+	}
+	h4.dr-name2 {
+		width: 280px;
+	}
+	.ingredients-page button.btn.btn-primary.kitbuy-btn.btn {
+		margin-top: 10px;
+	}
+	.about-page .mian-header-title {
+		margin-top: 73px;
+	}
+	.accordion-container .set:last-child > a {
+		border: 0;
+	}
+	.accordion-container .set:last-child > .content {
+		border: 0;
+	}
+	.product-money-back img {
+		margin: 28px auto 7px;
+	}
+	.product-reviews {
+		margin: 0 0 24px 0;
+	}
+	.card-number1 input.card-style {
+		width: 30%;
+		margin-right: 0px;
+	}
+	/*start-faq*/
+	.faq-section .panel-title a > span {
+		width: 89%;
+		float: left;
+	}
+	/*end-faq*/
+	/*start-science*/
+	.formula-users-row {
+		width: 100%;
+	}
+	.everyone-row .Get-starter-heading .kitbuy-btn {
+		width: 100%;
+		margin-bottom: 16px;
+	}
+	.honest-heading .Get-starter-heading .kitbuy-btn {
+		width: 100%;
+		border-radius: 30px;
+	}
+	.guided-bg {
+		margin: 100px 0 14px 0;
+		padding: 14px 0 14px 0;
+	}
+	.guided-inner .Get-starter-heading .kitbuy-btn {
+		width: 100%;
+	}
+	/*end-science*/
+
+	.card-number1 input.card-style {
+		width: 30%;
+		margin-right: 0px;
+	}
+	.right-say {
+		float: left;
+		width: 84%;
+		margin-left: 19px;
+		padding-left: 31px;
+	}
+	.say-left ul li {
+		margin: 13px 0 158px 0;
+		line-height: 0;
+	}
+	.goodpye-text.goodpye-text4 {
+		margin-top: 25px;
+	}
+	.goodpye-text.goodpye-text4 h3:after {
+		top: 3px !important;
+	}
+	.goodpye-text h3:after {
+		top: 0px;
+	}
+	.goodpye-text.goodpye-text3 h3:after {
+		top: 0px !important;
+	}
+	.buy-price .buy-btn {
+		width: 100%;
+		text-align: left;
+		padding: 0 20px;
+		line-height: 67px;
+	}
+	.header-bg {
+		background-position: -324px 0px;
+		background-attachment: inherit;
+	}
+	.get-ready-heading button {
+		width: 271px;
+		margin-top: 27px !important;
+		border-radius: 30px !important;
+	}
+	.get-ready-heading h2 {
+		width: 187px !important;
+	}
+	.navbar-container {
+		padding: 0px 0 20px 0;
+	}
+	/*start-result*/
+	.try-itout-btn .btn {
+		width: 100%;
+		border-radius: 50px;
+		height: 70px;
+		font-size: 18px;
+	}
+	.get-result-btn .btn {
+		height: 70px;
+		width: 92%;
+		border-radius: 50px;
+	}
+	/*end-result*/
+	.product-page .get-ready-heading h2 {
+		width: auto !important;
+	}
+	.checkMarks-cont ul li {
+		display: flex;
+	}
+	div#sidebar-wrapper {
+		margin-top: 89px;
+	}
+	.stories-page .specific-formula-title h1 {
+		width: 210px;
+	}
+}
+
+/*-----------end-(max-width: 480px)-------------*/
+
+/*-----------end-(max-width: 380px)-------------*/
+@media (max-width: 380px) {
+	.about-page .mian-header-title {
+		padding-left: 2px;
+		width: 281px;
+	}
+
+	.checkMarks-cont {
+		top: 89px;
+		width: 57%;
+		padding: 15px 10px 6px 15px;
+	}
+	h4.dr-name2 {
+		width: auto;
+	}
+	.science-page .vegan-row .vegan-inner p {
+		font-size: 12px;
+		margin-left: 10px;
+	}
+	.checkMarks-cont {
+		top: 68px;
+		padding: 15px 10px 6px 15px;
+	}
+}
+/*-----------end-(max-width: 380px)-------------*/
+
+/*-----------end-(max-width: 320px)-------------*/
+@media (max-width: 320px) {
+	.checkMarks-cont {
+		top: 44px;
+		width: 57%;
+		padding: 15px 10px 6px 15px;
+	}
+}
+/*-----------end-(max-width: 320px)-------------*/
+
+/*-----------(min-width: 768px)-------------*/
+@media (min-width: 768px) {
+	#wrapper.collapse {
+		display: block !important;
+	}
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg5212"
+   viewBox="0 0 77.500002 35.006093"
+   height="9.8794975mm"
+   width="21.872223mm">
+  <defs
+     id="defs5214" />
+  <metadata
+     id="metadata5217">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-515.53571,-712.00202)"
+     id="layer1">
+    <g
+       transform="matrix(1.25,0,0,-1.25,553.03533,717.61686)"
+       id="g196">
+      <path
+         id="path198"
+         style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c -5.238,0 -9.5,-4.262 -9.5,-9.5 0,-5.238 4.262,-9.5 9.5,-9.5 5.238,0 9.5,4.262 9.5,9.5 C 9.5,-4.262 5.238,0 0,0 m 0,-23 c -7.444,0 -13.5,6.056 -13.5,13.5 C -13.5,-2.056 -7.444,4 0,4 7.444,4 13.5,-2.056 13.5,-9.5 13.5,-16.944 7.444,-23 0,-23" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,521.66446,729.49186)"
+       id="g200">
+      <path
+         id="path202"
+         style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 0,0 C 7.174,-6.472 16.364,-10.013 26.097,-10.013 35.83,-10.013 45.019,-6.472 52.193,0 37.403,13.326 14.792,13.326 0,0 m 26.097,-14.013 c -11.489,0 -22.29,4.475 -30.414,12.599 -0.375,0.375 -0.586,0.884 -0.586,1.414 0,0.53 0.211,1.039 0.586,1.414 16.77,16.771 44.057,16.77 60.828,0 C 56.886,1.039 57.097,0.53 57.097,0 c 0,-0.53 -0.211,-1.039 -0.586,-1.414 -8.124,-8.124 -18.925,-12.599 -30.414,-12.599" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,557.41031,729.49186)"
+       id="g204">
+      <path
+         id="path206"
+         style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 0,0 C 0,-1.933 -1.567,-3.5 -3.5,-3.5 -5.433,-3.5 -7,-1.933 -7,0 -7,1.934 -5.433,3.5 -3.5,3.5 -1.567,3.5 0,1.934 0,0" />
+    </g>
+  </g>
+</svg>

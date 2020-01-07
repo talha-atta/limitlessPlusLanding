@@ -1,0 +1,4558 @@
+@font-face {
+	font-family: "AcromMedium";
+	src: url("../fonts/AcromMedium.eot");
+	src: url("../fonts/AcromMedium.eot") format("embedded-opentype"),
+	url("../fonts/AcromMedium.woff2") format("woff2"),
+	url("../fonts/AcromMedium.woff") format("woff"),
+	url("../fonts/AcromMedium.ttf") format("truetype"),
+	url("../fonts/AcromMedium.svg#AcromMedium") format("svg");
+}
+
+/*---------------------start-order-page--------------------*/
+/*tab-accordion*/
+
+ul.tabs li:hover {
+	background-color: #ccc;
+	color: #333;
+}
+
+ul.tabs li.active {
+	background-color: #fff;
+	color: #333;
+	border-bottom: 1px solid #fff;
+	display: inline-block;
+}
+.tab_container {
+	border-top: none;
+	clear: both;
+	float: left;
+	width: 100%;
+	background: #fff;
+	overflow: auto;
+}
+
+.tab_content {
+	padding: 20px;
+	display: none;
+}
+
+.tab_drawer_heading {
+	display: none;
+}
+
+@media screen and (max-width: 767px) {
+	.tabs {
+		display: none;
+	}
+	.tab_drawer_heading {
+		background-color: #fff;
+		color: #161e5c;
+		border-top: 1px solid #979797;
+		margin: 0;
+		padding: 5px 20px;
+		display: block;
+		cursor: pointer;
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		border-bottom: 1px solid #6d70a0;
+		padding: 25px 0;
+		font-family: "AcromMedium";
+		font-weight: bold !important;
+	}
+	.d_active {
+		background-color: #fff;
+		color: #161e5c;
+	}
+}
+/*--------------------end767px-------------------*/
+
+.product-slider.pull-right {
+	margin-right: 0;
+}
+.pagination-item {
+	width: 116px !important;
+}
+.product-slider.pull-right {
+	margin-right: 0;
+}
+/*end-tab-accordion*/
+
+.free-shipping-inner p {
+	display: inline-block;
+}
+.product-header-bg {
+	background: #fff;
+	height: 120px;
+}
+.product-header-bg .navbar-container {
+	padding: 0;
+}
+.product-header-bg li.find-formula-btn a {
+	border: 1px solid #83b9d5 !important;
+	color: #83b9d5 !important;
+}
+.product-header-bg li.find-formula-btn .fa {
+	color: #83b9d5;
+}
+.product-header-bg .fixed-theme li.find-formula-btn .fa {
+	color: #83b9d5 !important;
+}
+.faq-page .shipping-strip {
+	text-align: center;
+	background: #fff;
+	padding: 0px 0 3px 0;
+}
+.star-reviews-inner img {
+	float: left;
+}
+
+/*----start-radio-btn----*/
+.investment-check {
+	display: block;
+	position: relative;
+	padding-left: 30px;
+	margin-bottom: 12px;
+	cursor: pointer;
+	font-weight: normal;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	font-size: 16px;
+	color: #2e546d;
+}
+
+/* Hide the browser's default radio button */
+.investment-check input {
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 20px;
+	width: 20px;
+	background-color: #fff;
+	border-radius: 50%;
+	border: 2px solid #d5d5d5;
+}
+.pagination-container {
+	margin-top: 10px;
+}
+.pagination-item {
+	margin-right: 10px !important;
+	height: 100px;
+	width: 116px !important;
+}
+/* On mouse-over, add a grey background color */
+.investment-check:hover input ~ .checkmark {
+	background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.investment-check input:checked ~ .checkmark {
+	background-color: #fff;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+	content: "";
+	position: absolute;
+	display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.investment-check input:checked ~ .checkmark:after {
+	display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.investment-check .checkmark::after {
+	top: 3px;
+	left: 3px;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background: #9013fe;
+}
+/*----end-radio-btn----*/
+.buy-starter-title {
+	font-family: 'WorkSans-Regular', sans-serif;
+	display: inline-block;
+	width: 367px;
+}
+.buy-starter-title ul {
+	margin: 0;
+	padding: 4px 0 2px 17px;
+}
+.buy-starter-title ul li {
+	margin: 0 0 10px 0;
+	color: #6d70a0;
+}
+.purchase-checkbox {
+	border-top: 2px solid #e6f1f6;
+	padding-top: 7px;
+}
+.buy-price del {
+	color: #83b9d5;
+}
+.buy-starter-title ul li {
+	font-size: 16px;
+}
+.fixed-rapay span {
+	color: #83b9d5;
+}
+.buy-price h2 {
+	color: #8343d5;
+	font-weight: bold;
+	font-size: 24px;
+	font-family: "AcromMedium";
+	margin: 7px 0 24px 0;
+	display: inline-block;
+	width: 100%;
+}
+.fixed-rapay p {
+	font-size: 12px;
+}
+.buy-price .buy-btn:hover,
+.buy-price .buy-btn:focus,
+.buy-price .buy-btn:active {
+	background: #8343d5;
+	border-color: #8343d5;
+	outline: none;
+}
+.buy-price .buy-btn {
+	background: #8343d5;
+	border-color: #8343d5;
+	height: 70px;
+	width: 190px;
+	text-align: center;
+	font-size: 23px;
+	font-weight: bold;
+	line-height: 51px;
+}
+.back-guarantee {
+	margin: 8px 0;
+}
+p.back-guarantee img {
+	margin: 0 0 0 8px;
+}
+.get-buy-tab {
+	text-align: center;
+	float: left;
+	margin: 61px 0 0 80px;
+}
+.get-buy-tab ul li {
+	display: inline-block;
+	width: 290px;
+	margin-right: 97px;
+	background: #eeeeee;
+	border-radius: 12px 12px 0 0;
+	height: 70px;
+	float: none;
+}
+.get-buy-tab ul li:last-child {
+	margin-right: 0px;
+}
+.get-buy-tab ul li a {
+	height: 70px;
+	line-height: 50px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #6d70a0;
+	opacity: 0.5;
+}
+.get-buy-tab ul li a:hover {
+	border-radius: 12px 12px 0 0;
+}
+.get-buy-tab .nav-tabs > li.active > a,
+.get-buy-tab .nav-tabs > li.active > a:focus,
+.get-buy-tab .nav-tabs > li.active > a:hover {
+	color: #6d70a0;
+	background-color: #f6f6f6;
+	border: 1px solid #f6f6f6;
+	border-radius: 12px 12px 0 0;
+	opacity: 1;
+	font-family: "AcromMedium";
+}
+.tab-content-tabs {
+	background: #f5f5f5;
+	padding: 56px 0 33px 0;
+	text-align: center;
+}
+.get-buy-tab .nav-tabs {
+	border-bottom: 1px solid #f0ecec;
+}
+.getimg-inner p {
+	font-size: 18px;
+	color: #161e5c;
+	line-height: 30px;
+}
+.getimg-inner {
+	width: 277px;
+	display: inline-block;
+}
+.product-header-bg .main-menu-inner li a {
+	color: #6d70a0;
+	font-family: "AcromMedium";
+}
+.product-backmoney .product-money-row {
+	padding: 39px 35px 39px 35px;
+	width: 1066px;
+	margin: 50px auto 37px;
+	display: table;
+	height: 300px;
+}
+.product-money-row {
+	border: 2px solid #dbc8c8;
+	display: inline-block;
+	padding: 39px 35px 39px 35px;
+}
+.product-money-back {
+	float: left;
+}
+.product-money-back img {
+	width: 230px;
+}
+.home-footer {
+	background: #ededed;
+}
+.footer-inner {
+	margin: 53px 0;
+	display: inline-block;
+}
+.product-page .product-money-text {
+	width: 597px;
+	float: left;
+	margin: 11px 0 0 50px;
+}
+.product-money-text span {
+	color: #9d9a9a;
+	font-size: 18px;
+	font-family: workSans-Regular;
+}
+.Get-starter-bluestrip {
+	text-align: center;
+	background: #161e5c;
+}
+.ingredients-page .Get-starter-bluestrip {
+	display: inline-block;
+	width: 100%;
+}
+.Get-starter-heading h2 {
+	color: #fff;
+	display: inline-block;
+	font-weight: bold;
+	margin-right: 20px;
+	font-family: "AcromMedium";
+	position: relative;
+	top: 6px;
+}
+.product-money-text p {
+	font-size: 18px;
+	color: #161e5c;
+	line-height: 30px;
+}
+.Get-starter-heading {
+	margin: 20px 0px 30px 0;
+}
+p.contect-title {
+	font-size: 16px !important;
+	font-weight: bold;
+	margin: 0 !important;
+	color: #8343d5;
+}
+.contact-us-text p {
+	font-size: 12px;
+	margin: 6px 0 5px 0;
+}
+.footer-statement p {
+	font-size: 12px;
+}
+.footer-statement {
+	width: 700px;
+	display: inline-block;
+	margin-top: 62px;
+	text-align: left;
+	float: left;
+}
+.copy-right {
+	float: left;
+}
+.Get-starter-heading .kitbuy-btn {
+	background: #8343d5;
+	border-color: #8343d5;
+	height: 50px;
+	width: 185px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	border-radius: 8px;
+}
+.Get-starter-heading .kitbuy-btn:hover,
+.Get-starter-heading .kitbuy-btn:focus,
+.Get-starter-heading .kitbuy-btn:active {
+	background: #8343d5;
+	border-color: #8343d5;
+	outline: none;
+}
+.Get-starter-heading .kitbuy-btn img {
+	float: right;
+}
+
+/*slider-css*/
+.albery-container,
+.pagination-container {
+	position: relative;
+	/* center it */
+
+	/*margin-left: auto;
+	margin-right: auto;*/
+	width: 400px;
+	overflow: hidden;
+}
+
+.albery-wrapper {
+	position: relative;
+	height: auto;
+	width: 1600px;
+}
+.albery-item {
+	position: relative;
+	float: left;
+	width: 400px;
+	/*cursor: zoom-in;*/
+}
+.albery-item img {
+	width: 100%;
+}
+
+.move-left,
+.move-right {
+	position: absolute;
+	width: 18%;
+	top: 0;
+	bottom: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.move-left a,
+.move-right a {
+	display: block;
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.5);
+	transition: all 0.5s;
+	border-top: 34px solid transparent;
+	border-bottom: 34px solid transparent;
+	width: 0;
+	height: 0;
+}
+.move-left a:hover,
+.move-right a:hover {
+	color: rgba(255, 255, 255, 0.9);
+}
+.move-left a {
+	border-right: 34px solid rgba(255, 255, 255, 0.5);
+}
+.move-right a {
+	border-left: 34px solid rgba(255, 255, 255, 0.5);
+}
+
+.move-left {
+	left: 0;
+}
+
+.move-right {
+	right: 0;
+}
+
+.pagination-wrapper {
+	position: relative;
+	height: auto;
+	width: 1600px !important;
+}
+.pagination-item {
+	position: relative;
+	float: left;
+	width: 144px;
+	margin-right: 13px;
+	cursor: pointer;
+}
+.pagination-item img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.product-slide-row {
+	margin-top: 44px;
+}
+/*end-slider-css*/
+
+.right-buy-row {
+	margin-left: 28px;
+}
+.star-reviews-inner img {
+	width: 22px;
+	margin-right: 4px;
+}
+.buy-starter-title h1 {
+	font-size: 45px;
+	font-weight: bold;
+	margin: 26px 0px 14px;
+}
+.buy-starter-title p {
+	font-size: 16px;
+}
+.getimg-inner h3 {
+	font-weight: bold;
+	font-size: 30px;
+}
+.product-backmoney {
+	display: inline-block;
+	width: 100%;
+}
+.product-backmoney .product-money-text h2 {
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "AcromMedium";
+}
+.recetams-inner {
+	text-align: left;
+	display: inline-block;
+	width: 100%;
+	padding: 0 0 29px 21px;
+}
+.recetams-inner p {
+	font-size: 24px;
+	margin-bottom: 36px;
+	line-height: 40px;
+}
+.recetams-inner1 p {
+	font-size: 24px;
+	margin-bottom: 36px;
+	line-height: 40px;
+	text-align: left;
+}
+.recetams-inner h3 {
+	margin: 0 0 10px 0;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+}
+ul.right-oxiracetam {
+	float: right !important;
+	margin-right: 30px;
+}
+.recetams-inner ul {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.recetams-inner ul li {
+	list-style: none;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0 0 10px 0;
+	color: #161e5c;
+}
+.recetams-inner.cholineinner {
+	padding: 53px 0 30px 0;
+}
+.recetams-inner.plant-based {
+	padding: 39px 0 7px 0;
+	border: 0;
+}
+.vegan-inner {
+	display: inline-block;
+	width: 100%;
+	padding: 0 0 5px 0;
+}
+.vegan-inner p {
+	float: left;
+}
+.plant-based p {
+	margin-bottom: 20px;
+}
+.cholineinner p {
+	margin-bottom: 18px;
+}
+.vegan-inner img {
+	display: inline-block;
+}
+.vegan-img-row {
+	width: 26px;
+	float: left;
+	text-align: center;
+}
+.highest-quality-inner p {
+	text-align: left;
+	margin: 29px 0 36px 0;
+	font-size: 18px;
+}
+.highest-quality-inner {
+	margin-left: 82px;
+}
+.vegan-row1 .right-vegan-row {
+	padding: 10px 0 19px 0px !important;
+	margin-left: 80px !important;
+}
+.reviews-star img {
+	width: 17px;
+}
+.reviews-star span {
+	color: #6d70a0;
+	position: relative;
+	top: 3px;
+}
+.product-reviews h3 {
+	font-size: 24px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	margin: 15px 0 13px;
+	text-transform: uppercase;
+}
+.product-reviews-row {
+	margin-left: 55px;
+}
+.product-reviews p {
+	font-size: 20px;
+}
+.product-reviews {
+	text-align: left;
+	margin: 0 0 55px 0;
+}
+.footer-right-bar {
+	width: 674px;
+	margin-left: 40px;
+	display: inline-block;
+}
+.footer-logo {
+	float: left;
+}
+.copy-right ul li a {
+	font-size: 12px;
+	font-weight: bold;
+	color: #161e5c;
+}
+.copy-right ul li {
+	margin-right: 10px;
+	color: #161e5c;
+}
+/*---------------------end-order-page--------------------*/
+
+.main-menu-inner {
+	text-align: center;
+}
+.main-menu-inner ul li {
+	display: inline-block;
+	margin: 0 42px 0 0;
+}
+.main-menu-inner ul li:last-child {
+	margin: 0;
+}
+.main-menu-inner ul li.find-formula-btn {
+	margin: 0 !important;
+}
+.header-bg {
+	height: 120px;
+	background: #eee;
+}
+.main-menu-inner ul {
+	line-height: 111px;
+	margin: 0;
+	padding: 0;
+}
+.main-menu-inner li a {
+	color: #7270a0;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-family: "AcromMedium";
+}
+.main-menu-inner li a:focus,
+.main-menu-inner li a:active,
+.main-menu-inner li a:hover {
+	border-bottom: 4px solid #000;
+	text-decoration: none;
+}
+.main-header-logo a:focus,
+.main-header-logo a:active,
+.main-header-logo a:hover {
+	border: 0 !important;
+}
+.find-formula-btn a:focus,
+.find-formula-btn a:active,
+.find-formula-btn a:hover {
+	border: 1px solid #83b9d5 !important;
+}
+li.find-formula-btn a {
+	width: 201px;
+	border: 1px solid #83b9d5;
+	padding: 12px 12px;
+	border-radius: 309px;
+	text-align: left;
+	color: #83b9d5;
+}
+.find-formula-btn img.green-arrow {
+	margin-left: 9px;
+}
+.motivation-row-inner h2 {
+	margin: 0 0 39px 0;
+	color: #fff;
+}
+.formula-motivation-bg {
+	background: #161e5c;
+	padding: 145px 0;
+}
+.motivation-row-inner p {
+	width: 548px;
+	color: #fff;
+}
+.motivation-row-inner img {
+	float: right;
+	padding-top: 4px;
+}
+.motivation-row-inner button {
+	margin-top: 18px;
+	height: 70px;
+	width: 209px;
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+u.underline-motivation {
+	color: #83b9d5;
+}
+.people-heading-inner {
+	text-align: center;
+	width: 590px;
+	margin: 116px auto;
+}
+h2.people-last-heading span {
+	color: #8343d5;
+}
+.your-goal-bg {
+	background-image: url(../images/temp-bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.right-formula-inner {
+	width: 280px;
+	margin: 0 auto;
+	background: #fff;
+	text-align: center;
+	padding: 0px 30px;
+}
+.grace-inner {
+	display: inline-block;
+}
+.grace-inner img {
+	display: inline-block;
+	margin: 0px 0 13px 0;
+}
+.checkbox-left {
+	float: left;
+	text-align: left;
+}
+.checkbox-right {
+	float: right;
+	text-align: left;
+}
+.your-goal-row {
+	margin: 120px 0;
+}
+img.grace.img-responsive {
+	position: relative;
+	margin-top: -96px;
+	border-radius: 50%;
+}
+.grace-inner span {
+	font-size: 20px;
+	width: 100%;
+	display: inline-block;
+}
+p.caffeine-text {
+	width: 100%;
+	display: inline-block;
+	border-top: 1px solid #ccc;
+	margin-top: 10px;
+	padding: 10px 0;
+	color: #161e5c;
+	font-weight: bold;
+}
+.checkbox label {
+	color: #161e5c;
+	font-weight: bold;
+}
+.goal-inner p {
+	width: 300px;
+}
+.starter-row {
+	margin: 120px 0;
+}
+.starter-kit-inner {
+	width: 305px;
+}
+.track-row {
+	margin: 120px 0;
+}
+.track-effects-inner {
+	width: 305px;
+}
+.customized-row {
+	margin: 120px 0;
+}
+.customized-formula-inner {
+	width: 340px;
+}
+.what-work {
+	background: #161e5c;
+}
+.what-work-text h4 {
+	color: #fff;
+	text-align: center;
+	padding: 25px 0;
+}
+
+/*start-carousel*/
+/* carousel */
+#quote-carousel {
+	padding: 0 10px 30px 10px;
+	margin-top: 30px;
+}
+
+/* Control buttons  */
+#quote-carousel .carousel-control {
+	background: none;
+	color: #222;
+	font-size: 2.3em;
+	text-shadow: none;
+	margin-top: 30px;
+}
+/* Previous button  */
+#quote-carousel .carousel-control.left {
+	left: -12px;
+	top: 25%;
+}
+/* Next button  */
+
+/* Changes the position of the indicators */
+#quote-carousel .carousel-indicators {
+	right: 50%;
+	top: auto;
+	bottom: 0px;
+	margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#quote-carousel .carousel-indicators li {
+	background: #c0c0c0;
+}
+#quote-carousel .carousel-indicators .active {
+	background: #333333;
+}
+a.right.carousel-control img {
+	float: right;
+}
+/* End carousel */
+
+.item blockquote {
+	border-left: none;
+	margin: 0;
+}
+a.right.carousel-control img {
+	float: right;
+	width: 30px;
+}
+a.left.carousel-control img {
+	width: 30px;
+}
+.item blockquote img {
+	margin-bottom: 10px;
+}
+
+.item blockquote p:before {
+	content: "\f10d";
+	font-family: "Fontawesome";
+	float: left;
+	margin-right: 10px;
+}
+
+/**
+  MEDIA QUERIES
+*/
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	#quote-carousel {
+		margin-bottom: 0;
+		padding: 0 40px 30px 40px;
+	}
+}
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+	/* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+	#quote-carousel .carousel-indicators {
+		bottom: -20px !important;
+	}
+	#quote-carousel .carousel-indicators li {
+		display: inline-block;
+		margin: 0px 5px;
+		width: 15px;
+		height: 15px;
+	}
+	#quote-carousel .carousel-indicators li.active {
+		margin: 0px 5px;
+		width: 20px;
+		height: 20px;
+	}
+}
+/*end-carousel*/
+
+.connect-withus-text {
+	float: left;
+}
+.copy-right ul li {
+	display: inline-block;
+}
+.copy-right ul {
+	margin: 0;
+	padding: 0;
+}
+.connect-withus-text ul li {
+	display: inline-block;
+}
+.connect-withus-text ul {
+	margin: 0;
+	padding: 0;
+}
+
+/*---------------------start-order-page--------------------*/
+.free-shipping-inner p {
+	display: inline-block;
+}
+.order-header-bg {
+	background: #fff;
+}
+.shipping-strip {
+	text-align: center;
+	background: #f0ecec;
+	padding: 15px 0 3px 0;
+}
+.star-reviews-inner img {
+	float: left;
+}
+.star-reviews-inner p {
+	margin: 5px 0 0 10px;
+	float: left;
+	font-size: 12px;
+}
+.purchase-check-inner {
+	width: 100%;
+	display: inline-block;
+}
+
+/*----start-radio-btn----*/
+
+/* Hide the browser's default radio button */
+.investment-check input {
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 20px;
+	width: 20px;
+	background-color: #fff;
+	border-radius: 50%;
+	border: 2px solid #d5d5d5;
+}
+
+/* On mouse-over, add a grey background color */
+.investment-check:hover input ~ .checkmark {
+	background-color: #ccc;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+	content: "";
+	position: absolute;
+	display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.investment-check input:checked ~ .checkmark:after {
+	display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.investment-check .checkmark::after {
+	top: 3px;
+	left: 3px;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background: #9013fe;
+}
+/*----end-radio-btn----*/
+.buy-starter-title {
+	display: inline-block;
+	width: 354px;
+}
+.buy-starter-title ul li {
+	margin: 0 0 10px 0;
+	color: #6d70a0;
+}
+.buy-price del {
+	color: #83b9d5;
+}
+.fixed-rapay span {
+	color: #83b9d5;
+}
+.buy-price h2 {
+	color: #8343d5;
+	font-weight: bold;
+}
+.buy-price .buy-btn:hover,
+.buy-price .buy-btn:focus,
+.buy-price .buy-btn:active {
+	background: #8343d5;
+	border-color: #8343d5;
+	outline: none;
+}
+.buy-price .buy-btn img {
+	float: right;
+	margin-top: 16px;
+}
+.back-guarantee {
+	margin: 8px 0;
+}
+.formula-accord-main {
+	display: inline-block;
+	width: 100%;
+}
+p.back-guarantee img {
+	margin: 0 0 0 8px;
+}
+.product-money-row {
+	border: 2px solid #dbc8c8;
+	display: inline-block;
+	padding: 39px 35px 39px 35px;
+}
+.product-money-back {
+	float: left;
+	padding: 0 7px 0 41px;
+}
+.product-money-text {
+	width: 80%;
+	float: right;
+	text-align: left;
+}
+/*---------------------end-order-page--------------------*/
+
+/*---------------------start-according-page--------------------*/
+.accordion {
+	width: 550px;
+	margin: 0 auto;
+}
+.accordion-toggle {
+	cursor: pointer;
+	margin: 0;
+	padding: 10px 0;
+	position: relative;
+}
+.accordion-toggle.active:after {
+	content: "";
+	position: absolute;
+	right: 0;
+	top: 13px;
+	width: 41px !important;
+	height: 20px;
+	background-image: url(../images/accordion-arow.png);
+	background-repeat: no-repeat;
+	float: right;
+}
+.accordion-toggle:before {
+	content: "";
+	position: absolute;
+	right: -7px;
+	top: 13px;
+	width: 41px !important;
+	height: 27px;
+	background-image: url(../images/accordion-arow1.png);
+	background-repeat: no-repeat;
+	float: right;
+}
+.accordion-toggle.active:before {
+	display: none;
+}
+.accordion-content {
+	display: none;
+}
+.accordion-toggle.active {
+	color: #ff0000;
+}
+
+img#light-arrow {
+	float: right;
+	margin: 21px 0 0 0px;
+}
+.Qustions1 {
+	display: inline-block;
+	width: 100%;
+	border-top: 2px solid #d5e7f0;
+}
+.accordion-title {
+	width: 642px;
+	text-align: center;
+	margin: 13px auto 56px;
+}
+.congitive-bg {
+	background: #161e5c;
+	text-align: center;
+	padding: 40px 0;
+}
+.congitive-text p {
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+}
+.congitive-text button {
+	background: #8343d5;
+	border-color: #8343d5;
+	height: 50px;
+	width: 187px;
+	text-align: left;
+	font-size: 18px;
+	font-weight: bold;
+}
+.congitive-text button:hover,
+.congitive-text button:focus,
+.congitive-text button:active {
+	background: #8343d5;
+	border-color: #8343d5;
+	outline: none;
+}
+.congitive-text button img {
+	float: right;
+}
+/*---------------------end-according-page--------------------*/
+
+.main-menu-inner {
+	text-align: center;
+}
+.main-menu-inner ul li {
+	display: inline-block;
+	margin: 0 42px 0 0;
+}
+.main-menu-inner ul li:last-child {
+	margin: 0;
+}
+.header-bg {
+	background-image: url(../images/landing-page-header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 750px;
+	background-attachment: fixed;
+	background-position: center;
+}
+.main-menu-inner ul {
+	line-height: 111px;
+	margin: 0;
+	padding: 0;
+}
+.main-menu-inner li a {
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.main-menu-inner li a:focus,
+.main-menu-inner li a:active,
+.main-menu-inner li a:hover {
+	border-bottom: 4px solid #8343d5;
+	text-decoration: none;
+}
+
+.main-header-logo a:focus,
+.main-header-logo a:active,
+.main-header-logo a:hover {
+	border: 0 !important;
+}
+.find-formula-btn a:focus,
+.find-formula-btn a:active,
+.find-formula-btn a:hover {
+	border: 1px solid #fff !important;
+}
+
+li.find-formula-btn a {
+	width: 201px;
+	border: 1px solid #fff;
+	padding: 12px 12px;
+	border-radius: 309px;
+	text-align: left;
+	color: #fff;
+}
+.find-formula-btn img.green-arrow {
+	margin-left: 9px;
+}
+.mian-header-title h2 {
+	font-size: 40px;
+	font-weight: bold;
+	color: #161e5c;
+	font-family: "AcromMedium";
+	line-height: 50px;
+}
+.mian-header-title p {
+	color: #161e5c;
+	width: 361px;
+	margin-bottom: 30px;
+	font-size: 18px;
+	line-height: 28px;
+}
+.landing-page .mian-header-title h2 {
+	color: #fff;
+}
+.landing-page .mian-header-title p {
+	color: #fff;
+}
+.connect-withus-text ul li .fa {
+	font-size: 18px;
+	color: #6d70a0;
+}
+.mian-header-title {
+	padding-left: 100px;
+	margin-top: 226px;
+}
+.mian-header-title button {
+	background: #8343d5;
+	border-color: #8343d5;
+	border-radius: 52px;
+	width: 180px;
+	height: 50px;
+	font-weight: bold;
+	font-size: 16px;
+	padding: 14px 20px;
+}
+.mian-header-title button:hover,
+.mian-header-title button:focus,
+.mian-header-title button:active {
+	background: #161e5c;
+	border-color: #161e5c;
+	outline: none;
+}
+.goodbye-title h2 {
+	text-align: center;
+	width: 403px;
+	margin: 105px auto 64px;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	line-height: 50px;
+}
+.gudbiee {
+	float: right;
+	width: 832px;
+}
+.left-dooted-image {
+	float: left;
+}
+.right-say {
+	float: left;
+	width: 460px;
+	margin-left: 35px;
+	border-left: 2px solid #161e5c;
+	padding-left: 48px;
+}
+.say-left ul li {
+	list-style: none;
+	font-size: 58px;
+	margin: 0 0 87px 0;
+	font-family: "Merriweather", serif;
+	font-weight: bold;
+	color: #161e5c;
+}
+.goodpye-text h3 {
+	font-size: 22px;
+	font-weight: bold;
+	margin: 0 0 13px -14px;
+}
+.goodpye-text p {
+	width: 365px;
+	font-size: 18px;
+}
+.find-btn.mian-header-title {
+	padding-left: 0;
+	margin-top: 45px;
+	text-align: center;
+	padding-bottom: 85px;
+}
+.goodpye-text {
+	margin-top: 55px;
+}
+.goodpye-text:first-child {
+	margin-top: 0px;
+}
+.backed-science-bg {
+	background: #161e5c;
+	padding-bottom: 70px;
+}
+.backed-science-bg .find-btn.mian-header-title {
+	padding-bottom: 0px;
+}
+.backed-science-title h2 {
+	color: #fff;
+	font-size: 40px;
+	font-weight: bold;
+	width: 420px;
+	text-align: center;
+	margin: 95px auto 20px;
+	font-family: "AcromMedium";
+	line-height: 50px;
+}
+.backed-science-title p {
+	width: 500px;
+	margin: 0 auto;
+	font-size: 18px;
+	color: #fff;
+}
+.result-slider {
+	margin: 0 auto;
+	float: none;
+}
+.specific-formula-title h1 {
+	font-size: 30px;
+	margin: 0 0 9px;
+	width: 273px;
+	font-weight: bold;
+}
+.specific-formula-title {
+	padding-right: 22px;
+}
+p.goals-energy span {
+	color: #908f90;
+	font-size: 16px;
+}
+p.goals-energy p {
+	color: #161e5c;
+	font-size: 16px;
+}
+.specific-formula-title .find-btn.mian-header-title {
+	padding-left: 0;
+	margin-top: 20px;
+	text-align: left;
+	padding-bottom: 0;
+}
+.result-title h2 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	margin: 75px 0px 50px;
+	font-family: "AcromMedium";
+}
+.mob-slider {
+	display: none;
+}
+/*START-MOB-NAV*/
+:root {
+	--bg: white;
+	--nv-bg: #2fb0b5;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.bg-dark {
+	text-align: center;
+}
+img.mobile-logo.img-responsove {
+	margin-top: 10px;
+}
+.navWrapper .navbar-brand {
+	color: var(--bg) !important;
+}
+.mg-t-20 {
+	margin-top: 20px;
+}
+/*Hamburger Menu to X css*/
+.navbar-toggle {
+	width: 30px;
+	height: 25px;
+	cursor: pointer;
+}
+.navbar-toggle i {
+	background: var(--bg);
+	border-radius: 2px;
+	width: 100%;
+	height: 4px;
+	content: "";
+	display: block;
+}
+.navbar-toggle i:nth-child(1) {
+	-webkit-animation: outT 0.8s backwards;
+	animation: outT 0.8s backwards;
+	-webkit-animation-direction: reverse;
+	animation-direction: reverse;
+}
+.navbar-toggle i:nth-child(2) {
+	margin: 5px 0;
+	-webkit-animation: outM 0.8s backwards;
+	animation: outM 0.8s backwards;
+	-webkit-animation-direction: reverse;
+	animation-direction: reverse;
+}
+.navbar-toggle i:nth-child(3) {
+	-webkit-animation: outBtm 0.8s backwards;
+	animation: outBtm 0.8s backwards;
+	-webkit-animation-direction: reverse;
+	animation-direction: reverse;
+}
+
+/*.navbar-toggle.active i:nth-child(1) {
+    -webkit-animation: inT 0.8s forwards;
+    animation: inT 0.8s forwards;
+}
+.navbar-toggle.active i:nth-child(2) {
+    -webkit-animation: inM 0.8s forwards;
+    animation: inM 0.8s forwards;
+}
+.navbar-toggle.active i:nth-child(3) {
+    -webkit-animation: inBtm 0.8s forwards;
+    animation: inBtm 0.8s forwards;
+}*/
+
+.in .navbar-toggle i:nth-child(1) {
+	-webkit-animation: inT 0.8s forwards;
+	animation: inT 0.8s forwards;
+}
+.in .navbar-toggle i:nth-child(2) {
+	-webkit-animation: inM 0.8s forwards;
+	animation: inM 0.8s forwards;
+}
+.in .navbar-toggle i:nth-child(3) {
+	-webkit-animation: inBtm 0.8s forwards;
+	animation: inBtm 0.8s forwards;
+}
+
+.navbar-toggler {
+	padding: 0;
+	border-radius: 0;
+	background-color: none;
+	border: none;
+}
+@-webkit-keyframes inM {
+	50% {
+		-webkit-transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(45deg);
+	}
+}
+@keyframes inM {
+	50% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(45deg);
+	}
+}
+@-webkit-keyframes outM {
+	50% {
+		-webkit-transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(45deg);
+	}
+}
+@keyframes outM {
+	50% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(45deg);
+	}
+}
+@-webkit-keyframes inT {
+	0% {
+		-webkit-transform: translateY(0px) rotate(0deg);
+	}
+	50% {
+		-webkit-transform: translateY(9px) rotate(0deg);
+	}
+	100% {
+		-webkit-transform: translateY(9px) rotate(135deg);
+	}
+}
+@keyframes inT {
+	0% {
+		transform: translateY(0px) rotate(0deg);
+	}
+	50% {
+		transform: translateY(9px) rotate(0deg);
+	}
+	100% {
+		transform: translateY(9px) rotate(135deg);
+	}
+}
+@-webkit-keyframes outT {
+	0% {
+		-webkit-transform: translateY(0px) rotate(0deg);
+	}
+	50% {
+		-webkit-transform: translateY(9px) rotate(0deg);
+	}
+	100% {
+		-webkit-transform: translateY(9px) rotate(135deg);
+	}
+}
+@keyframes outT {
+	0% {
+		transform: translateY(0px) rotate(0deg);
+	}
+	50% {
+		transform: translateY(9px) rotate(0deg);
+	}
+	100% {
+		transform: translateY(9px) rotate(135deg);
+	}
+}
+@-webkit-keyframes inBtm {
+	0% {
+		-webkit-transform: translateY(0px) rotate(0deg);
+	}
+	50% {
+		-webkit-transform: translateY(-9px) rotate(0deg);
+	}
+	100% {
+		-webkit-transform: translateY(-9px) rotate(135deg);
+	}
+}
+@keyframes inBtm {
+	0% {
+		transform: translateY(0px) rotate(0deg);
+	}
+	50% {
+		transform: translateY(-9px) rotate(0deg);
+	}
+	100% {
+		transform: translateY(-9px) rotate(135deg);
+	}
+}
+@-webkit-keyframes outBtm {
+	0% {
+		-webkit-transform: translateY(0px) rotate(0deg);
+	}
+	50% {
+		-webkit-transform: translateY(-9px) rotate(0deg);
+	}
+	100% {
+		-webkit-transform: translateY(-9px) rotate(135deg);
+	}
+}
+@keyframes outBtm {
+	0% {
+		transform: translateY(0px) rotate(0deg);
+	}
+	50% {
+		transform: translateY(-9px) rotate(0deg);
+	}
+	100% {
+		transform: translateY(-9px) rotate(135deg);
+	}
+}
+/*END-MOB-NAV*/
+
+/*start-carousel*/
+/* carousel */
+#quote-carousel {
+	padding: 0 10px 30px 10px;
+	margin-top: 30px;
+}
+
+/* Control buttons  */
+#quote-carousel .carousel-control {
+	background: none;
+	color: #222;
+	font-size: 2.3em;
+	text-shadow: none;
+	margin-top: 30px;
+}
+/* Previous button  */
+#quote-carousel .carousel-control.left {
+	left: -12px;
+	top: 25%;
+}
+/* Next button  */
+#quote-carousel .carousel-control.right {
+	right: -2px !important;
+	top: 25%;
+}
+/* Changes the position of the indicators */
+#quote-carousel .carousel-indicators
+{
+	right: 50%;
+	top: auto;
+	bottom: 0px;
+	margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#quote-carousel .carousel-indicators li
+{
+	background: #c0c0c0;
+}
+#quote-carousel .carousel-indicators .active
+{
+	background: #333333;
+}
+a.right.carousel-control img {
+	float: right;
+}
+/* End carousel */
+
+.item blockquote {
+	border-left: none;
+	margin: 0;
+}
+a.right.carousel-control img {
+	float: right;
+	width: 30px;
+}
+a.left.carousel-control img {
+	width: 24px;
+}
+.item blockquote img {
+	margin-bottom: 10px;
+}
+.results-bg {
+	padding-bottom: 60px;
+}
+
+/**
+  MEDIA QUERIES
+*/
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	#quote-carousel {
+		margin-bottom: 0;
+		padding: 0 40px 30px 40px;
+	}
+}
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+	/* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+	#quote-carousel .carousel-indicators {
+		bottom: -20px !important;
+		display: inline-block;
+	}
+	#quote-carousel .carousel-indicators li.active {
+		margin: 0px 5px;
+		width: 12px;
+		height: 12px;
+	}
+
+	.home-footer {
+		padding: 0 40px 0 0 !important;
+	}
+}
+/*end-carousel*/
+
+.itout-bg {
+	height: 100px;
+	text-align: center;
+	background: #161e5c;
+	line-height: 100px;
+}
+
+.goodpye-text h3:after {
+	content: "";
+	height: 14px;
+	width: 14px;
+	background: #000;
+	float: left;
+	border-radius: 50%;
+	position: relative;
+	left: -42px;
+	top: 0px;
+}
+.say-left {
+	float: left;
+}
+.mob-bg {
+	display: none;
+}
+.what-work-text {
+	text-align: center;
+}
+.home-footer {
+	background: #ededed;
+}
+.footer-logo {
+	float: left;
+}
+.footer-right-bar {
+	float: left;
+	width: 887px;
+	margin-left: 40px;
+}
+.contact-us-text {
+	float: left;
+}
+.itout-title h2 {
+	display: inline-block;
+	color: #fff;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	position: relative;
+	top: 6px;
+	margin-right: 20px;
+}
+.itout-title .find-btn.mian-header-title {
+	padding-left: 30px;
+	margin-top: 0;
+	text-align: center;
+	padding-bottom: 85px;
+	display: inline-block;
+}
+.ingredients-page .Get-starter-heading h2 {
+	margin-top: 0;
+}
+.footer-statement {
+	width: 100%;
+	display: inline-block;
+}
+.copy-right ul li {
+	display: inline-block;
+}
+.copy-right ul {
+	margin: 0;
+	padding: 0;
+}
+.connect-withus-text ul li {
+	display: inline-block;
+	margin: 0 8px 0 0;
+}
+.connect-withus-text p {
+	font-size: 14px;
+	font-weight: bold;
+}
+.contect-withus-text p {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+}
+.connect-withus-text ul {
+	margin: 0;
+	padding: 0;
+}
+.footer-inner {
+	margin: 53px 0;
+	display: inline-block;
+	width: 100%;
+}
+p.connect-title {
+	font-size: 18px;
+	border-bottom: 2px solid #8343d5;
+	padding: 0px 0 7px 0;
+	width: 230px;
+}
+.learn-us-text ul {
+	margin: 0;
+	padding: 0;
+}
+.learn-us-text ul li {
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 0 0 10px 0;
+	list-style: none;
+	color: #6d70a0;
+}
+.learn-us-text ul li a {
+	color: #6d70a0;
+	font-family: "AcromMedium";
+}
+.footer-statement-inner {
+	width: 916px;
+	float: right;
+	padding-right: 163px;
+}
+.footer-statement p {
+	font-size: 13px;
+}
+.copy-right ul li a {
+	color: #6d70a0;
+	font-weight: bold;
+	font-family: "AcromMedium";
+}
+.copy-right ul li {
+	padding: 0 8px 0px 0;
+}
+.navWrapper.mob-nav {
+	display: none;
+}
+
+/*start-sticky-nav*/
+.navbar-brand {
+	font-size: 24px;
+}
+
+.navbar-container {
+	padding: 20px 0 20px 0;
+}
+
+.navbar.navbar-fixed-top.fixed-theme {
+	background-color: #fff;
+	border-color: #fff;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+.navbar-brand.fixed-theme {
+	font-size: 18px;
+}
+
+.navbar-container.fixed-theme {
+	padding: 0;
+}
+
+.navbar-brand.fixed-theme,
+.navbar-container.fixed-theme,
+.navbar.navbar-fixed-top.fixed-theme,
+.navbar-brand,
+.navbar-container {
+	transition: 0.8s;
+	-webkit-transition: 0.8s;
+}
+.fixed-theme li.find-formula-btn a {
+	border-color: #83b9d5;
+}
+.fixed-theme li.find-formula-btn a:hover {
+	border-color: #83b9d5 !important;
+}
+li.find-formula-btn a:hover {
+	border-color: #83b9d5 !important;
+}
+img.sticky-logo {
+	display: none;
+}
+.fixed-theme .main-menu-inner img.sticky-logo {
+	display: block;
+}
+li.find-formula-btn .fa {
+	font-size: 33px;
+	margin: 6px 0px 0 0;
+}
+li.find-formula-btn .fa {
+	font-size: 26px;
+	margin: 6px 0px 0 0;
+	position: relative;
+	top: 3px;
+	left: 4px;
+	color: #fff;
+}
+.fixed-theme li.find-formula-btn .fa {
+	color: #161e5c;
+}
+.fixed-theme .navbar-toggle i {
+	background: #161e5c;
+	right: 10px;
+	position: relative;
+}
+/*end-sticky-nav*/
+
+/*mob-nav*/
+#menu-toggle {
+	float: right;
+}
+#sidebar-wrapper {
+	display: none;
+}
+#wrapper {
+	padding-right: 0;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+#sidebar-wrapper {
+	z-index: 9000;
+	position: fixed;
+	top: -5px;
+	left: 0px;
+	width: 100%;
+	height: 0;
+	margin-top: -250px;
+	overflow-y: hidden;
+	background: #fff;
+	box-shadow: 0 5px 5px -5px rgba(0,0,0,1);
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+#wrapper.toggled #sidebar-wrapper {
+	height: 350px;
+}
+#wrapper.in #sidebar-wrapper {
+	height: 340px;
+}
+#wrapper.in #sidebar-wrapper.home-sidebar-wrapper {
+	height: 290px;
+}
+img.mob-mainlogo1.img-responsove {
+	display: none;
+}
+/*end-mob-nav*/
+
+.albery-container,
+.pagination-container {
+	position: relative;
+	/* center it */
+
+	/*margin-left: auto;
+	margin-right: auto;*/
+	width: 400px;
+	overflow: hidden;
+}
+
+.albery-wrapper {
+	position: relative;
+	height: auto;
+	width: 1600px;
+}
+.albery-item {
+	position: relative;
+	float: left;
+	width: 400px;
+	/*cursor: zoom-in;*/
+}
+.albery-item img {
+	width: 100%;
+}
+
+.move-left,
+.move-right {
+	position: absolute;
+	width: 18%;
+	top: 0;
+	bottom: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.move-left a,
+.move-right a {
+	display: block;
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.5);
+	transition: al 0.5s;
+	border-top: 34px solid transparent;
+	border-bottom: 34px solid transparent;
+	width: 0;
+	height: 0;
+}
+.move-left a:hover,
+.move-right a:hover {
+	color: rgba(255, 255, 255, 0.9);
+}
+.move-left a {
+	border-right: 34px solid rgba(255, 255, 255, 0.5);
+}
+.move-right a {
+	border-left: 34px solid rgba(255, 255, 255, 0.5);
+}
+
+.move-left {
+	left: 0;
+}
+
+.move-right {
+	right: 0;
+}
+.pagination-item {
+	position: relative;
+	float: left;
+	width: 144px;
+	margin-right: 13px;
+	cursor: pointer;
+}
+.pagination-item img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+/*start-ingredients*/
+.ingredient-inner h2 {
+	margin: 0;
+	font-family: "AcromMedium";
+	font-weight: bold;
+	font-size: 40px;
+	padding: 66px 0 0 0;
+	color: #fff;
+}
+.ingredient-bg {
+	background: #161e5c;
+	height: 245px;
+}
+.ingredient-inner p {
+	color: #fff;
+	width: 685px;
+	font-size: 21px;
+	margin: 15px 0;
+	line-height: 31px;
+}
+.racetams h2 {
+	font-size: 22px;
+	font-weight: bold;
+}
+.racetams p {
+	font-size: 18px;
+	width: 550px;
+	color: #161e5c;
+}
+.racetams {
+	margin: 27px 0 25px 0;
+	display: inline-block;
+	width: 100%;
+}
+.vitamins .racetams {
+	border-top: 1px solid #ececec;
+	padding-top: 10px;
+}
+.ingredient-name {
+	text-align: center;
+}
+.ingredient-name img {
+	display: inline-block;
+	margin-top: 0px;
+}
+.racetams-border .racetams {
+	border-top: 0 !important;
+}
+.Get-starter-row .Get-starter-heading .kitbuy-btn {
+	width: 208px;
+	border-radius: 30px;
+}
+.Get-starter-row .Get-starter-heading h2 {
+	font-family: "AcromMedium";
+}
+.ingredient-name p {
+	padding: 10px 0 40px 0;
+}
+.racetams-inner1 .racetams {
+	border-top: 0;
+}
+.ingredient-name {
+	text-align: center;
+}
+.ingredients-summary-row h1 {
+	font-size: 22px;
+	font-weight: 700;
+	border-top: 1px solid #4a4286;
+	margin: 21px 0 12px 0;
+	padding: 25px 0 0 0;
+	color: #4a4286;
+}
+.ingredients-summary-row p {
+	font-size: 16px;
+	color: #4a4286;
+	line-height: 26px;
+}
+.ingredients-referrences-row h1 {
+	color: #4a4286;
+	font-size: 22px;
+	font-weight: 700;
+	border-top: 1px solid #4A4286;
+	margin: 26px 0 12px 0;
+	padding: 25px 0 0 0;
+}
+.ingredients-referrences-row p {
+	font-size: 16px;
+	color: #4a4286;
+	line-height: 25px;
+}
+.benefits-row {
+	border-top: 1px solid #4a4286;
+}
+.choline-inner .racetams {
+	padding-top: 29px;
+}
+.name-row2 {
+	padding: 0;
+}
+.vitamins .racetams {
+	padding-top: 28px;
+}
+.vitamins {
+	margin-bottom: 30px;
+}
+.choline-inner {
+	margin-bottom: 10px;
+}
+.name-row3 {
+	padding-left: 0;
+}
+.ingredient1 .name-row3 .ingredient-name {
+	border-right: 0;
+}
+.ingredient2 .ingredient-name {
+	border-bottom: 0;
+}
+.ingredient2 .name-row3 .ingredient-name {
+	border-right: 0;
+}
+.choline-inner .ingredient-name {
+	border-bottom: 0;
+}
+.choline-inner .name-row3 .ingredient-name {
+	border-right: 0;
+}
+.vitamins .ingredient-name {
+	border-bottom: 0;
+}
+.vitamins .name-row3 .ingredient-name {
+	border-right: 0;
+}
+.name-row1 {
+	padding-right: 0;
+}
+.racetams {
+	border-top: 1px solid #ececec !important;
+}
+.container-ingredient {
+	width: 1000px;
+	margin: 0 auto;
+}
+/*start-accordion*/
+.accordion-container {
+	position: relative;
+	max-width: 1000px;
+	height: auto;
+	margin: 10px auto;
+}
+.accordion-container .racetams {
+	width: 80%;
+	margin: 0 0 43px 0;
+	border-top: 0 !important;
+}
+
+.accordion-container > h2 {
+	text-align: center;
+	color: #fff;
+	padding-bottom: 5px;
+	margin-bottom: 20px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #ddd;
+}
+.set {
+	position: relative;
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+
+.set-ingredient > a i {
+	float: right;
+	color: #161e5c !important;
+	font-size: 30px !important;
+}
+
+.set > a {
+	display: block;
+	padding: 10px 15px;
+	text-decoration: none;
+	color: #555;
+	font-weight: 600;
+	border-bottom: 1px solid #a8a9c7;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+.set > a i {
+	float: right;
+	margin-top: 62px;
+	color: #e2e0ee;
+	font-size: 50px;
+}
+.accordion-container .fa.fa-angle-down {
+	color: #161e5c;
+}
+.set > a.active {
+	background-color: #fff;
+	color: #fff;
+}
+.content {
+	background-color: #fff;
+	border-bottom: 1px solid #a8a9c7;
+	display: none;
+}
+.content p {
+	padding: 10px 15px;
+	margin: 0;
+	color: #333;
+}
+.ingredient-accordion {
+	display: none;
+}
+/*end-accordion*/
+
+/*end-ingredients*/
+
+.science-page .product-header-bg {
+	background: #161e5c !important;
+}
+.every-bg {
+	background: #161e5c !important;
+}
+
+.right-completely-images {
+	float: right;
+}
+.comp-row {
+	width: 100%;
+	display: inline-block;
+	height: 143px;
+}
+.everyone-row h2 {
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	line-height: 50px;
+	color: #fff;
+}
+.science-page .container-ingredient {
+	padding: 0 35px 0 35px;
+}
+.everyone-row {
+	width: 477px;
+	float: left;
+	margin: 63px 0 0 66px;
+}
+.everyone-pic {
+	float: right;
+	margin-top: 15px;
+	width: 411px;
+}
+.everyone-row p {
+	font-size: 18px;
+	width: 87%;
+	color: #fff;
+}
+.recommend-inner h2 {
+	font-family: "AcromMedium";
+	margin: 16px 0;
+	font-weight: 700;
+}
+.specific-formula-title h1 > a {
+	color: #161e5c;
+	text-decoration: none;
+}
+.specific-formula-title h1 > a:hover {
+	text-decoration: none;
+}
+.recommend-inner h4 {
+	font-family: "AcromMedium";
+	font-size: 19px;
+	font-weight: 700;
+}
+.container-ingredient-millions {
+	width: 950px;
+	margin: 0 auto;
+}
+.completely-row.text-center {
+	padding: 0;
+	margin: 0;
+}
+.everyone-row .Get-starter-heading .kitbuy-btn {
+	width: 210px;
+	border-radius: 30px;
+	margin-bottom: 52px;
+	margin-top: 10px;
+}
+.breaking-row h2 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	margin: 72px auto 23px;
+	font-family: "AcromMedium";
+	line-height: 50px;
+}
+.breaking-row p {
+	font-size: 18px;
+	margin-bottom: 42px;
+	color: #161e5c;
+}
+.breaking-row p {
+	font-size: 18px;
+	color: #161e5c;
+	width: 670px;
+	margin: 4px auto 42px;
+	text-align: center;
+	line-height: 32px;
+}
+.recommend-inner img {
+	display: inline-block;
+}
+.completely1 {
+	display: inline-block;
+	width: 100%;
+	margin: 20px 0 64px 0;
+}
+.completely-inner h3 {
+	font-size: 22px;
+	font-weight: bold;
+}
+.breaking-row h2 {
+	display: inline-block;
+	width: 100%;
+}
+.completely-text h2 {
+	font-size: 22px;
+	font-weight: 700;
+}
+.completely-text {
+	float: right;
+	width: 423px;
+}
+.brain-icon {
+	float: left;
+	margin-top: 26px;
+}
+.completely-inner p {
+	font-size: 18px;
+	color: #161e5c;
+	line-height: 28px;
+}
+.guided-inner h2 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+.completely-inner {
+	width: 556px;
+	margin: 0 auto 44px;
+	display: flow-root;
+}
+section.brain-bg {
+	background: #f6f6f6;
+	padding-bottom: 25px;
+}
+.guided-bg {
+	text-align: center;
+	margin: 61px 0 61px 0;
+	padding: 60px 0 61px 0;
+}
+.guided-inner .Get-starter-heading .kitbuy-btn {
+	width: 210px;
+	border-radius: 30px;
+}
+.guided-inner .Get-starter-heading {
+	margin: 0px 0px 30px 0;
+}
+.formula-users-bg .breaking-row h2 {
+	width: 536px;
+	display: block;
+}
+.formula-users-bg .breaking-row p {
+	width: 730px;
+	margin-bottom: 72px;
+}
+.guided-inner h2 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	font-family: "AcromMedium";
+}
+.guided-inner p {
+	width: 642px;
+	text-align: center;
+	font-size: 18px;
+	margin: 18px auto;
+	color: #161e5c;
+}
+.honest-bg {
+	display: inline-block;
+	width: 100%;
+	background: #f6f6f6;
+	margin: 71px 0 -23px;
+	padding: 41px 0;
+}
+.formula-users-row {
+	background: #f6f6f6;
+	padding: 22px 22px;
+	width: 384px;
+}
+.formula-users-row p {
+	font-size: 18px;
+	line-height: 28px;
+	margin: 13px 0;
+	color: #161e5c;
+}
+.formula-users-row h4 {
+	font-size: 16px;
+	line-height: 30px;
+	font-weight: 700;
+	font-family: "WorkSans-Regular", sans-serif;
+}
+.container-formula-users {
+	padding: 0 60px 0 60px;
+	width: 1000px;
+	margin: 0 auto;
+}
+.vegan-row .vegan-inner p {
+	font-size: 13px;
+	font-weight: bold;
+	color: #161e5c;
+	margin-left: 24px;
+}
+.vegan-row .right-vegan-row {
+	padding: 55px 0 0px 0px;
+	margin-left: 0px;
+}
+.science-page .vegan-row .right-vegan-row {
+	border-bottom: 0;
+}
+.honest-heading h2 {
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	line-height: 50px;
+}
+.honest-heading p {
+	font-size: 18px;
+	color: #161e5c;
+}
+.honest-heading .Get-starter-heading .kitbuy-btn {
+	width: 273px;
+	border-radius: 30px;
+}
+.science-page .Get-starter-bluestrip {
+	height: 95px;
+	line-height: 95px;
+}
+.navbar-header {
+	right: 10px;
+}
+.landing-page .fixed-theme li.find-formula-btn a {
+	border-color: #161e5c !important;
+}
+.purchase-checkbox .investment-check {
+	float: left;
+}
+.landing-page li.find-formula-btn a:hover {
+	border-color: #fff !important;
+}
+.landing-page .fixed-theme li.find-formula-btn a:hover {
+	border-color: #161e5c !important;
+	color: #161e5c !important;
+}
+.landing-page .fixed-theme .main-menu-inner li a {
+	color: #6d70a0;
+}
+.itout-title .mian-header-title button:hover,
+.mian-header-title button:focus,
+.mian-header-title button:active {
+	background: #8343d5;
+	border-color: #8343d5;
+	outline: none;
+}
+.landing-page .main-menu-inner li a:focus,
+.landing-page .main-menu-inner li a:active,
+.landing-page .main-menu-inner li a:hover {
+	border-color: #fff;
+}
+
+.backed-science-bg .mian-header-title button:hover,
+.mian-header-title button:focus,
+.mian-header-title button:active {
+	background: #8343d5;
+	border-color: #8343d5;
+	outline: none;
+}
+.product-slider-left {
+	margin-left: 30px !important;
+}
+.right-buy-row1 {
+	width: 37% !important;
+}
+.plus-icon1 {
+	display: none;
+}
+.get-ready-heading h2 {
+	font-size: 40px;
+	margin: 11px 35px 0 0px;
+	position: relative;
+	top: 10px;
+	font-family: "Merriweather";
+}
+.get-ready-heading button {
+	font-size: 28px !important;
+	width: 294px !important;
+	height: 65px !important;
+}
+.footer-inner2 .contect-withus-text p {
+	font-size: 12px;
+}
+.footer-inner2 .contect-withus-text {
+	float: left;
+	margin-right: 78px;
+}
+.footer-inner2.footer-inner {
+	margin: 53px 0;
+	display: block !important;
+	width: 973px;
+	margin: 37px auto;
+	float: none;
+}
+.footer-inner2 .footer-statement-inner {
+	width: 726px;
+	float: right;
+	padding-right: 0;
+	margin-bottom: 40px;
+}
+.connect-withus-text ul li img {
+	width: 17px;
+	height: 17px;
+}
+.connect-withus-text ul li img {
+	margin: 0 4px 0 0;
+}
+.footer-inner2 .copy-right ul li a {
+	font-size: 11px;
+}
+li.find-formula-btn a {
+	text-transform: capitalize !important;
+}
+.science-page .main-menu-inner li a {
+	color: #fff;
+}
+.science-page .main-menu-inner li a:hover {
+	color: #fff;
+}
+.science-page li.find-formula-btn a {
+	border: 1px solid #fff;
+	color: #fff !important;
+}
+.science-page li.find-formula-btn .fa {
+	color: #fff;
+}
+.science-page .fixed-theme .main-menu-inner li a {
+	color: #6d70a0 !important;
+}
+.science-page .fixed-theme li.find-formula-btn a {
+	border: 1px solid #6d70a0;
+}
+.science-page .fixed-theme li.find-formula-btn .fa {
+	color: #6d70a0 !important;
+}
+.science-page li.find-formula-btn a:hover {
+	border: 1px solid #fff;
+}
+.formula-btnscience {
+	border-radius: 30px !important;
+}
+.mob-ex {
+	display: none;
+}
+/*--faq-page--*/
+/******************* Accordion Demo - 9 *****************/
+#accordion9 .panel {
+	border-radius: 0;
+	margin-bottom: 15px;
+}
+#accordion9 .panel-heading {
+	padding: 0;
+}
+#accordion9 .panel-title {
+	position: relative;
+}
+#accordion9 .panel-title:before {
+	content: "";
+	border-bottom: 25px solid rgba(0, 0, 0, 0);
+	border-left: 15px solid #ccc;
+	border-top: 23px solid rgba(0, 0, 0, 0);
+	width: 0;
+	height: 0;
+	position: absolute;
+	top: 0;
+	left: 34px;
+}
+#accordion9 .panel-title a {
+	color: #fff;
+	background: #83b9d5;
+	display: block;
+	font-size: 18px;
+	line-height: 21px;
+	font-weight: 500;
+	text-transform: capitalize;
+	padding: 13px 10px 13px 65px;
+	font-family: "AcromMedium";
+	text-align: left;
+}
+#accordion9 .panel-title a:hover,
+#accordion9 .panel-title a:focus {
+	text-decoration: none;
+	outline: none;
+}
+
+#accordion9 .panel-title a.collapsed {
+	color: #5b5656;
+	background: #f0ecec;
+}
+.faq-section .panel-body p {
+	text-align: left;
+	font-family: "WorkSans-Regular", sans-serif;
+	font-size: 18px;
+	line-height: 32px;
+	color: #161e5c;
+}
+#accordion9 .panel-title a:before,
+#accordion9 .panel-title a.collapsed:before {
+	content: "\f068";
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+	position: absolute;
+	top: 0;
+	left: 0px;
+	padding: 14px 10px;
+	color: #83b9d5;
+	background: #ccc;
+}
+#accordion9 .panel-title a.collapsed:before {
+	content: "\f067";
+}
+#accordion9 .panel-body {
+	color: #828282;
+	font-size: 14px;
+	line-height: 26px;
+}
+.mt-10 {
+	margin-top: 20px;
+}
+.faq-inner h2 {
+	padding: 0 0 7px 0;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	font-size: 40px;
+	margin: 22px 0 24px 0px;
+	text-transform: uppercase;
+}
+.faq-section .panel-title {
+	text-align: left;
+}
+.faq-title {
+	font-size: 30px;
+	text-align: left;
+	margin: 32px 0 15px 0;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.faq-section .panel-body {
+	padding: 0;
+}
+.faq-page .faq-section .panel-body {
+	padding: 25px 0 57px 0;
+	border: 0 !important;
+}
+.faq-section .panel-title a {
+	width: 100%;
+	display: inline-block;
+	padding: 26px 8px 28px 0;
+	font-size: 26px;
+	color: #161e5c;
+}
+.faq-page .faq-section {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 38px;
+}
+.faq-page .faq-section .panel-heading:last-child {
+	border-bottom: 1px solid #a7a9c6 !important;
+}
+.faq-page .faq-section .panel-title a {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 26px 8px 24px 0;
+}
+.faq-section .panel-title a {
+	text-decoration: none;
+}
+.faq-section .glyphicon.glyphicon-chevron-down {
+	float: right;
+	font-size: 23px;
+	line-height: 28px;
+	color: #161e5c;
+}
+.more-less2 {
+	display: none;
+}
+.faq-section .glyphicon-chevron-right {
+	color: #6d70a0;
+	float: right;
+	font-size: 23px;
+	line-height: 26px;
+}
+.faq-section .panel-heading {
+	padding: 0;
+	border-radius: 0;
+	background-color: #fff;
+	border-top: 1px solid #a7a9c6 !important;
+}
+.faq-section .panel-heading:last-child {
+	border-bottom: 1px solid #a7a9c6 !important;
+	margin-bottom: 110px;
+}
+.faq-section .panel.panel-default {
+	border: 0;
+	box-shadow: none;
+}
+.faq-section .panel-title a > span {
+	width: 89%;
+	float: left;
+}
+.faq-section .panel-default > .panel-heading + .panel-collapse > .panel-body {
+	border-top-color: #fff;
+}
+/*--end-faq-page--*/
+
+.client-inner h3 {
+	line-height: 30px;
+	margin: 11px 0 13px 0;
+}
+.client-inner img {
+	float: left;
+	width: 300px;
+	margin-right: 20px;
+}
+.client-inner span {
+	color: #999;
+}
+.testimonial-row a {
+	float: right;
+	position: relative;
+	top: -44px;
+}
+.testimonial-row h3 {
+	font-weight: bold;
+}
+.client-inner {
+	padding: 24px 0;
+}
+.show-text {
+	display: none;
+	width: 100%;
+}
+.testimonial-row1 .client-inner img {
+	margin-left: 20px;
+}
+.testimonial-row1 a {
+	float: left;
+	position: relative;
+	top: -23px;
+}
+.testimonial-row1 .client-inner span {
+	float: right;
+}
+.testimonial-row1 h3 {
+	font-weight: bold;
+}
+.hide {
+	display: none;
+}
+
+/*start-home-6-3-2019*/
+section.assessment-bg {
+	padding: 100px 0px 84px 0;
+}
+.assessment-inner img {
+	display: inline-block;
+}
+.assessment-inner h3 {
+	margin: 52px 0 11px 0;
+	font-size: 22px;
+	font-weight: 700;
+}
+section.assessment-bg .text-center {
+	padding: 0 32px;
+}
+.assessment-inner p {
+	color: #161e5c;
+	font-size: 18px;
+	line-height: 28px;
+}
+
+section.specific-bg {
+	background: #fff;
+}
+.specific-inner h1 {
+	font-size: 40px;
+	font-family: "AcromMedium";
+	font-weight: 700;
+}
+.specific-row {
+	background: #fff;
+	padding: 116px 0 0 15px;
+}
+.specific-inner p {
+	font-size: 18px;
+	line-height: 28px;
+	margin: 17px 0 0 0;
+	width: 367px;
+	color: #161e5c;
+}
+.formula-kit {
+	text-align: center;
+	padding-top: 25px;
+}
+section.home-slider-bg {
+	background: #f6f6f6;
+}
+.formula-kit img {
+	height: 370px;
+	float: left;
+	margin-left: 65px;
+}
+.data-users-inner h1 {
+	font-size: 40px;
+	font-family: "AcromMedium";
+	margin: 0px 0 18px;
+	line-height: 50px;
+}
+.data-users-inner ul li span {
+	margin-right: 16px;
+}
+.data-users-inner {
+	padding-left: 105px;
+}
+.data-users-inner p {
+	font-size: 18px;
+	line-height: 28px;
+	margin-bottom: 0px;
+	color: #161e5c;
+	width: 364px;
+}
+.data-users-inner ul li {
+	list-style: none;
+	color: #161e5c;
+	font-size: 18px;
+	font-family: "WorkSans-Regular", sans-serif;
+	margin-bottom: 6px;
+	display: flex;
+}
+section.millions-data-bg {
+	padding: 114px 0 76px 0;
+	background: #fff;
+}
+.user-ages img {
+	display: inline-block;
+}
+.user-ages h2 {
+	margin: 15px 0 20px;
+	font-size: 40px;
+	font-family: "AcromMedium";
+}
+.user-ages p {
+	font-size: 18px;
+	line-height: 28px;
+	text-align: left;
+	width: 478px;
+	margin: 4px auto 0;
+	color: #161e5c;
+}
+.user-ages p > span {
+	color: #ab3142;
+}
+section.backed-bg {
+	background: #f6f6f6;
+}
+.breaking-row h2 {
+	margin: 65px auto 23px;
+}
+section.medician-bg {
+	padding: 68px 0px 84px 0;
+	background: #fff;
+}
+section.medician-bg .assessment-inner p {
+	text-align: left;
+}
+section.medician-bg .text-center {
+	padding: 0 38px;
+}
+section.medician-bg .assessment-inner img {
+	height: 180px;
+}
+.medician-bg .assessment-inner h3 {
+	margin: 24px 0 11px 0;
+	font-size: 22px;
+	font-weight: 700;
+}
+.text-center.assess-first {
+	padding: 0 43px !important;
+}
+.pure-meets {
+	margin: 0 0 40px 0;
+}
+.landing-page #quote-carousel {
+	margin-bottom: 0;
+	padding: 0 40px 62px 40px;
+}
+.assessment-row1 {
+	padding: 0 0 !important;
+}
+.pure-meets p {
+	font-size: 18px;
+	width: 471px;
+	color: #161e5c;
+	margin: 0 auto;
+	text-align: center;
+}
+.pure-meets h1 {
+	text-align: center;
+	margin: 0 0 12px;
+	font-family: "AcromMedium";
+	font-size: 40px;
+	font-weight: 700;
+}
+/*end-home-6-3-2019*/
+
+.formula-accord .glyphicon.glyphicon-plus {
+	float: left;
+	color: #a3a5c2;
+	margin-right: 20px;
+}
+.formula-accord .glyphicon.glyphicon-minus {
+	float: left;
+	margin-right: 20px;
+}
+.formula-accord .panel-heading {
+	padding: 0;
+	border-radius: 0;
+	background-color: #f5f5f5;
+}
+.formula-accord .panel-title a {
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: center;
+	padding: 15px 8px 15px 0;
+}
+.formula-accord
+.panel-default
+> .panel-heading
++ .panel-collapse
+> .panel-body {
+	border-top-color: #f5f5f5;
+	background: #f5f5f5;
+}
+.formula-accord {
+	margin-top: 20px;
+	padding: 0 15px;
+}
+.formula-accord .panel.panel-default {
+	border: 0 !important;
+	box-shadow: none;
+}
+.formula-accord .panel-heading {
+	border-bottom: 1px solid #a7a9c6;
+}
+.directions-text h3 {
+	font-size: 24px;
+	font-family: "AcromMedium";
+	text-align: left;
+	margin: 18px 0px 15px;
+	color: #6d70a0;
+}
+.formula-accord .panel.panel-default:last-child {
+	border-bottom: 0 !important;
+	margin-bottom: 0px;
+}
+.formula-accord .panel-body p {
+	text-align: left;
+	font-size: 20px;
+	color: #6d70a0;
+	margin-bottom: 20px;
+}
+.product-page .formula-accord .panel-body p {
+	font-size: 18px;
+	margin-bottom: 10px;
+	line-height: 26px;
+}
+.product-page .formula-accord3 .directions-text {
+	padding: 34px 48px 20px;
+}
+.ingredients-mg p {
+	margin: 0 !important;
+}
+.formula-accord .panel-title a > span {
+	font-size: 26px;
+	font-family: "AcromMedium";
+}
+.formula-accord.formula-accord3 .panel-title a > span {
+	font-size: 26px;
+	font-family: "Merriweather", serif;
+	float: right;
+	width: 96%;
+}
+.formula-accord.formula-accord3.faq-section .panel-heading {
+	border-bottom: 1px solid #eeeeee;
+	border-top: 0 !important;
+}
+.formula-accord3 .directions-text {
+	padding: 0 48px;
+}
+.mob-formula-accord {
+	display: none;
+}
+.formula-accord.formula-accord3 {
+	padding: 0 30px;
+	margin-bottom: 70px;
+}
+.recetams-inner1 {
+	padding-left: 14px;
+}
+.formula-accord.faq-section .panel-heading {
+	border-bottom: 1px solid #a7a9c6;
+	border-top: 0 !important;
+}
+.formula-accord.faq-section .panel-title a > span {
+	float: right;
+	width: 96%;
+}
+.formula-accord3 .panel-heading {
+	padding: 0;
+	border-radius: 0;
+	background-color: #fff;
+}
+.formula-accord3
+.panel-default
+> .panel-heading
++ .panel-collapse
+> .panel-body {
+	border-top-color: #f5f5f5;
+	background: #fff;
+}
+h1.questions-heading {
+	text-align: center;
+	font-family: "AcromMedium";
+	margin: 0 0 27px 0;
+	font-size: 40px;
+}
+button.btn.btn-primary.kitbuy-btn.btn {
+	border-radius: 50px !important;
+}
+
+/*start-ingredients*/
+.effective-row h1 {
+	font-size: 40px;
+	font-family: "AcromMedium";
+	font-weight: 700;
+	color: #fff;
+}
+.effective-row p {
+	font-size: 18px;
+	width: 585px;
+	color: #fff;
+}
+.effect-blue-bg {
+	background: #161e5c;
+	padding: 63px 0 76px 0;
+}
+.piracetam-row h1 {
+	color: #8343d5;
+	font-size: 40px;
+	font-weight: 700;
+	margin: 0px 0 10px 0;
+	font-family: "AcromMedium";
+}
+.piracetam-row p > span {
+	color: #4a4286;
+}
+.piracetam p {
+	color: #4a4286;
+}
+.benefits-inner h3 {
+	padding: 22px 0 0;
+	margin: 0;
+	font-weight: 700;
+	font-size: 20px;
+	color: #4a4286;
+}
+.benefits-row {
+	border-top: 1px solid #4a4286;
+	margin-top: 22px;
+}
+.benefits-inner ul li {
+	font-size: 16px;
+	margin-bottom: 9px;
+	color: #4a4286;
+}
+.ingredient-name img {
+	width: 200px;
+	height: 200px;
+}
+.oxiracetam-tab ul li .fa {
+	display: none;
+}
+.benefits-inner {
+	float: left;
+	margin-left: 10px;
+}
+.piracetam img {
+	width: 100%;
+}
+.piracetam {
+	float: right;
+	width: 233px;
+	margin-top: 5px;
+}
+.oxiracetam-tab .active > a > .fa {
+	display: block;
+	float: left;
+	font-size: 20px;
+	margin-left: -20px;
+}
+.benefits-inner ul {
+	margin: 13px 0 0 21px;
+	color: #161e5c;
+}
+.science-page .fixed-theme li.find-formula-btn a:hover {
+	color: #83b9d5 !important;
+}
+.backtotop.text-center {
+	margin: 25px 0;
+}
+.ingredients-purity-row {
+	display: inline-block;
+	width: 100%;
+}
+.ingredients-purity-row h1 {
+	font-size: 22px;
+	font-weight: 700;
+	border-top: 1px solid #4a4286;
+	margin: 26px 0 12px 0;
+	padding: 25px 0 0 0;
+	color: #4a4286;
+}
+.ingredients-purity-row p {
+	font-size: 16px;
+	color: #4a4286;
+	line-height: 26px;
+}
+.source-name-row p {
+	float: left;
+	clear: both;
+	font-size: 12px;
+	color: #161e5c;
+	font-weight: bold;
+	margin: 13px 0 9px 0;
+}
+.source-name-row span {
+	color: #161e5c;
+	float: right;
+	margin: 12px 0 0 0;
+}
+.source-name-row span > a {
+	color: #161e5c;
+	text-decoration: underline;
+	font-size: 12px;
+}
+.source-name-row {
+	margin-bottom: 30px;
+	display: inline-block;
+	width: 396px;
+}
+/*end-ingredients*/
+.mian-header-title {
+	padding-left: 62px;
+	margin-top: 271px;
+}
+.mian-header-title h2 {
+	width: 466px;
+}
+.data-users-inner h1 {
+	font-weight: 700;
+}
+/*start-result*/
+.achieve-heading {
+	text-align: center;
+	margin: 0px auto 51px;
+}
+.achieve-heading h2 {
+	font-size: 40px;
+	font-family: "AcromMedium";
+	font-weight: bold;
+	margin: 0 0 44px 0;
+}
+.container-result {
+	width: 1036px !important;
+	margin: 0 auto;
+}
+.achieve-heading img {
+	display: inline-block;
+}
+.achieve-heading p {
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: "AcromMedium";
+	color: #83b9d5;
+	margin-bottom: 50px;
+}
+.metar-inner {
+	text-align: center;
+	font-family: "AcromMedium";
+	color: #6d70a0;
+	margin-bottom: 61px;
+}
+.metar-inner img {
+	display: inline-block;
+}
+.metar-inner p {
+	margin: 7px 0;
+	line-height: 25px;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+.get-result-btn .btn {
+	height: 50px;
+	width: 160px;
+	border-radius: 30px;
+}
+.get-result-btn h2 {
+	font-family: "AcromMedium";
+	font-size: 30px;
+}
+.ingradient-result {
+	text-align: center;
+}
+.ingradient-result h2 {
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	margin: 63px 0 53px 0;
+}
+.ingradient-result p {
+	color: #161e5b;
+	font-size: 18px;
+	margin: 0 0 40px 0;
+}
+.racetams-inner {
+	width: 230px;
+	float: right;
+}
+h3.resultformula-name {
+	margin: 25px 0 18px 69px;
+	font-weight: bold;
+	font-size: 22px;
+}
+.result-box-row:last-child {
+	margin-bottom: 74px;
+}
+.up-arrow,
+.down-arrow {
+	font-size: 24px !important;
+	position: relative;
+	top: 4px;
+	color: #7ed321;
+	margin-right: 11px;
+	line-height: 0;
+}
+.racetams-inner ul li .fa {
+	color: #7ed321;
+	font-size: 18px;
+	margin-right: 11px;
+	line-height: 0;
+	position: relative;
+	top: 2px;
+}
+.racetams-inner h3 {
+	font-size: 22px;
+	font-weight: bold;
+	width: 171px;
+	line-height: 28px;
+}
+.racetams-inner p {
+	font-size: 14px;
+	color: #161e5b;
+	line-height: 28px;
+}
+.racetams-peptides-inner h3 {
+	width: 125px;
+}
+.explore-bttn {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin: 15px auto 76px;
+}
+.explore-bttn .btn {
+	width: 300px;
+	border-radius: 30px;
+	height: 60px;
+	font-size: 20px;
+	font-weight: bold;
+	background: #8343d5;
+	border-color: #8343d5;
+}
+.explore-bttn .btn:hover {
+	background: #161e5c;
+	border-color: #161e5c;
+}
+.explore-bttn .btn-primary.active,
+.explore-bttn .btn-primary:focus,
+.explore-bttn .btn-primary:active,
+.explore-bttn .btn-primary {
+	background: #8343d5;
+	border-color: #8343d5;
+	outline: none;
+}
+.racetams-inner ul li {
+	font-size: 14px;
+	font-weight: bold;
+	color: #161e5b;
+	list-style: none;
+	margin: 0 0 9px 0;
+	font-family: "WorkSans-Regular", sans-serif;
+}
+.try-itout-btn .btn {
+	width: 190px;
+	border-radius: 30px;
+	height: 45px;
+	font-size: 14px;
+	font-weight: bold;
+	background: #8343d5;
+	border-color: #8343d5;
+}
+.meet-expert .inside-right-row {
+	float: left;
+}
+.meet-expert .inside-box-inner {
+	width: 340px;
+	float: right;
+	display: inline-block;
+	position: relative;
+	top: 55px;
+}
+.try-itout-btn .btn:hover {
+	background: #161e5c;
+	border-color: #161e5c;
+}
+.try-itout-btn .btn-primary.active,
+.try-itout-btn .btn-primary:focus,
+.try-itout-btn .btn-primary:active,
+.try-itout-btn .btn-primary {
+	background: #8343d5;
+	border-color: #8343d5;
+	outline: none;
+}
+.mob-inside-center {
+	display: none;
+}
+.inside-box-inner {
+	width: 340px;
+	float: left;
+}
+.inside-box-inner h2 {
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	margin: 6px 0;
+}
+.inside-box-inner p {
+	color: #161e5b;
+	font-size: 16px;
+	width: 296px;
+	margin: 18px 0;
+}
+.inside-box-inner ul li {
+	font-size: 17px;
+	margin: 6px 0 5px 17px;
+	color: #161e5b;
+	font-family: "WorkSans-Regular", sans-serif;
+}
+.try-itout-btn {
+	margin: 25px 0 12px 0;
+}
+.inside-right-row {
+	float: right;
+}
+.inside-right-row {
+	float: right;
+}
+.ingradient-result-bg {
+	background: #fafafa;
+}
+.inside-box-row {
+	padding: 0 83px;
+}
+.inside-box-row {
+	padding: 83px 83px 83px;
+}
+.result-box-row {
+	padding: 0 110px;
+}
+.inside-box-bg {
+	margin-bottom: 74px;
+}
+p.goals-energy p {
+	color: #161e5b;
+}
+.result-slider-bg {
+	background: #fff;
+}
+.result-slider-bg .result-title h2 {
+	margin: 4px 0px 50px;
+}
+.result-page .product-header-bg {
+	background: #fff !important;
+}
+a.right.carousel-control img {
+	width: 24px !important;
+}
+.result-page .Get-starter-heading {
+	margin: 0px 0px 18px 0;
+}
+.specific-formula-title p.goals-energy {
+	color: #161e5b;
+}
+.result-page .carousel-indicators {
+	display: none;
+}
+img.mainlogo1.img-responsove {
+	width: 166px;
+}
+.result-box-row {
+	padding: 0 45px;
+	background: #fff;
+	border: 1px solid #eeeeee;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+.stories-page .mian-header-title button {
+	width: 195px;
+}
+section.meet-expert {
+	background: #fafafa;
+}
+.mob-viewresult {
+	display: none;
+}
+.specific-formula-title h1 a > p {
+	font-size: 30px;
+	line-height: 36px;
+	font-family: "Merriweather", serif;
+	color: #11275b;
+}
+/*end-result*/
+
+/*start-about-result*/
+.founder-heading h1 {
+	font-size: 55px;
+	font-weight: 700;
+	margin: 62px 0 32px 0;
+}
+.founder-heading img {
+	display: inline-block;
+}
+.founder-heading.text-center {
+	margin: 0 0 42px 0;
+}
+.founder-text p {
+	line-height: 28px;
+	font-size: 18px;
+	color: #161e5c;
+}
+.founder-text p {
+	color: #161e5c;
+}
+.container.about-container {
+	width: 905px;
+}
+h3.text-center.always-head {
+	font-size: 24px;
+	line-height: 36px;
+	width: 520px;
+	margin: 0px auto;
+	font-weight: 700;
+	font-family: "WorkSans-Regular", sans-serif;
+}
+.about-page .itout-bg {
+	margin-top: 50px;
+}
+h3.text-center.always-head3 {
+	width: 505px;
+}
+h3.text-center.always-head2 {
+	width: 478px;
+}
+.energy-main-heading ul li a {
+	color: #6d70a0;
+}
+.energy-main-heading ul li {
+	display: inline-block;
+	margin: 0 8px;
+	font-size: 26px;
+}
+.energy-main-heading ul {
+	padding: 0;
+	margin: 0 0 46px 0;
+	text-align: center;
+}
+.founder-text span {
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 28px;
+	color: #161e5c;
+	display: inline-block;
+	width: 100%;
+}
+.about-header-bg {
+	background-image: url(../images/about-slider.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 651px;
+	background-attachment: fixed;
+}
+.about-page .mian-header-title h2 {
+	color: #161e5c;
+}
+.about-page .mian-header-title p {
+	color: #161e5c;
+	width: 453px;
+	line-height: 28px;
+}
+.about-page .energy-main-heading span {
+	font-size: 22px;
+	margin-top: 20px;
+	display: inline-block;
+}
+.about-page .main-menu-inner li a {
+	color: #161e5c;
+}
+.about-page .mian-header-title {
+	padding-left: 124px;
+	margin-top: 194px;
+}
+.founder-text blockquote {
+	border: 0;
+}
+.founder-text blockquote .always-head:before {
+	content: "\f10d";
+	font-family: "Fontawesome";
+	float: left;
+	margin-right: 10px;
+}
+.about-page .energy-main-heading ul li {
+	margin: 0 18px 0 0px;
+}
+.about-page .energy-main-heading ul {
+	text-align: left;
+	margin: 0 0 60px 0;
+}
+.mob-about-slide-text {
+	display: none;
+}
+.about-header-bg .product-header-bg {
+	background: none;
+}
+/*end-about-result*/
+
+/*start-product-page*/
+.footer-inner2 p.connect-title {
+	/* border-bottom: 0; */
+	font-size: 15px;
+	color: #8343d5;
+	width: 133px;
+}
+/*start-product-page*/
+
+/*start-stories-page*/
+section.testimonial-first-slider {
+	background: #fafafa;
+}
+.container.testimonial-container {
+	width: 835px;
+}
+.energy-main-heading {
+	margin: 56px 0 0 0;
+}
+.about-page .energy-main-heading {
+	margin: 0px 0 0 0 !important;
+}
+.energy-main-heading h3 {
+	font-size: 22px;
+	font-weight: 700;
+}
+.energy-main-heading p {
+	font-size: 18px;
+	color: #161e5c;
+	line-height: 28px;
+	margin-bottom: 47px;
+}
+.energy-main-heading ul li a {
+	color: #6d70a0;
+}
+.energy-main-heading ul li {
+	display: inline-block;
+	margin: 0 8px;
+	font-size: 26px;
+}
+.energy-main-heading ul {
+	padding: 0;
+	margin: 0 0 46px 0;
+	text-align: center;
+}
+.personal-container {
+	width: 880px !important;
+}
+.personal-title-row h3 {
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 28px;
+	width: 185px;
+}
+.personal-title-inner {
+	display: inline-block;
+	width: 100%;
+}
+.personal-title-inner img {
+	float: left;
+	margin-right: 16px;
+}
+.personal-title-inner p {
+	font-size: 12px;
+	margin: 0;
+	line-height: 15px;
+	color: #161e5c;
+}
+.personal-title-row ul li {
+	margin: 0 0 14px 0;
+	list-style: none;
+}
+section.personal-bg {
+	background: #fafafa;
+	padding: 50px 0 0px 0;
+}
+section.testimonial-2-slider {
+	border-bottom: 1px solid #a8aac6;
+}
+.stories-page .testimonial-2-slider {
+	padding: 46px 0 0 0;
+}
+.stories-page .results-bg {
+	padding-bottom: 52px;
+}
+.testimonial-first-slider .specific-formula-title h1 {
+	font-size: 30px;
+	width: auto;
+	line-height: 36px;
+}
+.testimonial-first-slider .item blockquote p:before {
+	display: none;
+}
+.personal-title-row ul {
+	margin-top: 25px;
+}
+.specific-formula-title p {
+	font-size: 18px;
+	line-height: 30px;
+	color: #6d70a0;
+}
+.testimonial-page .carousel-inner h1.text-center {
+	font-weight: 700;
+	margin: 20px 0 30px 0;
+}
+.stories-page .carousel-inner h1.text-center {
+	font-family: "AcromMedium";
+}
+.testimonial-page .main-menu-inner li a {
+	color: #161e5c;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.testimonial-page li.find-formula-btn a {
+	border: 1px solid #161e5c;
+	color: #161e5c;
+}
+.testimonial-page .fixed-theme li.find-formula-btn a {
+	border-color: #161e5c;
+}
+.testimonial-first-slider #quote-carousel {
+	padding: 52px 40px 30px 40px;
+}
+.testimonial-page li.find-formula-btn .fa {
+	color: #161e5c;
+}
+.testimonial-page .navbar-container {
+	padding: 9px 0 20px 0;
+}
+.energy-main-heading h2 {
+	font-size: 22px;
+	font-weight: 700;
+}
+/*end-stories-page*/
+.left-tab-row {
+	margin-top: 64px;
+}
+.racetams-title h3 {
+	font-size: 14px;
+	font-weight: 700;
+	margin: 0;
+	font-family: "AcromMedium";
+}
+.panel-heading a > span,
+.panel-heading span{
+	font-size: 14px;
+	font-weight: 700;
+	color: #6d70a0;
+	font-family: "AcromMedium";
+	padding: 18px 0px 10px;
+	display: inline-block;
+}
+.mob-tab-racetams .panel-heading a > span,
+.mob-tab-racetams .panel-heading span{
+	font-size: 14px;
+	font-weight: 700;
+	color: #6d70a0;
+	font-family: "AcromMedium";
+	padding: 0;
+}
+.left-tab-row .panel-default > .panel-heading {
+	color: #333;
+	background-color: #fff;
+	border-color: #fff;
+	padding: 0;
+}
+.racetams-title {
+	padding: 36px 0;
+}
+.oxiracetam-tab {
+	margin: 0px 0 0 0;
+}
+.oxiracetam-tab .active > a {
+	color: #8343d5;
+}
+.oxiracetam-tab ul li {
+	margin-bottom: 5px;
+	list-style: none;
+	margin-left: 20px;
+}
+.oxiracetam-tab ul li a {
+	color: #6d70a0;
+	font-size: 12px;
+	text-decoration: none;
+}
+.ingredient-page .tab-content {
+	padding-left: 60px;
+	margin-top: 60px;
+}
+.left-tab-row .panel-default > .panel-heading + .panel-collapse > .panel-body {
+	border-top: 0;
+	padding: 0;
+}
+.left-tab-row .glyphicon-chevron-down {
+	color: #8343d5;
+}
+.left-tab-row .glyphicon-chevron-right {
+	color: #e2e0ee;
+}
+i.more-less-icon {
+	float: right;
+	margin-right: 10px;
+}
+.left-tab-row .panel-group .panel {
+	border-radius: 0;
+	border-top: 2px solid #e2e0ee !important;
+	border: 0;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0);
+}
+.left-tab-row .panel-heading a {
+	width: 100%;
+	display: inline-block;
+	padding: 18px 0 10px;
+}
+.left-tab-row .panel-heading a:hover {
+	text-decoration: none;
+}
+.left-tab-row.stick {
+	position: fixed;
+	top: 0;
+	z-index: 10;
+	border-radius: 0 0 0.5em 0.5em;
+	width: 18.33%;
+	margin: 120px 0 0 0;
+}
+.content-holder {
+	margin-left: 225px;
+}
+#ingredient-bluestrip {
+	width: 100%;
+	background: #ccc;
+	z-index: 999999;
+}
+.active-nav {
+	border-bottom: 4px solid #8343d5;
+}
+.science-page .cls-1 {
+	fill: #fff;
+}
+.home-slider-bg {
+	background: #f6f6f6;
+}
+.faq-page i.more-less-faq2 {
+	position: absolute;
+	right: 25px;
+	top: 16px;
+}
+.faq-page .faq-section .panel-title a > span {
+	width: auto;
+	float: left;
+	font-size: 26px;
+	font-weight: normal;
+	color: #161e5c;
+	font-family: "Merriweather", serif;
+	line-height: 35px;
+	padding-right: 40px;
+}
+.more-less-faq2.fa {
+	font-size: 50px;
+}
+.fa-angle-right {
+	color: #a7a9c6;
+}
+.formula-accord3 span {
+	color: #161e5c !important;
+	font-weight: normal !important;
+}
+.product-page .formula-accord.faq-section span {
+	color: #161e5c !important;
+	font-weight: normal !important;
+}
+
+/*start-result-progress-bar*/
+.result-page .progress {
+	position: relative;
+	margin: 4px;
+	float: none;
+	text-align: center;
+	height: 57px;
+	background: #fff;
+	box-shadow: none;
+}
+.result-page .barOverflow {
+	/* Wraps the rotating .bar */
+	position: relative;
+	overflow: hidden; /* Comment this line to understand the trick */
+	width: 120px;
+	height: 53px; /* Half circle (overflow) */
+	margin-bottom: 0px; /* bring the numbers up */
+	display: inline-block;
+}
+.result-page .bar {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 120px;
+	height: 120px; /* full circle! */
+	border-radius: 50%;
+	box-sizing: border-box;
+	border: 5px solid #eee; /* half gray, */
+	border-bottom-color: #0bf; /* half azure */
+	border-right-color: #0bf;
+}
+/*end-result-progress-bar*/
+.metar-inner span {
+	font-size: 14px;
+	font-family: "AcromMedium";
+	color: #6d70a0;
+}
+.metar-inner lable {
+	width: 100%;
+	display: inline-block;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: "AcromMedium";
+	color: #6d70a0;
+}
+.barOverflow img {
+	margin-top: 20px;
+}
+.result-page .main-metar .bar {
+	width: 650px;
+	height: 300px;
+}
+.result-page .main-metar .progress {
+	height: 300px;
+}
+.result-page .main-metar .barOverflow {
+	width: 650px;
+	height: 300px;
+	font-size: 100px;
+	color: #161e5c;
+}
+.result-page .main-metar .bar {
+	width: 650x;
+	height: 650px;
+}
+.main-metar .barOverflow span {
+	margin-top: 150px;
+	display: inline-block;
+	font-size: 100px;
+	color: #161e5c;
+}
+.main-metar .metar-inner {
+	margin-bottom: 11px;
+}
+.readmore {
+	display: none;
+}
+.mob-tab-racetams {
+	display: none;
+}
+.reference-links p {
+	float: left;
+	clear: both;
+	font-size: 12px;
+}
+.reference-links span {
+	float: right;
+	font-size: 12px;
+}
+.reference-links {
+	margin: 28px 0px 26px;
+	width: 428px;
+}
+.ingredients-referrences-row {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 32px;
+}
+.topscroll {
+	color: #999;
+	font-size: 16px;
+	line-height: 0;
+	margin-bottom: 30px;
+	display: inline-block;
+}
+.backtotop i.glyphicon.glyphicon-chevron-up {
+	display: inline-block;
+	width: 100%;
+	color: #999;
+}
+.ingredient-name p > b {
+	color: #161e5c;
+}
+.ingredients,
+.ingredients2 .ingredient1 {
+	border-bottom: 1px solid #a8a9c7;
+	display: inline-block;
+	width: 100%;
+}
+.ingredients3 .ingredient1 {
+	border-bottom: 0;
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 70px;
+}
+.faq-page i.more-less-faq1 {
+	position: absolute;
+	right: 25px;
+	font-size: 50px;
+	/* top: 15px; */
+}
+.data-users-inner ul {
+	margin-top: 25px;
+	display: inline-block;
+	width: 388px;
+}
+.readmore h3 {
+	display: inline-block;
+	cursor: pointer;
+	font-family: "AcromMedium";
+}
+.readmore .more-less-icon {
+	font-size: 19px;
+	margin: 2px 0px 0 6px;
+}
+
+.rotate.down {
+	-moz-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+.contect-withus-text a {
+	color: #6d70a0;
+}
+.reference-studyCont {
+	float: left;
+	width: 95%;
+	display: inline-block;
+}
+span.reference-index {
+	float: left;
+	width: 20px;
+	margin-top: 2px;
+}
+.reference-cont {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.ref-studyAuthor {
+	font-size: 16px;
+	color: #4a4286;
+	line-height: 26px;
+}
+canvas#base-score-chart {
+	width: 415px !important;
+	height: 198px !important;
+}
+.goal-score-container:last-child {
+	margin-right: 0;
+}
+.piracetam-row p > a {
+	color: #8343d5;
+}
+.piracetam-row p {
+	color: #6d70a0;
+}
+.goal-score-container {
+	float: left;
+	margin-right: 36px;
+	margin-bottom: 14px;
+}
+.innner-chart {
+	height: 70px !important;
+	width: 136px !important;
+}
+.chart-base {
+	font-size: 14px;
+	font-weight: bold;
+	color: #6d70a0;
+}
+.chart-label-full {
+	color: #6d70a0;
+}
+
+.chart-icon-sleep {
+	background-image: url(../fonts/formula-results-sleep-icon.svg);
+	top: -25px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 42px;
+	height: 15px;
+}
+.chart-icon-energy {
+	background-image: url(../fonts/formula-results-energy-icon.svg);
+	top: -42px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 30px;
+	height: 32px;
+}
+.chart-icon-focus {
+	background-image: url(../fonts/formula-results-focus-icon.svg);
+	top: -30px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 42px;
+	height: 19px;
+}
+.chart-icon-motivation {
+	background-image: url(../fonts/formula-results-motivation-icon.svg);
+	top: -45px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 30px;
+	height: 33px;
+}
+.chart-icon-mood {
+	background-image: url(../fonts/formula-results-mood-icon.svg);
+	top: -42px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 35px;
+	height: 32px;
+}
+.chart-icon-memory {
+	background-image: url(../fonts/formula-results-memory-icon.svg);
+	top: -40px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 38px;
+	height: 28px;
+}
+.chart-label {
+	margin-top: -7px;
+}
+div#goal-score-container-motivation .chart-base {
+	margin-top: -25px;
+}
+#goal-score-container-energy .chart-base {
+	margin-top: -24px;
+}
+div#goal-score-container-focus .chart-base {
+	margin-top: -11px;
+}
+div#goal-score-container-mood .chart-base {
+	margin-top: -26px;
+}
+div#goal-score-container-memory .chart-base {
+	margin-top: -20px;
+}
+.chart-label.chart-label-top {
+	font-size: 72px;
+	margin-top: -83px;
+	font-family: "AcromMedium";
+}
+.chart-label {
+	font-family: "AcromMedium";
+}
+.chart-base {
+	font-family: "AcromMedium";
+	letter-spacing: 2px;
+}
+.goal-scores-container {
+	display: inline-block;
+	width: 100%;
+}
+
+.loader-container .status {
+	font-size: 22px;
+	text-transform: uppercase;
+	color: #41d8d8;
+	width: 100%;
+	position: absolute;
+	top: 2%;
+	left: 0;
+	letter-spacing: 2px;
+	font-family: "AcromMedium";
+	font-weight: bold;
+}
+.loader-container {
+	font-size: 48px;
+	position: relative;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	line-height: 48px;
+	margin: auto;
+	font-family: "Merriweather", serif;
+}
+.loader-container span {
+	color: #41d8d8;
+	font-size: 0.9em;
+}
+.quiz-page {
+	background: #161e5c;
+	height: 100vh;
+}
+.quiz-heading {
+	position: relative;
+	top: 260px;
+}
+.quiz-text {
+	margin-top: 290px;
+}
+.goals {
+	color: #41d8d8;
+	font-size: 0.9em;
+}
+.checkMarks-cont li .fa {
+	margin-right: 10px;
+	color: #161e5c;
+}
+.checkMarks-cont ul li {
+	padding: 4px 0px;
+	text-align: left;
+	list-style: none;
+	color: #161e5c;
+}
+.checkMarks-cont {
+	background: #e2e0ee;
+	position: absolute;
+	top: 135px;
+	right: 0;
+	padding: 13px 24px 5px;
+}
+.desktop-slider {
+	position: relative;
+}
+.racetams-inner ul li {
+	display: flex;
+}
+.container.agi-container {
+	width: 960px;
+}
+.energy-main-heading img {
+	height: 38px;
+	width: 38px;
+}
+.achievements-section {
+	display: flex;
+}
+section.influencerSocialMedia {
+	text-align: center;
+	background: #fafafa;
+}
+.agi-container h3 {
+	display: inline-block;
+	width: 170px;
+	font-size: 22px;
+	line-height: 28px;
+	font-weight: bold;
+	margin: 0 0 30px 0;
+}
+.achievements-section span {
+	margin-left: 20px;
+	padding: 4px 0 0 0;
+	font-size: 12px;
+	color: #161e5c;
+}
+.agi-container .energy-main-heading {
+	margin: 0px 0 18px 0;
+}
+.influencerSocialMedia-container .energy-main-heading {
+	margin: 0px 0 0px 0;
+}
+section.achievements-goals-interests {
+	background: #fff;
+	padding: 68px 0 72px 0;
+	border-bottom: 1px solid #a8aac6;
+}
+.influencerSocialMedia-container .fa {
+	font-size: 30px;
+	margin: 12px 0 69px 0;
+}
+.name-row a:hover {
+	text-decoration: none;
+}
+.ingredient-page .Get-starter-heading {
+	margin: 9px 0px 24px 0;
+}
+.formula-accord .panel-title p {
+	font-size: 26px !important;
+	font-family: "Merriweather", serif;
+	color: #161e5c;
+}
+.desktop-formula-accord .panel-title p {
+	font-family: "AcromMedium";
+}
+.formula-accord.formula-accord3 .panel-title p {
+	font-family: "Merriweather", serif;
+}
+.product-page .Get-starter-heading {
+	margin: 0px 0px 20px 0;
+}
+.product-page .get-buy-tab ul li a {
+	font-family: "AcromMedium" !important;
+}
+.thankyou-page .main-menu-inner li a {
+	color: #6d70a0;
+}
+.thankyou-page .cls-1 {
+	fill: #161e5c !important;
+}
+.thankyou-page .product-header-bg li.find-formula-btn a {
+	border: 1px solid #83b9d5 !important;
+	color: #83b9d5 !important;
+}
+.thankyou-page .navbar-fixed-top {
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+.thankyou-page .main-heading-delivery {
+	margin: 65px 0 69px 0px;
+	text-align: center;
+}
+.thankyou-page .main-heading-delivery h2 {
+	font-size: 26px;
+}
+.thankyou-page .container {
+	width: 1170px;
+}
+
+/*start-20-5-2019*/
+.ingredients-page .Get-starter-heading {
+	margin: 20px 0px 20px 0;
+}
+h4.dr-name2 {
+	width: 329px;
+}
+.specific-inner {
+	float: left;
+}
+.buy-price h2 > del {
+	margin-right: 20px;
+}
+.mobile-product-tab {
+	display: none;
+}
+/*end-20-5-2019*/
+
+/*end-23-5-2019*/
+
+.checkout-full-row {
+	margin-bottom: 74px;
+}
+.stories-page .energy-main-heading {
+	margin: 0px 0 0 0;
+}
+.stories-page section.formulaQuote {
+	padding: 50px 0 25px 0;
+	display: inline-block;
+	width: 100%;
+}
+/*end-23-5-2019*/
+
+.medical-qust p {
+	font-size: 18px;
+	color: #161e5c;
+	margin-bottom: 22px;
+}
+.medical-qust h3 {
+	font-size: 20px;
+	line-height: 30px;
+	margin: 35px 0;
+	font-family: "AcromMedium";
+}
+h2.disclaimer-heading {
+	font-size: 25px;
+	font-family: "AcromMedium";
+	margin: 34px 0 0 0;
+}
+.main-medical-heading.text-center h1 {
+	font-size: 30px;
+	font-family: "AcromMedium";
+	margin: 41px 0 31px 0;
+}
+.disclaimer-heading h3 {
+	font-family: "AcromMedium";
+	font-size: 20px;
+}
+.disclaimer-heading h2 {
+	font-family: "AcromMedium";
+	font-size: 28px;
+}
+.disclaimer-heading p {
+	font-size: 18px;
+	color: #161e5c;
+}
+
+.privacy-page .main-medical-heading.text-center h3 {
+	font-size: 20px;
+	font-family: "AcromMedium";
+	margin-bottom: 26px;
+}
+.privacy-page .main-medical-heading.text-center h1 {
+	margin: 41px 0 20px 0;
+}
+.privancy-text-inner p {
+	font-size: 18px;
+	color: #161e5c;
+	margin-bottom: 22px;
+}
+.privacy-page .privancy-text-inner p:last-child {
+	margin-bottom: 46px;
+}
+.privancy-text-inner h3 {
+	font-size: 20px;
+	font-family: "AcromMedium";
+}
+
+.terms-page .main-medical-heading.text-center h3 {
+	font-size: 20px;
+	font-family: "AcromMedium";
+	margin-bottom: 26px;
+}
+.terms-page .privacy-page .main-medical-heading.text-center h1 {
+	margin: 41px 0 20px 0;
+}
+.terms-page .privancy-text-inner p {
+	font-size: 18px;
+	color: #161e5c;
+	margin-bottom: 22px;
+}
+.terms-page .privacy-page .privancy-text-inner p:last-child {
+	margin-bottom: 46px;
+}
+.terms-page .privancy-text-inner h3 {
+	font-size: 20px;
+	font-family: "AcromMedium";
+}
+
+.stories-page .specific-formula-title h1 p {
+	font-size: 30px;
+	font-family: "Merriweather", serif;
+	color: #11275b;
+	line-height: 36px;
+}
+.specific-formula-title h4 {
+	font-size: 16px;
+	text-transform: uppercase;
+	font-family: 'WorkSans-Regular', sans-serif;
+	float: left;
+	margin-right: 15px;
+	margin-top: 4px;
+}
+.specific-formula-title h4:last-child {
+	color: #908f90;
+	margin-right: 0 !important;
+	font-size: 14px;
+	padding-top: 2px;
+}
+.stories-page .itout-bg {
+	line-height: 76px !important;
+}
+.stories-page .find-btn.mian-header-title {
+	display: inline-block;
+	margin-top: 10px !important;
+}
+.stories-page .specific-formula-title h4:nth-child(4) {
+	color: #999 !important;
+	margin-right: 0;
+}
+.star-reviews-inner p a {
+	color: #6d70a0;
+}
+.star-reviews-inner p a:hover {
+	text-decoration: none;
+}
+h1.client-name {
+	text-align: center;
+	font-family: "AcromMedium";
+	font-size: 40px;
+	margin: 0px 0 42px 0;
+}
+.stories-page .client-name-padd {
+	margin-top: 0px !important;
+}
+h1.top-client-name {
+	text-align: center;
+}
+h1.top-client-name p {
+	text-align: center;
+	font-family: "AcromMedium";
+	font-size: 40px;
+	margin: 0px 0 42px 0;
+	color: #161e5c;
+	display: inline-block;
+}
+.testimonial-first-slider .top-client-name-row #quote-carousel {
+	padding: 5px 40px 30px 40px;
+}
+.top-client-name .main-heading {
+	display: inline-block;
+	margin-left: 10px;
+}
+.top-client-name .main-heading {
+	font-size: 30px;
+}
+.client-name {
+	text-align: center;
+}
+.client-name .main-heading {
+	display: inline-block;
+	margin-left: 10px;
+}
+.client-name .main-heading .fa {
+	font-size: 30px;
+}
+h1.stories-formulas-heading {
+	margin: 0 0 30px 0;
+	text-align: center;
+	font-size: 40px;
+	font-family: "AcromMedium";
+	text-transform: uppercase;
+}
+.piracetam-row .piracetam-mob {
+	float: none;
+	clear: both;
+	display: none;
+}
+h3.freeshipping {
+	margin: 0;
+	position: relative;
+	top: -24px;
+	font-size: 20px;
+	font-family: "AcromMedium";
+	color: #fff;
+}
+.fixed-theme h3.freeshipping {
+	color: #6d70a0;
+}
+h3.freeshipping1 {
+	margin: 0;
+	position: relative;
+	top: -24px;
+	font-size: 20px;
+	font-family: "AcromMedium";
+	color: #6d70a0;
+}
+.fixed-theme h3.freeshipping1 {
+	color: #6d70a0;
+}
+.science-page h3.freeshipping1 {
+	color: #fff;
+}
+.science-page .fixed-theme h3.freeshipping1 {
+	color: #6d70a0;
+}
+.about-page h3.freeshipping1 {
+	color: #161e5c;
+}
+.about-page .fixed-theme h3.freeshipping1 {
+	color: #161e5c;
+}
+
+#review-desktop {
+	display: block;
+	position: relative;
+	top: -250px;
+	visibility: hidden;
+}
+
+#review-mobile {
+	display: block;
+	position: relative;
+	top: -100px;
+	visibility: hidden;
+}

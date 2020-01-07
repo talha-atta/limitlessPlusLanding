@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg5212"
+   viewBox="0 0 78.505032 28.010882"
+   height="7.9052935mm"
+   width="22.155865mm">
+  <defs
+     id="defs5214">
+    <clipPath
+       id="clipPath672"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path674"
+         d="m 0,6279.769 1920,0 L 1920,0 0,0 0,6279.769 Z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5217">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-423.60465,-1484.071)"
+     id="layer1">
+    <g
+       transform="matrix(1.25,0,0,-1.25,429.7334,1486.4493)"
+       id="g208">
+      <path
+         id="path210"
+         style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c 7.174,-6.472 16.364,-10.013 26.097,-10.013 9.733,0 18.922,3.541 26.096,10.013 2.73,2.249 4.318,1.414 4.318,1.414 C 56.886,1.039 57.097,0.53 57.097,0 c 0,-0.53 -0.211,-1.039 -0.586,-1.414 -8.124,-8.124 -18.925,-12.599 -30.414,-12.599 -11.489,0 -22.29,4.475 -30.414,12.599 -0.375,0.375 -0.586,0.884 -0.586,1.414 0,0.53 0.211,1.039 0.586,1.414 0,0 1.782,1.765 4.317,-1.414" />
+    </g>
+    <g
+       id="g668"
+       transform="matrix(1.25,0,0,-1.25,-1554.5973,8161.4474)">
+      <g
+         clip-path="url(#clipPath672)"
+         id="g670">
+        <g
+           transform="translate(1643.5803,5330.1343)"
+           id="g676">
+          <path
+             id="path678"
+             style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c -0.465,-0.008 -0.933,0.161 -1.294,0.51 l -3.232,3.12 c -0.722,0.697 -0.742,1.847 -0.045,2.569 0.697,0.722 1.847,0.742 2.569,0.045 L 1.23,3.124 C 1.952,2.427 1.973,1.277 1.275,0.555 0.927,0.193 0.465,0.008 0,0" />
+        </g>
+        <g
+           transform="translate(1629.7688,5322.8511)"
+           id="g680">
+          <path
+             id="path682"
+             style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 C -0.434,0.167 -0.804,0.499 -1.008,0.958 L -2.831,5.063 C -3.239,5.98 -2.826,7.054 -1.908,7.462 -0.991,7.869 0.083,7.456 0.49,6.538 L 2.313,2.433 C 2.721,1.516 2.308,0.442 1.39,0.035 0.932,-0.169 0.434,-0.167 0,0" />
+        </g>
+        <g
+           transform="translate(1585.3406,5329.1099)"
+           id="g684">
+          <path
+             id="path686"
+             style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c 0.465,0.008 0.926,0.193 1.275,0.555 l 3.12,3.232 C 5.092,4.509 5.072,5.658 4.35,6.355 3.628,7.053 2.478,7.033 1.781,6.311 L -1.339,3.079 C -2.037,2.356 -2.016,1.207 -1.294,0.51 -0.933,0.161 -0.465,-0.008 0,0" />
+        </g>
+        <g
+           transform="translate(1599.3997,5322.3169)"
+           id="g688">
+          <path
+             id="path690"
+             style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 C 0.428,0.182 0.786,0.527 0.973,0.993 L 2.651,5.16 C 3.026,6.091 2.576,7.149 1.645,7.524 0.713,7.899 -0.345,7.448 -0.72,6.518 L -2.397,2.35 C -2.772,1.419 -2.322,0.361 -1.391,-0.014 -0.925,-0.201 -0.428,-0.183 0,0" />
+        </g>
+        <g
+           transform="translate(1615.3972,5319.4927)"
+           id="g692">
+          <path
+             id="path694"
+             style="fill:#161e5c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c -1.003,-0.018 -1.832,0.782 -1.849,1.785 l -0.088,5.037 c -0.018,1.004 0.781,1.831 1.784,1.85 C 0.851,8.689 1.679,7.89 1.696,6.887 L 1.785,1.85 C 1.802,0.846 1.003,0.019 0,0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

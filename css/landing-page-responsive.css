@@ -1,0 +1,27 @@
+@media (min-width: 992px) and (max-width: 1180px){
+
+}
+/*-----------end-(min-width: 992px) and (max-width: 1180px)-------------*/
+
+/*-----------start-(min-width: 768px) and (max-width: 991px)-------------*/
+
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+/*-----------end-(min-width: 768px) and (max-width: 959px)-------------*/
+
+/*-----------start-(max-width: 959px)-------------*/
+
+@media (max-width: 767px){
+
+}
+
+/*-----------end-(max-width: 767px)-------------*/
+
+/*-----------start-(max-width: 480px)-------------*/
+
+@media (max-width: 480px){
+ 
+}
+
+/*-----------end-(max-width: 480px)-------------*/
