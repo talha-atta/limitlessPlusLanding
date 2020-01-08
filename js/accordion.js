@@ -1,5 +1,6 @@
 /*!
- * VERSION: 1.18.0
+
+* VERSION: 1.18.0
  * DATE: 2015-09-05
  * UPDATES AND DOCS AT: http://greensock.com
  * 

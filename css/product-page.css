@@ -2235,7 +2235,7 @@ img.mob-mainlogo1.img-responsove {
 .everyone-row h2 {
 	font-size: 40px;
 	font-weight: bold;
-	font-family: "AcromMedium";
+	font-family: inherit !important;
 	line-height: 50px;
 	color: #fff;
 }
